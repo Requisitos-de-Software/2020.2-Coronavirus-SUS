@@ -1,7 +1,7 @@
 # Coronavírus SUS
 
 <div align="center">
-  <img src="docs/assets/icons/aplicativo_coronavirus_sus-18919088.png">
+  <img src="../../docs/assets/icons/aplicativo_coronavirus_sus-18919088.png">
 </div>
 
 <br />
@@ -17,12 +17,12 @@ Após uma reunião realizada pela equipe, foi decidido que o aplicativo do gover
 
 | Icone | Nome | Função | 
 |:--:|:--:|:--:| 
-| <img src="docs/assets/icons/github.png"> | GitHub | Controle de versão e Projects para listagem de atividades | 
-| <img src="docs/assets/icons/telegram.png"> | Telegram | Principal meio de comunicação entre os membros da equipe | 
-| <img src="docs/assets/icons/discord.png"> | Discord | Reuniões sícronas com a equipe | 
-| <img src="docs/assets/icons/VSCode.png"> | Visual Studio Code | Principal IDE da equipe | 
-| <img src="docs/assets/icons/drive.png"> | Google Drive | Armazenamento de documentos | 
-| <img src="docs/assets/icons/figma.png"> | Figma | Prototipagem | 
+| <img src="../../docs/assets/icons/github.png"> | GitHub | Controle de versão e Projects para listagem de atividades | 
+| <img src="../../docs/assets/icons/telegram.png"> | Telegram | Principal meio de comunicação entre os membros da equipe | 
+| <img src="../../docs/assets/icons/discord.png"> | Discord | Reuniões sícronas com a equipe | 
+| <img src="../../docs/assets/icons/VSCode.png"> | Visual Studio Code | Principal IDE da equipe | 
+| <img src="../../docs/assets/icons/drive.png"> | Google Drive | Armazenamento de documentos | 
+| <img src="../../docs/assets/icons/figma.png"> | Figma | Prototipagem | 
 
 
 # Cronograma de Atividades
@@ -53,3 +53,4 @@ Aplicação da metodologia será feita da seguinte forma de acordo com os valore
 | Autor | Data | Título | Versão |
 |--|--|--|--|
 | Todos os integrantes | 18/02/2021 | Criação do Documento de planejamento | 1.0 |
+| Hugo | 18/02/2021 | Consertando links para imagens | 1.1 |
