@@ -13,7 +13,7 @@ Este repositório é destinado ao grupo 5 - Coronavírus SUS irá conter toda a 
 
 O Ministério da Saúde do Brasil lança o app Coronavírus-SUS com o objetivo de conscientizar a população sobre o Corona Vírus COVID-19, para isso o aplicativo conta com as seguintes funcionalidades:
 
-- Por conta da funcionalidade de contact-tracing o aplicativo é compatível apenas em Iphone versào 13.5 ou superior.
+- Por conta da funcionalidade de contact-tracing o aplicativo é compatível apenas em Iphone versão 13.5 ou superior.
 
 - Informativos de diversos tópicos como os sintomas, como se prevenir, o que fazer em caso de suspeita e infecção e etc;
 
