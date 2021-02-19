@@ -1,8 +1,7 @@
 # Coronavírus SUS
 
 <div align="center">
-  <!-- <img src= "docs/assets/logos/Promobit.png"/> -->
-  Logo do app
+  <img width="300" height="300" src= "docs/assets/logos/Promobit.png"/>
 </div>
 
 <br />
