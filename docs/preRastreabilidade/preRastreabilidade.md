@@ -7,7 +7,7 @@
 Primeira versão de Rich Picture do Corornavírus - SUS, Feita a mão.
 
 <div align="center">
-  <img src"https://github.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/blob/master/docs/assets/richPicture/richpicture1.0_digitalizado.jpg"/>
+  <img src="../assets/richPicture/richPictureDigitalizado1.0.jpg">
 </div>
 
 Autor: Kleidson Alves
