@@ -1,7 +1,7 @@
 # Coronavírus SUS
 
 <div align="center">
-  <img width="300" height="300" src= "docs/assets/logos/Promobit.png"/>
+  <img width="300" height="300" src= "docs/assets/icons/aplicativo_coronavirus_sus-18919088.png"/>
 </div>
 
 <br />
