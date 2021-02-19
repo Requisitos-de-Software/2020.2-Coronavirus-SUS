@@ -1,7 +1,7 @@
 # Coronavírus SUS
 
 <div align="center">
-  <img src="../../docs/assets/icons/aplicativo_coronavirus_sus-18919088.png">
+  <img width="300" height="300" src="../../docs/assets/icons/aplicativo_coronavirus_sus-18919088.png">
 </div>
 
 <br />
@@ -55,3 +55,4 @@ Aplicação da metodologia será feita da seguinte forma de acordo com os valore
 | Todos os integrantes | 18/02/2021 | Criação do Documento de planejamento | 1.0 |
 | Hugo | 18/02/2021 | Consertando links para imagens | 1.0.1 |
 | Hugo | 18/02/2021 | Regulando tamanho dos icones de ferramentas | 1.0.2 |
+| Hugo | 18/02/2021 | Atualizando alinhamento do Readme | 1.0.3 |
