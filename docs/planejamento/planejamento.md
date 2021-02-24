@@ -13,7 +13,7 @@ Após uma reunião realizada pela equipe, foi decidido que o aplicativo do gover
 
 <br />
 
-# Ferramentas
+## Ferramentas
 
 | Icone | Nome | Função | 
 |:--:|:--:|:--:| 
@@ -25,7 +25,7 @@ Após uma reunião realizada pela equipe, foi decidido que o aplicativo do gover
 | <img width="150" height="150" src="../../docs/assets/icons/figma.png"> | Figma | Prototipagem | 
 
 
-# Cronograma de Atividades
+## Cronograma de Atividades
 
 | Atividade | Data |
 |:--:|:--:|
@@ -39,7 +39,7 @@ Após uma reunião realizada pela equipe, foi decidido que o aplicativo do gover
 | Análise | 01/04 - 14/04  |
 | Pós Rastreabilidade | 15/04 - 01/05  |
 
-# Metodologia
+## Metodologia
 
 A metodologia escolhida pela equipe para ser utilizada no projeto foi a Extreme Programming (XP). pois algumas características dessa metodologia julgamos ser apropriada para a nossa equipe. Por exemplo, o fato de ser uma metodologia ágil, por ser aplicável a uma equipe pequena e algumas regras e valores pregados por tal metodologia.
 
@@ -49,6 +49,8 @@ Aplicação da metodologia será feita da seguinte forma de acordo com os valore
 - Reuniões semanais para acompanhamento do progresso do desenvolvimento
 - Comprometimento e responsabilidade de cada membro da equipe em relação a tarefa designada
 - Adaptações de acordo com o feedback feito durante as reuniões
+
+## Versão
 
 | Autor | Data | Título | Versão |
 |--|--|--|--|
