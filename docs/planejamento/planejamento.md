@@ -1,7 +1,7 @@
-# Coronavírus SUS
+# Planejamento
 
 <div align="center">
-  <img width="300" height="300" src="../../docs/assets/icons/aplicativo_coronavirus_sus-18919088.png">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/appLogo.png">
 </div>
 
 <br />
@@ -13,19 +13,19 @@ Após uma reunião realizada pela equipe, foi decidido que o aplicativo do gover
 
 <br />
 
-# Ferramentas
+## Ferramentas
 
 | Icone | Nome | Função | 
 |:--:|:--:|:--:| 
-| <img width="150" height="150" src="../../docs/assets/icons/github.png"> | GitHub | Controle de versão e Projects para listagem de atividades | 
-| <img width="150" height="150" src="../../docs/assets/icons/telegram.png"> | Telegram | Principal meio de comunicação entre os membros da equipe | 
-| <img width="150" height="150" src="../../docs/assets/icons/discord.png"> | Discord | Reuniões sícronas com a equipe | 
-| <img width="150" height="150" src="../../docs/assets/icons/VSCode.png"> | Visual Studio Code | Principal IDE da equipe | 
-| <img width="150" height="150" src="../../docs/assets/icons/drive.png"> | Google Drive | Armazenamento de documentos | 
-| <img width="150" height="150" src="../../docs/assets/icons/figma.png"> | Figma | Prototipagem | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/github.png"> | GitHub | Controle de versão e Projects para listagem de atividades | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/telegram.png"> | Telegram | Principal meio de comunicação entre os membros da equipe | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/discord.png"> | Discord | Reuniões sícronas com a equipe | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/VSCode.png"> | Visual Studio Code | Principal IDE da equipe | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/drive.png"> | Google Drive | Armazenamento de documentos | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/figma.png"> | Figma | Prototipagem | 
 
 
-# Cronograma de Atividades
+## Cronograma de Atividades
 
 | Atividade | Data |
 |:--:|:--:|
@@ -39,7 +39,7 @@ Após uma reunião realizada pela equipe, foi decidido que o aplicativo do gover
 | Análise | 01/04 - 14/04  |
 | Pós Rastreabilidade | 15/04 - 01/05  |
 
-# Metodologia
+## Metodologia
 
 A metodologia escolhida pela equipe para ser utilizada no projeto foi a Extreme Programming (XP). pois algumas características dessa metodologia julgamos ser apropriada para a nossa equipe. Por exemplo, o fato de ser uma metodologia ágil, por ser aplicável a uma equipe pequena e algumas regras e valores pregados por tal metodologia.
 
@@ -50,6 +50,7 @@ Aplicação da metodologia será feita da seguinte forma de acordo com os valore
 - Comprometimento e responsabilidade de cada membro da equipe em relação a tarefa designada
 - Adaptações de acordo com o feedback feito durante as reuniões
 
+## Versão
 | Autor | Data | Título | Versão |
 |--|--|--|--|
 | Todos os integrantes | 18/02/2021 | Criação do Documento de planejamento | 1.0 |

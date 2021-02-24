@@ -1,7 +1,7 @@
 # Sobre o Projeto
 
 <div align="center">
-  <img width="300" height="300" src= "docs/assets/icons/aplicativo_coronavirus_sus-18919088.png"/>
+  <img width="300" height="300" src= "https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/appLogo.png"/>
 </div>
 
 <br />
@@ -25,15 +25,15 @@ O Ministério da Saúde do Brasil lança o app Coronavírus-SUS com o objetivo d
 
 <br/>
 
-# Contribuidores
+## Contribuidores
 
 |Foto | Matrícula | Nome | GitHub |
 |:--:|:--:|:--:|:--:|
-| <img width="150" height="150" src="docs/assets/contributors/GabrielBatalha.png"> | 18/0100840 |Gabriel Batalha |[gabriel-azevedo-batalha](https://github.com/gabriel-azevedo-batalha)| <!--batalha800@gmail.com
-| <img width="150" height="150" src="docs/assets/contributors/Hugo.png"> | 18/0113585 | Hugo Bezerra | [HB-fga](https://github.com/HB-fga)| <!--hugoricardo.so.be@gmail.com
-| <img width="150" height="150" src="docs/assets/contributors/Kleidson.png"> | 18/0113861 | Kleidson Alves | [kleidson-alves](https://github.com/kleidson-alves)| <!--kleidsonalves15@gmail.com
-| <img width="150" height="150" src="docs/assets/contributors/LucasGabriel.png"> | 18/0125770 | Lucas Gabriel | [lucasgbezerra](https://github.com/lucasgbezerra) | <!--lucasbsb100@gmail.com
-| <img width="150" height="150" src="docs/assets/contributors/LucasRodrigues.png"> | 18/0114077| Lucas Rodrigues| [lucas229](https://github.com/lucas229)| <!--lucasro229@gmail.com
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/contributors/GabrielBatalha.png"> | 18/0100840 |Gabriel Batalha |[gabriel-azevedo-batalha](https://github.com/gabriel-azevedo-batalha)| <!--batalha800@gmail.com
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/contributors/Hugo.png"> | 18/0113585 | Hugo Bezerra | [HB-fga](https://github.com/HB-fga)| <!--hugoricardo.so.be@gmail.com
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/contributors/Kleidson.png"> | 18/0113861 | Kleidson Alves | [kleidson-alves](https://github.com/kleidson-alves)| <!--kleidsonalves15@gmail.com
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/contributors/LucasGabriel.png"> | 18/0125770 | Lucas Gabriel | [lucasgbezerra](https://github.com/lucasgbezerra) | <!--lucasbsb100@gmail.com
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/contributors/LucasRodrigues.png"> | 18/0114077| Lucas Rodrigues| [lucas229](https://github.com/lucas229)| <!--lucasro229@gmail.com
 
 <br />
 
