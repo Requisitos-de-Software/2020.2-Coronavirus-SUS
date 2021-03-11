@@ -1,14 +1,10 @@
 # Planejamento
 
-<div align="center">
-  <img width="300" height="300" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/appLogo.png">
-</div>
-
-<br />
-
+<p style="text-indent: 20px; text-align: justify"/> 
 Este repositório é destinado ao grupo 5 - Coronavírus SUS irá conter toda a documentação do projeto da disciplina de Requisitos de Software, ministrado pelo professor André Barros, na Universidade de Brasília - Gama, durante o período 2020/2.
 
 <br />
+<p style="text-indent: 20px; text-align: justify"/> 
 Após uma reunião realizada pela equipe, foi decidido que o aplicativo do governo Coronavírus - SUS seria o utilizado como objeto de estudo durante o curso. Os motivos que nos levaram a tal decisão se referem ao atual momento no qual estamos inseridos e a importância que o aplicativo pode ter na vida dos brasileiros. 
 
 <br />
@@ -54,3 +50,4 @@ Aplicação da metodologia será feita da seguinte forma de acordo com os valore
 | Autor | Data | Título | Versão |
 |--|--|--|--|
 | Todos os integrantes | 18/02/2021 | Criação do Documento de planejamento | 1.0 |
+| Hugo | 11/03/2020     | Removendo logo do app | 1.1 |

@@ -1,7 +1,7 @@
 # MosCow
 
 ## Definição
-<p style="text-indent: 20px; text-align: justify"/> 
+
 MoSCoW é uma técnica de priorização de 4 níveis de prioridade do requisito, sendo eles:
 
 * Must: O Requisito deve ser satisfeito para a solução ser bem sucedida;
@@ -10,10 +10,11 @@ MoSCoW é uma técnica de priorização de 4 níveis de prioridade do requisito,
 * Won’t:  O Requisito não deve ser implementado agora, mas pode estar em uma futura atualização.
 
 ### Por que utilizamos?
-<p style="text-indent: 20px; text-align: justify"/> 
+<div style="text-indent: 40px; text-align: justify"/>
 Utilizamos o MoSCoW por ter uma ideia simples e prática de ser aplicada e, portanto, suficiente para o escopo do projeto.
-<p style="text-indent: 20px; text-align: justify"/> 
+
 Devido o objetivo claro e específico da aplicação a técnica MoSCoW forneceu todas as ferramentas necessárias para priorizar devidamente os requisitos elicitados
+</div>
 
 ## Priorização dos Requisitos
 
@@ -79,7 +80,7 @@ RF14 |Apresentar notícias locais
 
 
 ## Referências
-> [color=#3057D3] BEATTY, Joy. WIEGERS, Karl. Software Requirements 3.ed. Data de acesso: 09 de março de 2020.
+> BEATTY, Joy. WIEGERS, Karl. Software Requirements 3.ed. Data de acesso: 09 de março de 2020.
 
 
 ## Versionamento
@@ -87,3 +88,4 @@ RF14 |Apresentar notícias locais
 | Autor     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Todos os integrantes | 09/03/2020     | Criação do Documento | 1.0 
+| Hugo | 11/03/2020     | Formatação e preparação para o github pages | 1.1 |

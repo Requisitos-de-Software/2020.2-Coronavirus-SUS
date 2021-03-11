@@ -1,12 +1,14 @@
 # Introspecção
 ## Definição
-<p style="text-indent: 20px; text-align: justify"/> 
+
+<div style="text-indent: 40px; text-align: justify"/>
 A técnica consiste em entender quais propriedades o sistema deve possuir para que seja um sucesso. Demanda o engenheiro de requisitos imaginar o que ele gostaria se ele tivesse que desempenhar uma dada tarefa com os equipamentos disponíveis e demais recursos.
-</p>
+</div>
 
 ### Por que utilizamos o Introspecção?
-<p style="text-indent: 20px; text-align: justify"/> 
-O uso da técnica de introspecção se deu pelo fato de ser uma técnica que estimula o pensamento criativo para desenvolver uma solução para o problema apresentado. Ao usá-la a equipe pôde se colocar no lugar do cliente com a finalidade de perceber quais requisitos seriam necessários para que o software atenda o que se espera. </p>
+<div style="text-indent: 40px; text-align: justify"/>
+O uso da técnica de introspecção se deu pelo fato de ser uma técnica que estimula o pensamento criativo para desenvolver uma solução para o problema apresentado. Ao usá-la a equipe pôde se colocar no lugar do cliente com a finalidade de perceber quais requisitos seriam necessários para que o software atenda o que se espera.
+</div>
 
 ## Resultados
 
@@ -24,10 +26,11 @@ O uso da técnica de introspecção se deu pelo fato de ser uma técnica que est
 
 ## Referências
 
-> [color=#3057D3]Elicitação de Requisitos. PUC-RIO. Disponível em: http://www2.dbd.puc-rio.br/pergamum/tesesabertas/0521479_08_cap_02.pdf. Data de acesso: 09 de março 2020.
+> Elicitação de Requisitos. PUC-RIO. Disponível em: http://www2.dbd.puc-rio.br/pergamum/tesesabertas/0521479_08_cap_02.pdf. Data de acesso: 09 de março 2020.
 
 ## Versionamento
 
 | Autor     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Todos os integrantes | 09/03/2020     | Criação do Documento | 1.0 |
+| Hugo | 11/03/2020     | Formatação e preparação para o github pages | 1.1 |

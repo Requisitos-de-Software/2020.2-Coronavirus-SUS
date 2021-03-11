@@ -1,17 +1,15 @@
 # Brainstorming
 ## Definição
-<p style="text-indent: 20px; text-align: justify"/>
+<div style="text-indent: 40px; text-align: justify"/>
 Brainstorming é uma técnica que, por meio do compartilhamento espontâneo de ideias, busca encontrar a solução para um problema ou gerar insights de criatividade. A ideia desse processo é dar vida à máxima “duas cabeças pensam melhor do que uma”.
-<p style="text-indent: 20px; text-align: justify"/>
-Sendo assim, é fundamental que o brainstorming envolva um número mais elevado de participantes, de preferência reunindo pessoas ativas na empresa, mas que tragam perspectivas diferentes. Essa pluralidade de ideias é o pilar da técnica. Para que seja bem-sucedido, o processo deve focar em quantidade, não em qualidade. </p>
 
-
+Sendo assim, é fundamental que o brainstorming envolva um número mais elevado de participantes, de preferência reunindo pessoas ativas na empresa, mas que tragam perspectivas diferentes. Essa pluralidade de ideias é o pilar da técnica. Para que seja bem-sucedido, o processo deve focar em quantidade, não em qualidade. 
+</div>
 
 ### Por que utilizamos o brainstorming?
-<p style="text-indent: 20px; text-align: justify; ">
+<div style="text-indent: 40px; text-align: justify"/>
 Por ser uma técnica que incentiva a criatividade na solução de problemas, sua utilização para a elicitação de requisitos se mostrou muito útil, produzindo diversas ideias com potencial para se tornarem requisitos para o sistema.
-
-</p>
+</div>
 
 ## Resultados
 
@@ -39,9 +37,10 @@ RNF06|Dados de usuário|O sistema não deve guardar nenhum dado identificador do
 |RF11|Localização das unidades de saúde mais próximas|O usuário deve poder acessar um mapa que exibe a localização das unidades de saúde mais próximas disponíveis para atendê-lo
 
 ## Referências
-> [color=#3057D3]O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes - Brasil 10 jul, 19. Disponível https://rockcontent.com/br/blog/brainstorming/ . Data de acesso: 09 de março de 2020.
+> O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes - Brasil 10 jul, 19. Disponível https://rockcontent.com/br/blog/brainstorming/ . Data de acesso: 09 de março de 2020.
 ## Versionamento
 
 | Autor     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Todos os integrantes | 09/03/2020     | Criação do Documento | 1.0 |
+| Hugo | 11/03/2020     | Formatação e preparação para o github pages | 1.1 |
