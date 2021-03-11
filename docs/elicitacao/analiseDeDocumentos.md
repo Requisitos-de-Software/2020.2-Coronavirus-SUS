@@ -1,9 +1,18 @@
 # Análise de documentos
+
+## Definição
 <p style="text-indent: 20px; text-align: justify">
 Análise de documentos trata de analisar documentos já existentes para buscar por potenciais requisitos. Os documentos mais úteis são especificação de requisitos, processos do negócios, coleções lessons-learned e manual do usuário de aplicações similares ou existentes. 
 </p>
 
-## Documento Analisado: [App Store](https://apps.apple.com/br/app/coronavírus-sus/id1408008382)
+### Por que utilizamos a Análise de documentos?
+<p style="text-indent: 20px; text-align: justify">
+    Por se tratar de um tema que está em alta,  muitas matérias jornalisticas são feitas com dados e informações, sobre o vírus e temas relacionados a ele. Isso gera muitos documentos passíveis de extração de informação, o que a equipe julgou como muito útil para a elicitação de documentos.
+</p>
+
+## Resultados
+
+### Documento Analisado: [App Store](https://apps.apple.com/br/app/coronavírus-sus/id1408008382)
 
 |Número|Nome|Descrição|
 |:--:|:--:|:--:|
@@ -15,7 +24,7 @@ RF03|Notícias sobre a COVID-19|O sistema deverá mostrar as notícias relaciona
 RF04| Testar possível infecção|O usuário deve poder verificar se os seus sintomas são compatíveis com os da COVID-19
 
 
-## Documento Analisado: [Play Store](https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes)
+### Documento Analisado: [Play Store](https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes)
 |Número|Nome|Descrição|
 |:--:|:--:|:--:|
 RNF02|Carregar informações do twitter|O sistema deve buscar atualizações de notícias a partir do twitter do Ministério da Saúde
@@ -25,7 +34,7 @@ RF02|Informativos sobre a COVID-19|O sistema deverá mostrar informações sobre
 RF03|Notícias sobre a COVID-19|O sistema deverá mostrar as notícias relacionadas ao vírus da COVID-19
 RF04|Testar possível infecção|O usuário deve poder verificar se os seus sintomas são compatíveis com os da COVID-19
 
-## Documento Analisado: [Youtube Ministério da saúde](https://www.youtube.com/watch?v=PjG_imUHTSI&ab_channel=MinistériodaSaúde)
+### Documento Analisado: [Youtube Ministério da saúde](https://www.youtube.com/watch?v=PjG_imUHTSI&ab_channel=MinistériodaSaúde)
 
 |Número|Nome|Descrição|
 |:--:|:--:|:--:|
@@ -36,7 +45,7 @@ RF04|Testar possível infecção|O usuário deve poder verificar se os seus sint
 |RF06|Validar código|O sistema deve ser capaz de validar o TOKEN disponibilizado pelo site Valida Coronavírus - SUS|
 
 
-## Documento Analisado: [App Coronavírus SUS - uol](https://www.uol.com.br/tilt/noticias/redacao/2020/07/31/app-coronavirus---sus-adiciona-rastreamento-de-contatos-entenda.htm)
+### Documento Analisado: [App Coronavírus SUS - uol](https://www.uol.com.br/tilt/noticias/redacao/2020/07/31/app-coronavirus---sus-adiciona-rastreamento-de-contatos-entenda.htm)
 
 |Número|Nome|Descrição|
 |:--:|:--:|:--:|
@@ -47,7 +56,7 @@ RF04|Testar possível infecção|O usuário deve poder verificar se os seus sint
 |RNF10|Dados de geolocalização|Não coleta dado de geolocalização 
 |RNF11|Troca de chaves por Bluetooth|O sistema deverá trocar chaves anônimas por Bluetooth com outros usuários
 
-## Documento Analisado: [Canaltech](https://canaltech.com.br/apps/como-usar-app-coronavirus-sus/)
+### Documento Analisado: [Canaltech](https://canaltech.com.br/apps/como-usar-app-coronavirus-sus/)
 
 |Número|Nome|Descrição|
 |:--:|:--:|:--:|
@@ -60,7 +69,7 @@ RF04|Testar possível infecção|O usuário deve poder verificar se os seus sint
 |RF09|Habilitar/Desabilitar notificação de exposição|O usuário poderá habilitar e desabilitar as notificação de exposição|
 |RF10|Compartilhar teste|O usuário deve poder compartilhar o teste positivo de COVID-19|
 
-## Documento Analisado: [Amplifica Digital](https://amplificadigital.com.br/blog/sus/)
+### Documento Analisado: [Amplifica Digital](https://amplificadigital.com.br/blog/sus/)
 
 |Número|Nome|Descrição|
 |:--:|:--:|:--:|
@@ -76,19 +85,19 @@ RF04|Testar possível infecção|O usuário deve poder verificar se os seus sint
 
 ## Referências: 
 
-> [color=#3057D3] REINEHR,Sheila.2020. ENGENHARIA DE REQUISITOS. 
+> REINEHR,Sheila.2020. ENGENHARIA DE REQUISITOS. 
 
-> [color=#3057D3]App Store Coronavírus - SU‪S‬. Disponível em: https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382. Data de acesso: 04/03/2020
+> App Store Coronavírus - SU‪S‬. Disponível em: https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382. Data de acesso: 04/03/2020
 
-> [color=#3057D3]Play Store Coronavírus - SU‪S‬. Disponível em: https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes. Data de acesso: 04/03/2020
+> Play Store Coronavírus - SU‪S‬. Disponível em: https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes. Data de acesso: 04/03/2020
 
-> [color=#3057D3]Aplicativo Coronavírus-SUS vai alertar contatos próximos de pacientes com Covid-19. Disponível em: [https://www.youtube.com/watch?](https://www.youtube.com/watch?v=PjG_imUHTSI&ab_channel=Minist%C3%A9riodaSa%C3%BAde). Data de acesso: 04/03/2020
+> Aplicativo Coronavírus-SUS vai alertar contatos próximos de pacientes com Covid-19. Disponível em: [https://www.youtube.com/watch?](https://www.youtube.com/watch?v=PjG_imUHTSI&ab_channel=Minist%C3%A9riodaSa%C3%BAde). Data de acesso: 04/03/2020
 
-> [color=#3057D3]Coronavírus - SUS. Disponível em: https://www.gov.br/pt-br/apps/coronavirus-sus. Data de acesso: 04/03/2020
+> Coronavírus - SUS. Disponível em: https://www.gov.br/pt-br/apps/coronavirus-sus. Data de acesso: 04/03/2020
 
-> [color=#3057D3]App Coronavírus SUS agora vai avisar quando usuário foi exposto; entenda. Disponível em: https://www.uol.com.br/tilt/noticias/redacao/2020/07/31/app-coronavirus---sus-adiciona-rastreamento-de-contatos-entenda.htm. Data de acesso: 04/03/2020
+> App Coronavírus SUS agora vai avisar quando usuário foi exposto; entenda. Disponível em: https://www.uol.com.br/tilt/noticias/redacao/2020/07/31/app-coronavirus---sus-adiciona-rastreamento-de-contatos-entenda.htm. Data de acesso: 04/03/2020
 
-> [color=#3057D3] Como usar o app do Coronavírus - SUS. Disponível em: https://canaltech.com.br/apps/como-usar-app-coronavirus-sus/. Data de acesso: 04/03/2020
+> Como usar o app do Coronavírus - SUS. Disponível em: https://canaltech.com.br/apps/como-usar-app-coronavirus-sus/. Data de acesso: 04/03/2020
 
 ## Versionamento
 
