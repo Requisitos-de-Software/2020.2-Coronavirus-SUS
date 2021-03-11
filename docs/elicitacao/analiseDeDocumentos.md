@@ -104,3 +104,4 @@ RF04|Testar possível infecção|O usuário deve poder verificar se os seus sint
 | :--------:| :--------: | :--------: | :--------: |
 | Gabriel Batalha, Lucas Gabriel,<br>Kleidson Alves | 04/03/2020      | Criação do Documento | 1.0 |
 | Todos os integrantes | 09/03/2020     | Edição e revisão    | 1.1 |
+| Lucas Gabriel | 11/03/2020     | Formatação de texto    | 1.2 |
