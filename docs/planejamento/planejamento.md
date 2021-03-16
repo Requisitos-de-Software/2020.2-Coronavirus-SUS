@@ -1,13 +1,13 @@
 # Planejamento
 
-<p style="text-indent: 20px; text-align: justify"/> 
-Este repositório é destinado ao grupo 5 - Coronavírus SUS irá conter toda a documentação do projeto da disciplina de Requisitos de Software, ministrado pelo professor André Barros, na Universidade de Brasília - Gama, durante o período 2020/2.
 
-<br />
-<p style="text-indent: 20px; text-align: justify"/> 
-Após uma reunião realizada pela equipe, foi decidido que o aplicativo do governo Coronavírus - SUS seria o utilizado como objeto de estudo durante o curso. Os motivos que nos levaram a tal decisão se referem ao atual momento no qual estamos inseridos e a importância que o aplicativo pode ter na vida dos brasileiros. 
+Este repositório é destinado ao grupo 5 - Coronavírus SUS e irá conter toda a documentação do projeto da disciplina de Requisitos de Software, ministrada pelo professor André Barros, na Universidade de Brasília - Gama, durante o período 2020/2.
 
-<br />
+<br>
+
+Após uma reunião realizada pela equipe, foi decidido que o aplicativo do governo Coronavírus - SUS seria utilizado como objeto de estudo durante o curso. Os motivos que nos levaram a tal decisão se referem ao atual momento no qual estamos inseridos e a importância que o aplicativo pode ter na vida dos brasileiros. 
+
+<br>
 
 ## Ferramentas
 
@@ -37,11 +37,11 @@ Após uma reunião realizada pela equipe, foi decidido que o aplicativo do gover
 
 ## Metodologia
 
-A metodologia escolhida pela equipe para ser utilizada no projeto foi a Extreme Programming (XP). pois algumas características dessa metodologia julgamos ser apropriada para a nossa equipe. Por exemplo, o fato de ser uma metodologia ágil, por ser aplicável a uma equipe pequena e algumas regras e valores pregados por tal metodologia.
+A metodologia escolhida pela equipe para ser utilizada no projeto foi a Extreme Programming (XP), pois algumas características dessa metodologia julgamos serem apropriadas para a nossa equipe. Por exemplo, o fato de ser uma metodologia ágil, por ser aplicável a uma equipe pequena, além de algumas regras e valores pregados por tal metodologia.
 
-Aplicação da metodologia será feita da seguinte forma de acordo com os valores pregados:
+A aplicação da metodologia será feita da seguinte forma de acordo com os valores pregados:
 
-- Dividir as tarefas em metas menores, para a melhor visualização do progresso
+- Dividir as tarefas em metas menores, para uma melhor visualização do progresso
 - Reuniões semanais para acompanhamento do progresso do desenvolvimento
 - Comprometimento e responsabilidade de cada membro da equipe em relação a tarefa designada
 - Adaptações de acordo com o feedback feito durante as reuniões
@@ -51,3 +51,4 @@ Aplicação da metodologia será feita da seguinte forma de acordo com os valore
 |--|--|--|--|
 | Todos os integrantes | 18/02/2021 | Criação do Documento de planejamento | 1.0 |
 | Hugo | 11/03/2020     | Removendo logo do app | 1.1 |
+| Lucas Rodrigues | 24/02/2021 | Revisão do documento | 1.2 |
