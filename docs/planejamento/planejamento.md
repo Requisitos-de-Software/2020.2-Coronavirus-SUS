@@ -1,28 +1,24 @@
-# Coronavírus SUS
+# Planejamento
 
-<div align="center">
-  <img width="300" height="300" src="../../docs/assets/icons/aplicativo_coronavirus_sus-18919088.png">
-</div>
-
-<br />
 
 Este repositório é destinado ao grupo 5 - Coronavírus SUS e irá conter toda a documentação do projeto da disciplina de Requisitos de Software, ministrada pelo professor André Barros, na Universidade de Brasília - Gama, durante o período 2020/2.
 
-<br />
+<br>
+
 Após uma reunião realizada pela equipe, foi decidido que o aplicativo do governo Coronavírus - SUS seria utilizado como objeto de estudo durante o curso. Os motivos que nos levaram a tal decisão se referem ao atual momento no qual estamos inseridos e a importância que o aplicativo pode ter na vida dos brasileiros. 
 
-<br />
+<br>
 
 ## Ferramentas
 
 | Icone | Nome | Função | 
 |:--:|:--:|:--:| 
-| <img width="150" height="150" src="../../docs/assets/icons/github.png"> | GitHub | Controle de versão e Projects para listagem de atividades | 
-| <img width="150" height="150" src="../../docs/assets/icons/telegram.png"> | Telegram | Principal meio de comunicação entre os membros da equipe | 
-| <img width="150" height="150" src="../../docs/assets/icons/discord.png"> | Discord | Reuniões síncronas com a equipe | 
-| <img width="150" height="150" src="../../docs/assets/icons/VSCode.png"> | Visual Studio Code | Principal IDE da equipe | 
-| <img width="150" height="150" src="../../docs/assets/icons/drive.png"> | Google Drive | Armazenamento de documentos | 
-| <img width="150" height="150" src="../../docs/assets/icons/figma.png"> | Figma | Prototipagem | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/github.png"> | GitHub | Controle de versão e Projects para listagem de atividades | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/telegram.png"> | Telegram | Principal meio de comunicação entre os membros da equipe | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/discord.png"> | Discord | Reuniões sícronas com a equipe | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/VSCode.png"> | Visual Studio Code | Principal IDE da equipe | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/drive.png"> | Google Drive | Armazenamento de documentos | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/figma.png"> | Figma | Prototipagem | 
 
 
 ## Cronograma de Atividades
@@ -51,8 +47,8 @@ A aplicação da metodologia será feita da seguinte forma de acordo com os valo
 - Adaptações de acordo com o feedback feito durante as reuniões
 
 ## Versão
-
 | Autor | Data | Título | Versão |
 |--|--|--|--|
 | Todos os integrantes | 18/02/2021 | Criação do Documento de planejamento | 1.0 |
-| Lucas Rodrigues | 24/02/2021 | Revisão do documento | 1.1 |
+| Hugo | 11/03/2020     | Removendo logo do app | 1.1 |
+| Lucas Rodrigues | 24/02/2021 | Revisão do documento | 1.2 |
