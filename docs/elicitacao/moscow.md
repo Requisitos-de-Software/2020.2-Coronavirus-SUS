@@ -24,6 +24,7 @@ Devido o objetivo claro e específico da aplicação a técnica MoSCoW forneceu 
 |Número| Nome|
 |:----:|:--:|
 |RNF01|Atualização de notícias
+|RNF02|Obtenção das informações
 |RNF05|Carregar notícias do twitter
 |RNF08|Dados do usuário
 |RNF10|Não determinar identidade
@@ -51,10 +52,10 @@ Devido o objetivo claro e específico da aplicação a técnica MoSCoW forneceu 
 |RNF04| Atualização de informativos |
 |RNF06| Geolocalização|
 |RNF07|Dados de geolocalização|
-RN10|Aviso sobre Fake News|
-RF11 |Mapa de exposição|
-RF12 |Notificação de área de risco|
-RF15 |Apresentar estatísticas |
+|RF10|Aviso sobre Fake News|
+|RF11 |Mapa de exposição|
+|RF12 |Notificação de área de risco|
+|RF15 |Apresentar estatísticas |
 
 
 
@@ -89,3 +90,4 @@ RF14 |Apresentar notícias locais
 | :--------:| :--------: | :--------: | :--------: |
 | Todos os integrantes | 09/03/2020     | Criação do Documento | 1.0 
 | Hugo | 11/03/2020     | Formatação e preparação para o github pages | 1.1 |
+| Kleidson | 16/03/2020 | Revisão de Documento| 1.2|
