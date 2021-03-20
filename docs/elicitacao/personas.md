@@ -7,8 +7,7 @@ Uma persona é um personagem fictício, arquétipo hipotético de um grupo de us
 
 ### Por que utilizamos as Personas?
 <div style="text-indent: 40px; text-align: justify"/>
-Utilizamos as personas para obter uma visão mais clara das pessoas
-que utilizam o aplicativo, conhecendo melhor seus perfis e o que buscam nesse app para direcionar o foco para esse grupo de pessoas.
+Utilizamos as personas como ferramenta auxiliar durante o processo de desenvolvimento do projeto, obtendo uma visão mais clara das pessoas que utilizam o aplicativo, conhecendo melhor seus perfis e o que buscam nesse app para direcionar o foco ao público alvo correto.
 </div>
 
 ## Personas
@@ -18,7 +17,7 @@ que utilizam o aplicativo, conhecendo melhor seus perfis e o que buscam nesse ap
 
 |Persona||
 |--|--|
-Nome: | Cláudia  
+Nome: | Cláudia Torres
 Idade: | 43  
 Profissão: | Veterinária
 Status: | Persona secundária
@@ -41,7 +40,7 @@ Como ela mora em uma região de alta densidade demográfica e se preocupa em se 
 
 |Persona||
 |--|--|
-Nome: | Paulo
+Nome: | Paulo Souza
 Idade: | 44
 Profissão: | Professor de Matemática
 Status: | Persona primária
@@ -56,10 +55,13 @@ Paulo é professor de Matemática na Universidade de Brasília. Por fazer parte 
 </div>
 
 ## Referências
-Barbosa, Simone; Silva, Bruno. Interação Humano-Computador. Rio de Janeiro: Elsevier Editora Ltda., 2010.
+> COOPER, Alan, et al. 2007. About Face 3 The Essentials of Interaction Design
+
+> [This Person Does Not Exist](https://thispersondoesnotexist.com/). Data de acesso: 04/03/2021  
 
 ## Versionamento
 | Autor     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
-| Hugo, Lucas Rodrigues | 04/03/2021 | Criação do documento | 1.0
-| Hugo | 11/03/2020     | Formatação e preparação para o github pages | 1.1 |
+| Hugo Ricardo, Lucas Rodrigues | 04/03/2021 | Criação do documento | 1.0
+| Hugo Ricardo | 11/03/2021     | Formatação e preparação para o github pages | 1.1 |
+| Hugo Ricardo | 19/03/2021     | Revisão | 1.2 |
