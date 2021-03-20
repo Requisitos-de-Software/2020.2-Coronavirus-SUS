@@ -1,18 +1,20 @@
 # Caso de Uso
 
 ## Definição
-<div style="text-indent: 20px; text-align: justify"> 
+
+<div style="text-indent: 40px; text-align: justify"/> 
 
 Diagrama de caso de uso é uma ferramenta, que faz parte do conjunto de diagramas de comportamento propostos pela UML (Unified Modeling Language), para representar graficamente os requisitos funcionais. Ele oferece uma forma simples de comunicação com os stakeholders em torno das funcionalidades e dos serviços que serão oferecidos aos usuários.
-(REINEHR, 2020, p.99)
+(REINEHR, 2020, p.99)  
 
-Em suma, o diagrama de casos de uso representa o usuário e suas interações com o sistema por meio de símbolos (atores, casos de uso, relacionamento).
+Em suma, o diagrama de casos de uso representa o usuário e suas interações com o sistema por meio de símbolos (atores, casos de uso, relacionamento).  
 
-Especificação dos casos de uso é um documento que tem por objeto descrever o comportamento do casos de uso.(PIMENTEL, 2007, p.17)
+Especificação dos casos de uso é um documento que tem por objeto descrever o comportamento do casos de uso.(PIMENTEL, 2007, p.17)  
+
 </div>
 
 ### Utilização
-<div style="text-indent: 20px; text-align: justify">
+<div style="text-indent: 40px; text-align: justify"/>
 A partir dos requisitos levantados e das características do sistema de ser de interação com o usuário, a equipe decidiu que um diagrama de caso de uso seria útil como uma forma de documentação gráfica do escopo funcional.
 
 Além disso, a equipe decidiu que utilizar a especificação do caso de uso seria interessante para melhor entendimento do caso de uso e para fins de rastreabilidade.

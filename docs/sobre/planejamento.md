@@ -1,11 +1,14 @@
 # Planejamento
 
-
+<div style="text-indent: 40px; text-align: justify"> 
 Este repositório é destinado ao grupo 5 - Coronavírus SUS e irá conter toda a documentação do projeto da disciplina de Requisitos de Software, ministrada pelo professor André Barros, na Universidade de Brasília - Gama, durante o período 2020/2.
+</div>
 
 <br>
 
+<div style="text-indent: 40px; text-align: justify"> 
 Após uma reunião realizada pela equipe, foi decidido que o aplicativo do governo Coronavírus - SUS seria utilizado como objeto de estudo durante o curso. Os motivos que nos levaram a tal decisão se referem ao atual momento no qual estamos inseridos e a importância que o aplicativo pode ter na vida dos brasileiros. 
+</div>
 
 <br>
 

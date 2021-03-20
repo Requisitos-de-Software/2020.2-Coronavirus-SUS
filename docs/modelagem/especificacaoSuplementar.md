@@ -1,12 +1,12 @@
 # Especificação Suplementar
 
 ## Definição
-<div style="text-indent: 20px; text-align: justify">
+<div style="text-indent: 40px; text-align: justify"/>
 A Especificação Suplementar trata-se de um documento em linguagem natural, que visa explicitar os detalhes dos requisitos não funcionais, de modo que possam seguir para as demais fases do desenvolvimento.(REINEHR, Sheila 2020. Engenharia de Requisitos)  
 </div>
 
-## Utilização
-<div style="text-indent: 20px; text-align: justify">
+### Utilização
+<div style="text-indent: 40px; text-align: justify"/>
 
 A partir dos requisitos não funcionais levantados, a equipe definiu, de maneira consensual, quais as classificações FURPS+ cada um se identificava, dessa forma foram geradas as tabelas com descrições plausíveis a cada requisito não funcional.
 
