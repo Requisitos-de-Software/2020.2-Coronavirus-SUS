@@ -1,5 +1,8 @@
 # Requisitos
 
+<div style="text-indent: 40px; text-align: justify"/>
+A lista de requisitos abaixo é proveniente das técnicas de elicitação utilizadas pela equipe. Todos os números de requisitos presentes neste documento são os números utilizados para citação dos requisitos em outros documentos, exceto aqueles que fazem parte das diferentes técnicas de elicitação de requisitos.
+</div>
 
 ## Não-funcionais
 | Numéro | Nome | Descrição | Técnica |
@@ -20,6 +23,9 @@ RNF13 | Troca de chaves por Bluetooth| O sistema deverá trocar chaves anônimas
 RNF14 |Contact-tracing Iphone| O sistema será compatível apenas em Iphone versão 13.5 ou superior|Análise de documentos
 RNF15 |Contact-tracing Android|O sistema será compatível apenas em Android 5.0 ou superior|Análise de documentos
 RNF16 |Criptografia|Os dados gravados no celular e as conexões com o servidor que os receberá são protegidos por criptografia|Análise de documentos
+RNF17 |Compartilhamento simples|O usuário deve poder compartilhar teste positivo com no máximo 3 cliques
+RNF18 |Fácil acesso|O usuário deve ter fácil acesso às dicas e notícias
+RNF19 |Internacionalização|O sistema deve conter outros idiomas guardados
 
 <br>
 
@@ -44,6 +50,7 @@ RF14 |Apresentar notícias locais|O usuário deve poder acessar uma página com 
 RF15 |Apresentar estatísticas |O usuário deve poder ver dados relacionados à COVID-19 - número de infectados registrados, de mortos, de recuperados e de vacinados|Brainstorming
 RF16 |Previsão de disponibilidade de vacina|O usuário preenche um formulário, com alguns dados que não serão salvos, e o sistema retorna para ele qual a previsão de vacinação para sua classificação em sua região|Brainstorming
 RF17|Apresentar alerta|O usuário deve poder acessar uma página com as lista de alertas que o sistema lhe notificou|Brainstorming
+RF18|Alterar idioma|O usuário deve poder alterar o idioma do sistema
 
 
 ## Versionamento
@@ -51,4 +58,5 @@ RF17|Apresentar alerta|O usuário deve poder acessar uma página com as lista de
 
 | Autor | Data | Titulo | Versão |
 | :--------: | :--------: | :--------: | :-----:
-| Hugo, Kleidson     | 16/03/2021     | Criação do Documento| 1.0
+| Hugo Ricardo, Kleidson Alves    | 16/03/2021     | Criação do Documento| 1.0
+| Hugo Ricardo, Lucas Gabriel    | 20/03/2021     | Revisão e adição de descrição| 1.0
