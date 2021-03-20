@@ -2,13 +2,13 @@
 
 ## Definição
 
-<div style="text-indent: 30px; text-align: justify ">
+<div style="text-indent: 40px; text-align: justify "/>
 É uma estratégia entendida como a criação de situações específicas para determinar como o produto de software deve reagir em cada uma delas. A partir disso é possível elicitar a parte comportamental do software, sua dinâmica ou seu fluxo.
 </div>
 
-### Por que utilizamos? 
+### Utilização
 
-<div style="text-indent: 30px; text-align: justify ">
+<div style="text-indent: 40px; text-align: justify "/>
 A equipe decidiu utilizar essa técnica, pois permite um fácil entendimento do requisito, o que pode ser utilizado na etapa de desenvolvimento e na etapa de pós-rastreabilidade.
     
 </div>

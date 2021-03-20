@@ -1,12 +1,12 @@
 # Léxico
 
 ## Definição
-<div style="text-indent: 20px; text-align: justify"> 
+<div style="text-indent: 40px; text-align: justify"/> 
 Léxico ampliado a linguagem (Language extended Lexicon) é uma técnica para descrever os símbolos de uma linguagem com noção e impacto, classificados em objetos, verbos e estados.
 </div>
 
 ### Utilização
-<div style="text-indent: 20px; text-align: justify">
+<div style="text-indent: 40px; text-align: justify"/>
 
 Baseado nos requisitos levantados, a equipe utilizou seus nomes e definições para buscar por termos e palavras que se encaixariam dentro da proposta de descrição do léxico.
 
