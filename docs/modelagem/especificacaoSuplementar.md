@@ -1,8 +1,8 @@
 # Especificação Suplementar
 
 ## Definição
-<div style="text-indent: 20px; text-align: justify"> 
-A Especificação Suplementar visa a explicitar os detalhes dos requisitos não funcionais, de modo que possam seguir para as demais fases do desenvolvimento.(REINEHR, Sheila 2020. Engenharia de Requisitos)
+<div style="text-indent: 20px; text-align: justify">
+A Especificação Suplementar trata-se de um documento em linguagem natural, que visa explicitar os detalhes dos requisitos não funcionais, de modo que possam seguir para as demais fases do desenvolvimento.(REINEHR, Sheila 2020. Engenharia de Requisitos)  
 </div>
 
 ## Utilização
@@ -92,3 +92,4 @@ Reúne os requisitos que envolvem aspectos limitantes aos quais o sistema deve s
 | Autor(es)     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021     | Criação do Documento | 1.0 
+| Hugo Ricardo | 19/03/2021     | Revisão | 1.1 
