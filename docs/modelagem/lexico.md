@@ -2,7 +2,7 @@
 
 ## Definição
 <div style="text-indent: 20px; text-align: justify"> 
-Léxico ampliado a linguagem(Language extended Lexicon) é uma técnica para descrever os símbolos de uma linguagem com noção e impacto, classificados em objetos, verbos e estados.
+Léxico ampliado a linguagem (Language extended Lexicon) é uma técnica para descrever os símbolos de uma linguagem com noção e impacto, classificados em objetos, verbos e estados.
 </div>
 
 ### Utilização
@@ -10,9 +10,9 @@ Léxico ampliado a linguagem(Language extended Lexicon) é uma técnica para des
 
 Baseado nos requisitos levantados, a equipe utilizou seus nomes e definições para buscar por termos e palavras que se encaixariam dentro da proposta de descrição do léxico.
 
-A equipe gerou os léxicos por meio de um reunião, onde foi debatido os requisitos e o que teria necessidade de descrição dentro do léxico.
+A equipe gerou os léxicos por meio de uma reunião, onde foram debatidos os requisitos e quais itens precisariam de uma descrição dentro do léxico.
 
-A nossa equipe utilizou o léxico para descrever de maneira mais clara termos importantes para os requisitos, sendo importante tanto para a equipe durante os processos posteriores quanto para outras pessoas que forem analisar os documentos de requisitos.
+A nossa equipe utilizou o léxico para descrever de maneira mais clara termos importantes para os requisitos, sendo importante tanto para a equipe durante o processo de desenvolvimento do projeto quanto para possíveis análises no futuro.
 
 Os resultados da reunião estão explicitados neste documento em formato de Léxico.
 
@@ -127,7 +127,7 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 | :--------: | :-------- | 
 |**Nome**|*Fake News*|
 |**Sinônimo**|Notícia Falsa|
-|**Noção**|Uma notícia sobre o vírus COVID-19 que tenha informações falsas|
+|**Noção**|Uma notícia sobre a doença COVID-19 que não seja verdadeira|
 |**Impacto**|O sistema avisará ao usuário sobre o tema para não disseminar informações erradas|
 |**Classificação**|Objeto|
 <br>
@@ -164,7 +164,7 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 |**Nome**|*Anônimo*|
 |**Sinônimo**|Não identificável|
 |**Noção**|Os usuários do sistema não podem ser identificados|
-|**Impacto**|O sistema não guarda dados pessoais nem de geolocalização do usuário|
+|**Impacto**|O sistema não guarda dados pessoais ou de geolocalização do usuário|
 |**Classificação**|Estado|
 
 ## Bibliografia
@@ -177,3 +177,4 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 | Autor(es)     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021     | Criação do Documento | 1.0 
+| Hugo Ricardo | 19/03/2021     | Revisão | 1.1 
