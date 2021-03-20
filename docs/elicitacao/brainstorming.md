@@ -45,7 +45,7 @@ RNF06|Dados de usuário|O sistema não deve guardar nenhum dado identificador do
 |RF11|Localização das unidades de saúde mais próximas|O usuário deve poder acessar um mapa que exibe a localização das unidades de saúde mais próximas disponíveis para atendê-lo
 |RF12|Alterar idioma|O usuário deve poder alterar o idioma do sistema
 
-## Referências Bibliograficas
+## Referências Bibliográficas
 > [O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes](https://rockcontent.com/br/blog/brainstorming/) - Brasil 10 jul, 19. Data de acesso: 09 de março de 2021.
 ## Versionamento
 

@@ -15,7 +15,7 @@ Após uma reunião realizada pela equipe, foi decidido que o aplicativo do gover
 |:--:|:--:|:--:| 
 | <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/github.png"> | GitHub | Controle de versão e Projects para listagem de atividades | 
 | <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/telegram.png"> | Telegram | Principal meio de comunicação entre os membros da equipe | 
-| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/discord.png"> | Discord | Reuniões sícronas com a equipe | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/discord.png"> | Discord | Reuniões síncronas com a equipe | 
 | <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/VSCode.png"> | Visual Studio Code | Principal IDE da equipe | 
 | <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/drive.png"> | Google Drive | Armazenamento de documentos | 
 | <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/figma.png"> | Figma | Prototipagem | 

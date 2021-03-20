@@ -88,7 +88,7 @@
 | <div style = "font-size:25px"> Elemento </div> | <div style = "font-size:25px"> Resposta </div> |
 | :--------: | :-------|
 |**Título** |*Visualizar mapa de exposição*|
-|**Objetivo**|*O usuário deve poder visualizar a concentração de casos da COVID-19 no terrirório brasileiro*|
+|**Objetivo**|*O usuário deve poder visualizar a concentração de casos da COVID-19 no território brasileiro*|
 |**Contexto**|*O usuário deseja informar-se sobre a exposição de determinada área*|
 |**Atores**|*Cidadão brasileiro*|
 |**Recursos**|*Acesso a internet<br>Dispositivo com GPS<br>Dispositivo com coronavírus SUS instalado*|
@@ -100,7 +100,7 @@
 | :--------: | :-------|
 |**Título** |*Visualizar estatísticas*|
 |**Objetivo**|*Visualizar estatísticas sobre a COVID-19*|
-|**Contexto**|*O usuário deseja se informar sobre as estátisticas atualizadas sobre o vírus COVID-19*|
+|**Contexto**|*O usuário deseja se informar sobre as estatísticas atualizadas sobre o vírus COVID-19*|
 |**Atores**|*Cidadão brasileiro*|
 |**Recursos**|*Dispositivo com acesso à Internet<br>Dispositivo com coronavírus SUS instalado*|
 |**Exceção**|*Sem acesso à Internet*|
@@ -115,7 +115,7 @@
 |**Atores**|*Cidadão brasileiro*|
 |**Recursos**|*Dispositivo com acesso à Internet<br>Dispositivo com coronavírus SUS instalado*|
 |**Exceção**|*Sem acesso à Internet*|
-|**Episódios**|*1- O usuário entra no aplicativo do Coronavírus -  SUS<br>2- O usuário acessa a aba de notícias do sistema<br>3- O usuário visualiza as notícias<br>4- O usuário seleciona o icone de compartilhamento*|
+|**Episódios**|*1- O usuário entra no aplicativo do Coronavírus -  SUS<br>2- O usuário acessa a aba de notícias do sistema<br>3- O usuário visualiza as notícias<br>4- O usuário seleciona o ícone de compartilhamento*|
 
 ### Cenário 10
 | <div style = "font-size:25px"> Elemento </div> | <div style = "font-size:25px"> Resposta </div> |

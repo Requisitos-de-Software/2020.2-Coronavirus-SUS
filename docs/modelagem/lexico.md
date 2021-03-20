@@ -94,8 +94,8 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 |||
 | :--------: | :-------- | 
 |**Nome**|*Estatística*|
-|**Sinônimo**|Resenceamento|
-|**Noção**|Amostra de dados geolocalizadas sobre o vírus visualmente representadas por meio de gráficos|
+|**Sinônimo**|Recenseamento|
+|**Noção**|Amostra de dados organizada geograficamente sobre o vírus visualmente representadas por meio de gráficos|
 |**Impacto**|O usuário visualiza e se informa dos dados sobre o vírus|
 |**Classificação**|Objeto|
 
@@ -119,7 +119,7 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 | :--------: | :-------- | 
 |**Nome**|*Bluetooth*|
 |**Sinônimo**|Comunicação sem fio|
-|**Noção**|Meio de comunição entre dispositivos sem fio |
+|**Noção**|Meio de comunicação entre dispositivos sem fio |
 |**Impacto**|O sistema compartilha a chave criptografada do usuário com outros usuários para detectar uma exposição ao vírus|
 |**Classificação**|Objeto|
 

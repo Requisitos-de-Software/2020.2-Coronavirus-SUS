@@ -6,16 +6,16 @@
 Diagrama de caso de uso é uma ferramenta, que faz parte do conjunto de diagramas de comportamento propostos pela UML (Unified Modeling Language), para representar graficamente os requisitos funcionais. Ele oferece uma forma simples de comunicação com os stakeholders em torno das funcionalidades e dos serviços que serão oferecidos aos usuários.
 (REINEHR,2020)
 
-Em suma, o diagrama de casos de uso representa o usuário e suas interações com o sistema por meio de simbolos(atores, casos de uso, relacionamento).
+Em suma, o diagrama de casos de uso representa o usuário e suas interações com o sistema por meio de símbolos (atores, casos de uso, relacionamento).
 
 Especificação dos casos de uso é um documento que tem por objeto descrever o comportamento do casos de uso.(PIMENTEL, 2007, p.17)
 </div>
 
 ### Utilização
 <div style="text-indent: 20px; text-align: justify">
-A partir dos requisitos levantados e das caracteristicas do sistema de ser de interação com o usuário, a equipe decidiu que um diagrama de caso de uso seria útil como uma forma de documentação gráfica do escopo funcional.
+A partir dos requisitos levantados e das características do sistema de ser de interação com o usuário, a equipe decidiu que um diagrama de caso de uso seria útil como uma forma de documentação gráfica do escopo funcional.
 
-Além disso, a equipe decidiu que utilizar a especificação do caso de uso seria interresante para melhor entendimento do caso de uso e para fins de rastreabilidade.
+Além disso, a equipe decidiu que utilizar a especificação do caso de uso seria interessante para melhor entendimento do caso de uso e para fins de rastreabilidade.
 
 </div>
 
@@ -26,8 +26,8 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 |:---------:|---------- |
 |Descrição|O ato do usuário de compartilhar o resultado positivo de um teste para o vírus COVID-19|
 |Atores|Cidadão brasileiro<br>gov.br|
-|Pré-condições|O cidadão brasileiro deve estar conectado a internet <br> O cidadão brasileiro deve estar na página principal do sistema<br> O cidadão brasileiro gerou um código através do ator gov.br<br>O cidadão está com a fucionalidade de notificação de exposição ativada|
-|Fluxo principal|1. O cidadão brasileiro clicla no botão "Compartilhar teste positivo"<br>2. O cidadão brasileiro insere o token no espaço indicado<br>3. O sistema valida o token pelo ator gov.br<br>4. O sistema notifica o cidadão brasileiro do sucesso de seu compartilhamento |
+|Pré-condições|O cidadão brasileiro deve estar conectado a internet <br> O cidadão brasileiro deve estar na página principal do sistema<br> O cidadão brasileiro gerou um código através do ator gov.br<br>O cidadão está com a funcionalidade de notificação de exposição ativada|
+|Fluxo principal|1. O cidadão brasileiro clica no botão "Compartilhar teste positivo"<br>2. O cidadão brasileiro insere o token no espaço indicado<br>3. O sistema valida o token pelo ator gov.br<br>4. O sistema notifica o cidadão brasileiro do sucesso de seu compartilhamento |
 |Fluxo alternativo|1. O cidadão brasileiro clica no botão "Compartilhar teste positivo"<br>2. O cidadão insere um token errado ou inexistente<br>3. O sistema retorna uma mensagem de erro|
 |Fluxo de exceções|1. O cidadão brasileiro clica no botão "Compartilhar teste positivo"<br>2. O cidadão brasileiro não tem o código gerado pelo ator gov.br <br>3. O cidadão brasileiro acessa o ator gov.br e gera o código <br>4. O cidadão brasileiro insere o token no espaço indicado<br>5. O sistema valida o token pelo ator gov.br<br>6. O sistema notifica o cidadão brasileiro do sucesso de seu compartilhamento |
 |Pós-condições|O teste positivo do cidadão brasileiro é compartilhado com a aplicação|
@@ -113,4 +113,5 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 | Autor(es)     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Hugo Bezerra, Kleidson Alves, <br>Lucas Gabriel | 19/03/2021     | Criação do Documento | 1.0 
-| Gabriel Batalha, Kleidson Alves, <br>Lucas Rodrigues | 20/03/2021     | Adicionado Casos de Uso| 1.1 
+| Gabriel Batalha, Kleidson Alves, <br>Lucas Rodrigues | 20/03/2021     | Adicionado Casos de Uso| 1.1 |
+| Hugo Bezerra, Lucas Gabriel | 20/03/2021     | Revisão| 1.1 |

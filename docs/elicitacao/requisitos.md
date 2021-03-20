@@ -5,7 +5,7 @@ A lista de requisitos abaixo é proveniente das técnicas de elicitação utiliz
 </div>
 
 ## Não-funcionais
-| Numéro | Nome | Descrição | Técnica |
+| Número | Nome | Descrição | Técnica |
 | :--------: | :--------: | :--------: | :-------:
 | RNF01 | Atualização de notícias | O sistema deve atualizar as notícias a cada dia| Brainstorming
 |RFN02 |Obtenção das informações| O sistema deve buscar atualizações de informações a partir do site do Ministério da Saúde| Análise de documentos
@@ -31,7 +31,7 @@ RNF19 |Internacionalização|O sistema deve conter outros idiomas guardados
 
 ## Funcionais
 
-| Numéro | Nome | Descrição | Técnica |
+| Número | Nome | Descrição | Técnica |
 | :--------: | :--------: | :--------: | :-------:
 RF01|Mapa de unidades de saúde |O sistema deverá mostrar unidades de saúde próximas a geolocalização do usuário| Introspecção
 RF02 |Informativos sobre a COVID-19|O sistema deverá mostrar informações sobre o vírus da COVID-19| Análise de documentos
