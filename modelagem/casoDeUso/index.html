@@ -1,0 +1,1155 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="shortcut icon" href="../../assets/icons/favicon.ico">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.0.0">
+    
+    
+      
+        <title>Caso de Uso - Coronavírus SUS</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.a3f8f96a.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.7fa14f5b.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+      
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#caso-de-uso" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Coronavírus SUS" class="md-header__button md-logo" aria-label="Coronavírus SUS">
+      
+  <img src="../../assets/icons/susLogo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Coronavírus SUS
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Caso de Uso
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="md-header__options">
+      
+    </div>
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Coronavírus SUS" class="md-nav__button md-logo" aria-label="Coronavírus SUS">
+      
+  <img src="../../assets/icons/susLogo.png" alt="logo">
+
+    </a>
+    Coronavírus SUS
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Sobre o Projeto
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" >
+      
+      <label class="md-nav__link" for="nav-2">
+        Pré Rastreabilidade
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Pré Rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="nav-2">
+          <span class="md-nav__icon md-icon"></span>
+          Pré Rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Pr%C3%A9-Rastreabilidade/preRastreabilidade/" class="md-nav__link">
+        Rich Picture
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" >
+      
+      <label class="md-nav__link" for="nav-3">
+        Elicitação
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Elicitação" data-md-level="1">
+        <label class="md-nav__title" for="nav-3">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicita%C3%A7%C3%A3o/analiseDeDocumentos/" class="md-nav__link">
+        Análise de documentos
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicita%C3%A7%C3%A3o/brainstorming/" class="md-nav__link">
+        Brainstorming
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicita%C3%A7%C3%A3o/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicita%C3%A7%C3%A3o/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicita%C3%A7%C3%A3o/requisitos/" class="md-nav__link">
+        Requisitos
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-3-6" type="checkbox" id="nav-3-6" >
+      
+      <label class="md-nav__link" for="nav-3-6">
+        Priorização
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Priorização" data-md-level="2">
+        <label class="md-nav__title" for="nav-3-6">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/moscow/" class="md-nav__link">
+        MoSCow
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-4" type="checkbox" id="nav-4" checked>
+      
+      <label class="md-nav__link" for="nav-4">
+        Modelagem
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+        <label class="md-nav__title" for="nav-4">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Caso de Uso
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Caso de Uso
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#definicao" class="md-nav__link">
+    Definição
+  </a>
+  
+    <nav class="md-nav" aria-label="Definição">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#utilizacao" class="md-nav__link">
+    Utilização
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultados" class="md-nav__link">
+    Resultados
+  </a>
+  
+    <nav class="md-nav" aria-label="Resultados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#uc01-compartilhar-teste-positivo" class="md-nav__link">
+    UC01 - Compartilhar teste positivo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc02-alterar-idioma" class="md-nav__link">
+    UC02 - Alterar idioma
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc03-notificar-exposicao" class="md-nav__link">
+    UC03 - Notificar exposição
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc04-apresentar-alerta" class="md-nav__link">
+    UC04 - Apresentar alerta
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc05-noticias" class="md-nav__link">
+    UC05 - Notícias
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc06-informativos" class="md-nav__link">
+    UC06 - Informativos
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências Bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#versionamento" class="md-nav__link">
+    Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../especificacaoSuplementar/" class="md-nav__link">
+        Especificação Suplementar
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lexico/" class="md-nav__link">
+        Léxico
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" >
+      
+      <label class="md-nav__link" for="nav-5">
+        Sobre
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sobre" data-md-level="1">
+        <label class="md-nav__title" for="nav-5">
+          <span class="md-nav__icon md-icon"></span>
+          Sobre
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sobre/apresentacoes/" class="md-nav__link">
+        Apresentações
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sobre/planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#definicao" class="md-nav__link">
+    Definição
+  </a>
+  
+    <nav class="md-nav" aria-label="Definição">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#utilizacao" class="md-nav__link">
+    Utilização
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultados" class="md-nav__link">
+    Resultados
+  </a>
+  
+    <nav class="md-nav" aria-label="Resultados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#uc01-compartilhar-teste-positivo" class="md-nav__link">
+    UC01 - Compartilhar teste positivo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc02-alterar-idioma" class="md-nav__link">
+    UC02 - Alterar idioma
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc03-notificar-exposicao" class="md-nav__link">
+    UC03 - Notificar exposição
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc04-apresentar-alerta" class="md-nav__link">
+    UC04 - Apresentar alerta
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc05-noticias" class="md-nav__link">
+    UC05 - Notícias
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc06-informativos" class="md-nav__link">
+    UC06 - Informativos
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    Referências Bibliográficas
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#versionamento" class="md-nav__link">
+    Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                <h1 id="caso-de-uso">Caso de Uso</h1>
+<h2 id="definicao">Definição</h2>
+<div style="text-indent: 20px; text-align: justify"> 
+
+Diagrama de caso de uso é uma ferramenta, que faz parte do conjunto de diagramas de comportamento propostos pela UML (Unified Modeling Language), para representar graficamente os requisitos funcionais. Ele oferece uma forma simples de comunicação com os stakeholders em torno das funcionalidades e dos serviços que serão oferecidos aos usuários.
+(REINEHR, 2020, p.99)
+
+Em suma, o diagrama de casos de uso representa o usuário e suas interações com o sistema por meio de símbolos (atores, casos de uso, relacionamento).
+
+Especificação dos casos de uso é um documento que tem por objeto descrever o comportamento do casos de uso.(PIMENTEL, 2007, p.17)
+</div>
+
+<h3 id="utilizacao">Utilização</h3>
+<div style="text-indent: 20px; text-align: justify">
+A partir dos requisitos levantados e das características do sistema de ser de interação com o usuário, a equipe decidiu que um diagrama de caso de uso seria útil como uma forma de documentação gráfica do escopo funcional.
+
+Além disso, a equipe decidiu que utilizar a especificação do caso de uso seria interessante para melhor entendimento do caso de uso e para fins de rastreabilidade.
+
+</div>
+
+<h2 id="resultados">Resultados</h2>
+<h3 id="uc01-compartilhar-teste-positivo"><strong>UC01</strong> - Compartilhar teste positivo</h3>
+<p><br></p>
+<p><img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/compartilharTestePositivo.png"></p>
+<p><br></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC01</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário de compartilhar o resultado positivo de um teste para o vírus COVID-19</td>
+</tr>
+<tr>
+<td align="center">Atores</td>
+<td>Cidadão brasileiro<br>gov.br</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O cidadão brasileiro deve estar conectado a internet <br> O cidadão brasileiro deve estar na página principal do sistema<br> O cidadão brasileiro gerou um código através do ator gov.br<br>O cidadão está com a funcionalidade de notificação de exposição ativada</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td>1. O cidadão brasileiro clica no botão "Compartilhar teste positivo"<br>2. O cidadão brasileiro insere o token no espaço indicado<br>3. O sistema valida o token pelo ator gov.br<br>4. O sistema notifica o cidadão brasileiro do sucesso de seu compartilhamento</td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td>1. O cidadão brasileiro clica no botão "Compartilhar teste positivo"<br>2. O cidadão insere um token errado ou inexistente<br>3. O sistema retorna uma mensagem de erro</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td>1. O cidadão brasileiro clica no botão "Compartilhar teste positivo"<br>2. O cidadão brasileiro não tem o código gerado pelo ator gov.br <br>3. O cidadão brasileiro acessa o ator gov.br e gera o código <br>4. O cidadão brasileiro insere o token no espaço indicado<br>5. O sistema valida o token pelo ator gov.br<br>6. O sistema notifica o cidadão brasileiro do sucesso de seu compartilhamento</td>
+</tr>
+<tr>
+<td align="center">Pós-condições</td>
+<td>O teste positivo do cidadão brasileiro é compartilhado com a aplicação</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>RF09 - Compartilhar teste positivo</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h3 id="uc02-alterar-idioma"><strong>UC02</strong> - Alterar idioma</h3>
+<p><br></p>
+<p><img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/alterarIdioma.png"></p>
+<p><br></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC02</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário de alterar o idioma do aplicativo</td>
+</tr>
+<tr>
+<td align="center">Atores</td>
+<td>Cidadão brasileiro</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O cidadão deve estar na página principal do sistema</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td>1. O cidadão brasileiro pressiona o botão de alterar idioma<br>2. O cidadão brasileiro escolhe o idioma de sua preferência</td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td align="center">Pós-condições</td>
+<td>O idioma da aplicação é alterado para aquele escolhido pelo cidadão brasileiro</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>RF18 - Internacionalização</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h3 id="uc03-notificar-exposicao"><strong>UC03</strong> - Notificar exposição</h3>
+<p><br></p>
+<p><img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/notificarExposicao.png"></p>
+<p><br></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC03</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato de o sistema notificar o usuário após uma exposição detectada</td>
+</tr>
+<tr>
+<td align="center">Atores</td>
+<td>Cidadão brasileiro, API Exposure Notification, Cidadão brasileiro infectado</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O cidadão brasileiro deve estar com as notificações ativadas<br>O cidadão brasileiro deve estar com o Bluetooth ativado<br>O cidadão deve ter sido exposto</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td>1. O cidadão brasileiro compartilha sua chave via Bluetooth com um cidadão brasileiro infectado<br> 2. O sistema identifica que o cidadão brasileiro sofreu uma exposição<br>3. O sistema envia uma notificação ao cidadão brasileiro informando a sua exposição<br>4. O cidadão brasileiro visualiza as suas notificações</td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td>1. O cidadão brasileiro ativa as notificações <br> 2. O cidadão brasileiro compartilha sua chave via Bluetooth com um cidadão brasileiro infectado<br> 3. O sistema identifica que o cidadão brasileiro sofreu uma exposição<br>4. O sistema envia uma notificação ao cidadão brasileiro informando a sua exposição<br>5. O cidadão brasileiro visualiza as suas notificações</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td>1. O cidadão brasileiro compartilha sua chave via Bluetooth com outro cidadão brasileiro<br>2. O sistema não identifica exposição</td>
+</tr>
+<tr>
+<td align="center">Pós-condições</td>
+<td>O cidadão brasileiro é informado com respeito à exposição que sofreu</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>RF05 - Notificar contato com infectado</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h3 id="uc04-apresentar-alerta"><strong>UC04</strong> - Apresentar alerta</h3>
+<p><br></p>
+<p><img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/alertas.png"></p>
+<p><br></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC04</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário visualizar os alertas</td>
+</tr>
+<tr>
+<td align="center">Atores</td>
+<td>Cidadão brasileiro</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O cidadão brasileiro deve estar com o sistema aberto</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td>1. O cidadão brasileiro navega para a aba de alertas<br>2. O sistema carrega lista de alertas<br>3. O cidadão brasileiro visualiza seus alertas</td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td>1. O cidadão brasileiro navega para aba de alertas<br>2. O sistema carrega lista de alertas<br>3. O cidadão brasileiro ativa/desativa os alertas</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td>Nenhum</td>
+</tr>
+<tr>
+<td align="center">Pós-condições</td>
+<td>O cidadão brasileiro é informado a respeito de todos alertas que já recebeu</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>RF17 - Apresentar alerta</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h3 id="uc05-noticias"><strong>UC05</strong> - Notícias</h3>
+<p><br></p>
+<p><img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/noticias.png"></p>
+<p><br></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC05</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário ver as notícias sobre a COVID-19</td>
+</tr>
+<tr>
+<td align="center">Atores</td>
+<td>Cidadão brasileiro, Twitter Ministério da Saúde</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O cidadão brasileiro deve estar com o sistema aberto<br>O cidadão brasileiro deve estar conectado a um serviço de Internet</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td>1. O cidadão brasileiro navega para a aba de notícias<br>2. O sistema carrega as notícias a partir do twitter do Ministério da Saúde<br>3. O cidadão brasileiro consegue ver as últimas notícias</td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td>1. O cidadão brasileiro navega para a aba de notícias<br>2. O sistema carrega as notícias a partir do twitter do Ministério da Saúde<br>3. O cidadão brasileiro seleciona uma das notícias<br>4. O sistema redireciona o cidadão brasileiro para o endereço do link da notícia selecionada</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td>1. O cidadão brasileiro navega para a aba de notícias sem estar conectado a algum serviço de Internet<br>2. O sistema apresenta uma mensagem de erro em relação ao carregamento das notícias</td>
+</tr>
+<tr>
+<td align="center">Pós-condições</td>
+<td>O cidadão brasileiro consegue ver as notícias atualizadas com respeito à COVID-19</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>RF03 - Notícias sobre a COVID-19</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
+<h3 id="uc06-informativos"><strong>UC06</strong> - Informativos</h3>
+<p><br></p>
+<p><img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/informativos.png"></p>
+<p><br></p>
+<table>
+<thead>
+<tr>
+<th align="center">UC06</th>
+<th>Informações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Descrição</td>
+<td>O ato do usuário ver informativos relacionados à COVID-19</td>
+</tr>
+<tr>
+<td align="center">Atores</td>
+<td>Cidadão brasileiro</td>
+</tr>
+<tr>
+<td align="center">Pré-condições</td>
+<td>O cidadão brasileiro deve estar o sistema aberto</td>
+</tr>
+<tr>
+<td align="center">Fluxo principal</td>
+<td>1. O cidadão brasileiro navega para a aba de dicas<br>2. O sistema mostra todos os tópicos de informativos<br>3. O cidadão brasileiro seleciona um tópico de seu interesse<br>4. O sistema carrega as informações do tópico selecionado<br>5. O cidadão brasileiro pode ler as informações</td>
+</tr>
+<tr>
+<td align="center">Fluxo alternativo</td>
+<td>1. O cidadão brasileiro navega para a aba de dicas<br>2. O sistema mostra todos os tópicos de informativos<br>3. o cidadão brasileiro pesquisa o tópico de informação que é de seu interesse<br>4. O sistema mostra o tópico pesquisado<br>5. O cidadão brasileiro seleciona o tópico mostrado<br>6. O cidadão brasileiro pode ler as informações</td>
+</tr>
+<tr>
+<td align="center">Fluxo de exceções</td>
+<td>1. O cidadão brasileiro navega para a aba de dicas<br>2. O sistema mostra todos os tópicos de informativos<br>3. o cidadão brasileiro pesquisa o tópico de informação que é de seu interesse<br>4. O sistema não encontra o tópico pesquisado</td>
+</tr>
+<tr>
+<td align="center">Pós-condições</td>
+<td>O cidadão brasileiro consegue ver informativos com respeito à COVID-19</td>
+</tr>
+<tr>
+<td align="center">Rastreabilidade</td>
+<td>RF02 - Informativos sobre a COVID-19</td>
+</tr>
+</tbody>
+</table>
+<h2 id="referencias-bibliograficas">Referências Bibliográficas</h2>
+<blockquote>
+<p>REINEHR, Sheila. 2020. ENGENHARIA DE REQUISITOS.</p>
+<p>PIMENTEL, Andrey Ricardo, <a href="https://www.inf.ufpr.br/andrey/ci162/apostilaUml.pdf">Projeto de Software Usando a UML</a>. p.17. Data de acesso: 19/03/2021.</p>
+<p><a href="https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml">Diagrama de caso de uso UML: O que é, como fazer e exemplos</a>. Data de Acesso 19/03/2021</p>
+</blockquote>
+<h2 id="versionamento">Versionamento</h2>
+<table>
+<thead>
+<tr>
+<th align="center">Autor(es)</th>
+<th align="center">Data</th>
+<th align="center">Titulo</th>
+<th align="center">Versão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Hugo Bezerra, Kleidson Alves, <br>Lucas Gabriel</td>
+<td align="center">19/03/2021</td>
+<td align="center">Criação do Documento</td>
+<td align="center">1.0</td>
+</tr>
+<tr>
+<td align="center">Gabriel Batalha, Kleidson Alves, <br>Lucas Rodrigues</td>
+<td align="center">20/03/2021</td>
+<td align="center">Adicionado Casos de Uso</td>
+<td align="center">1.1</td>
+</tr>
+<tr>
+<td align="center">Hugo Bezerra, Lucas Gabriel</td>
+<td align="center">20/03/2021</td>
+<td align="center">Revisão</td>
+<td align="center">1.2</td>
+</tr>
+<tr>
+<td align="center">Hugo Bezerra, Lucas Gabriel</td>
+<td align="center">20/03/2021</td>
+<td align="center">Adicionando imagens</td>
+<td align="center">1.3</td>
+</tr>
+</tbody>
+</table>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        <a href="../../elicita%C3%A7%C3%A3o/prioriza%C3%A7%C3%A3o/moscow/" class="md-footer__link md-footer__link--prev" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              MoSCow
+            </div>
+          </div>
+        </a>
+      
+      
+        <a href="../cenarios/" class="md-footer__link md-footer__link--next" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Cenários
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../../assets/javascripts/workers/search.217ffd95.min.js", "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.926459b3.min.js"></script>
+      
+    
+  </body>
+</html>
