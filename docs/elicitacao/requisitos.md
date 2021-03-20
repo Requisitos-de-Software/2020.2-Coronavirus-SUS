@@ -59,4 +59,4 @@ RF18|Alterar idioma|O usuário deve poder alterar o idioma do sistema
 | Autor | Data | Titulo | Versão |
 | :--------: | :--------: | :--------: | :-----:
 | Hugo Ricardo, Kleidson Alves    | 16/03/2021     | Criação do Documento| 1.0
-| Hugo Ricardo, Lucas Gabriel    | 20/03/2021     | Revisão e adição de descrição| 1.0
+| Hugo Ricardo, Lucas Gabriel    | 20/03/2021     | Revisão e adição de descrição| 1.1
