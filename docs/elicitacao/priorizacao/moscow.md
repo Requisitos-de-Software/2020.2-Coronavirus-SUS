@@ -1,4 +1,4 @@
-# MosCow
+# MoSCow
 
 ## Definição
 
@@ -10,13 +10,24 @@ MoSCoW é uma técnica de priorização de 4 níveis de prioridade do requisito,
 * Won’t:  O Requisito não deve ser implementado agora, mas pode estar em uma futura atualização.
 
 ### Por que utilizamos?
-<div style="text-indent: 40px; text-align: justify"/>
+<div style="text-indent: 40px; text-align: justify">
 Utilizamos o MoSCoW por ter uma ideia simples e prática de ser aplicada e, portanto, suficiente para o escopo do projeto.
 
-Devido o objetivo claro e específico da aplicação a técnica MoSCoW forneceu todas as ferramentas necessárias para priorizar devidamente os requisitos elicitados
+Devido o objetivo claro e específico da aplicação a técnica MoSCoW forneceu todas as ferramentas necessárias para priorizar devidamente os requisitos elicitados.
+</div>
+
+### Experiência
+<div style="text-indent: 40px; text-align: justify">
+A priorização dos requisitos foi feita a partir de uma chamada de voz com todos os integrantes da equipe. Durante a priorização procuramos usar as personas elaboradas para definir as prioridades dos principais perfis de usuários do sistema. O integrante Gabriel Batalha interpretou o papel da persona Felipe Almeida, defendendo seus interesses durante a reunião de priorização.
 </div>
 
 ## Priorização dos Requisitos
+<div style="text-indent: 40px; text-align: justify">
+Os requisitos presentes nesse documento podem ser encontrados na <a href="https://requisitos-de-software.github.io/2020.2-Coronavirus-SUS/elicitacao/requisitos/">lista de requisitos</a>.
+
+</div>
+
+
 
 ### Must
 
@@ -62,8 +73,6 @@ Devido o objetivo claro e específico da aplicação a técnica MoSCoW forneceu 
 |RF15 |Apresentar estatísticas |
 
 
-
-
 ### Could
 
 |Número|Nome|
@@ -80,11 +89,11 @@ RF16|Previsão de disponibilidade de vacina
 |Número|Nome|
 |:---:|:---:|
 |RF04 |Análise de estado de saúde
-RF07|Relatar estado
-RF14 |Apresentar notícias locais
+|RF07|Relatar estado
+|RF14 |Apresentar notícias locais
 
 
-## Referências Bibliográficas
+## Referências
 > BEATTY, Joy. WIEGERS, Karl. Software Requirements 3.ed. Data de acesso: 09 de março de 2021.
 
 
@@ -93,6 +102,6 @@ RF14 |Apresentar notícias locais
 | Autor     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Todos os integrantes | 09/03/2021     | Criação do Documento | 1.0 
-| Hugo Bezerra| 11/03/2021     | Formatação e preparação para o github pages | 1.1 |
-| Kleidson Alves| 16/03/2021 | Revisão de Documento| 1.2|
-| Lucas Gabriel | 20/03/2021     | Correção referências bibliográficas | 1.3 |
+| Hugo Ricardo | 11/03/2021     | Formatação e preparação para o GitHub pages | 1.1 |
+| Kleidson Alves | 16/03/2021 | Revisão de Documento| 1.2|
+| Hugo Bezerra, Lucas Gabriel | 20/03/2021 | Edição do documento| 2.0|
