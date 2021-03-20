@@ -1,13 +1,11 @@
-# Pré-rastreabilidade
-
-## Rich Picture
+# Rich Picture
 
 ### Versão 1
 
 Primeira versão de Rich Picture do Corornavírus - SUS, Feita a mão.
 
 <div align="center">
-  <img src="../assets/richPicture/richPictureDigitalizado1.0.jpg">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/richPicture/richPictureDigitalizado1.0.jpg">
 </div>
 
 Autor: Kleidson Alves

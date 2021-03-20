@@ -1,0 +1,6 @@
+site_name: Coronavírus SUS
+theme:
+  name: material
+  favicon: assets/icons/favicon.ico
+  logo: assets/icons/susLogo.png
+
