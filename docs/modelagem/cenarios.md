@@ -3,13 +3,13 @@
 ## Definição
 
 <div style="text-indent: 30px; text-align: justify ">
-É uma estratégia reconhecida que é entendida como a criação de situações específicas e determinar como o produto de software deve reagir em cada uma delas. A partir disso é possível elicitar a parte comportamental do software, sua dinâmica ou seu fluxo.
+É uma estratégia entendida como a criação de situações específicas para determinar como o produto de software deve reagir em cada uma delas. A partir disso é possível elicitar a parte comportamental do software, sua dinâmica ou seu fluxo.
 </div>
 
 ### Por que utilizamos? 
 
 <div style="text-indent: 30px; text-align: justify ">
-    A equipe decidiu utilizar essa técnica, pois permite um fácil entendimento do requisito, o que pode ser utilizado na etapa de desenvolvimento e na etapa de pós-rastreabilidade.
+A equipe decidiu utilizar essa técnica, pois permite um fácil entendimento do requisito, o que pode ser utilizado na etapa de desenvolvimento e na etapa de pós-rastreabilidade.
     
 </div>
 
@@ -151,9 +151,14 @@
 |**Exceção**|*Sem acesso à Internet*|
 |**Episódios**|*1- O usuário entra no aplicativo do Coronavírus SUS<br>2- O usuário seleciona a analisar estado de saúde<br>3- O usuário responde um questionário sobre seu estado de saúde*|
 
+## Referências Bibiográficas
+
+>[Uso de cenários para especificação de requisitos de qualidade e avaliação de arquitetura](https://www.devmedia.com.br/uso-de-cenarios-para-especificacao-de-requisitos-de-qualidade-e-avaliacao-de-arquitetura/22528). Data de acesso: 16/03/2021. 
+
 ## Versionamento
 
 | Autor     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Todos os integrantes   | 16/03/2021 | Criação do Documento | 1.0 |
 | Hugo Bezerra   | 19/03/2021 | Revisão | 1.1 |
+| Hugo Bezerra, Lucas Gabriel   | 19/03/2021 | Refatoração da definição e adicionando referências bibliograficas | 1.1 |
