@@ -33,6 +33,9 @@ Devido o objetivo claro e específico da aplicação a técnica MoSCoW forneceu 
 |RNF13|Troca de chaves por Bluetooth
 |RNF14|Contact-tracing Iphone
 |RNF15|Contact-tracing Android
+|RNF17|Compartilhamento simples|O usuário deve poder compartilhar teste positivo com no máximo 3 cliques
+|RNF18|Fácil acesso|O usuário deve ter fácil acesso às dicas e notícias
+|RNF19|Internacionalização|O sistema deve conter outros idiomas guardados
 |RF02 |Informativos sobre a COVID-19
 |RF03 |Notícias sobre a COVID-19
 |RF05 |Notificar contato com infectado
@@ -40,6 +43,7 @@ Devido o objetivo claro e específico da aplicação a técnica MoSCoW forneceu 
 |RF08 |Habilitar/Desabilitar notificação de exposição
 |RF09 |Compartilhar teste positivo
 |RF17 |Apresentar alerta
+|RF18 |Alterar idioma|O usuário deve poder alterar o idioma do sistema
 
 
 
