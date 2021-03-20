@@ -7,7 +7,7 @@ Análise de documentos trata de analisar documentos já existentes para buscar p
 
 ### Por que utilizamos a Análise de documentos?
 <div style="text-indent: 20px; text-align: justify">
-Por se tratar de um tema que está em alta,  muitas matérias jornalisticas são feitas com dados e informações, sobre o vírus e temas relacionados a ele. Isso gera muitos documentos passíveis de extração de informação, o que a equipe julgou como muito útil para a elicitação de documentos.
+Por se tratar de um tema que está em alta, muitas matérias jornalisticas são feitas com dados e informações, sobre o vírus e temas relacionados a ele. Isso gera muitos documentos passíveis de extração de informação, o que a equipe julgou como muito útil para a elicitação de documentos.
 </div>
 ## Resultados
 
@@ -82,26 +82,27 @@ RF04|Testar possível infecção|O usuário deve poder verificar se os seus sint
 |RF11|Avisos sobre Fake News|O sistema deverá ter uma área informativa sobre Fake News|
 
 
-## Referências: 
+## Referências Bibliograficas 
 
 > REINEHR,Sheila.2020. ENGENHARIA DE REQUISITOS. 
 
-> App Store Coronavírus - SU‪S‬. Disponível em: https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382. Data de acesso: 04/03/2020
+> [App Store Coronavírus - SU‪S‬](https://apps.apple.com/br/app/coronav%C3%ADrus-sus/id1408008382). Data de acesso: 04/03/2021
 
-> Play Store Coronavírus - SU‪S‬. Disponível em: https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes. Data de acesso: 04/03/2020
+> [Play Store Coronavírus - SU‪S‬](https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes). Data de acesso: 04/03/2021
 
-> Aplicativo Coronavírus-SUS vai alertar contatos próximos de pacientes com Covid-19. Disponível em: [https://www.youtube.com/watch?](https://www.youtube.com/watch?v=PjG_imUHTSI&ab_channel=Minist%C3%A9riodaSa%C3%BAde). Data de acesso: 04/03/2020
+> Aplicativo Coronavírus-SUS vai alertar contatos próximos de pacientes com Covid-19. Disponível em: [https://www.youtube.com/watch?](https://www.youtube.com/watch?v=PjG_imUHTSI&ab_channel=Minist%C3%A9riodaSa%C3%BAde). Data de acesso: 04/03/2021
 
-> Coronavírus - SUS. Disponível em: https://www.gov.br/pt-br/apps/coronavirus-sus. Data de acesso: 04/03/2020
+> [Coronavírus - SUS](https://www.gov.br/pt-br/apps/coronavirus-sus). Data de acesso: 04/03/2021
 
-> App Coronavírus SUS agora vai avisar quando usuário foi exposto; entenda. Disponível em: https://www.uol.com.br/tilt/noticias/redacao/2020/07/31/app-coronavirus---sus-adiciona-rastreamento-de-contatos-entenda.htm. Data de acesso: 04/03/2020
+> [App Coronavírus SUS agora vai avisar quando usuário foi exposto; entenda](https://www.uol.com.br/tilt/noticias/redacao/2020/07/31/app-coronavirus---sus-adiciona-rastreamento-de-contatos-entenda.htm). Data de acesso: 04/03/2021
 
-> Como usar o app do Coronavírus - SUS. Disponível em: https://canaltech.com.br/apps/como-usar-app-coronavirus-sus/. Data de acesso: 04/03/2020
+> [Como usar o app do Coronavírus - SUS](https://canaltech.com.br/apps/como-usar-app-coronavirus-sus/). Data de acesso: 04/03/2021
 
 ## Versionamento
 
 | Autor | Data | Titulo | Versão |
 | :--------:| :--------: | :--------: | :--------: |
-| Gabriel Batalha, Lucas Gabriel,<br>Kleidson Alves | 04/03/2020      | Criação do Documento | 1.0 |
-| Todos os integrantes | 09/03/2020     | Edição e revisão    | 1.1 |
-| Lucas Gabriel | 11/03/2020     | Formatação de texto    | 1.2 |
+| Gabriel Batalha, Lucas Gabriel,<br>Kleidson Alves | 04/03/2021      | Criação do Documento | 1.0 |
+| Todos os integrantes | 09/03/2021     | Edição e revisão    | 1.1 |
+| Lucas Gabriel | 11/03/2021     | Formatação de texto    | 1.2 |
+| Lucas Gabriel | 20/03/2021     | Correção de referências bibliográficas   | 1.3 |

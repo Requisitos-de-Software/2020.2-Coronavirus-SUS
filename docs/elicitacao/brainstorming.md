@@ -45,12 +45,14 @@ RNF06|Dados de usuário|O sistema não deve guardar nenhum dado identificador do
 |RF11|Localização das unidades de saúde mais próximas|O usuário deve poder acessar um mapa que exibe a localização das unidades de saúde mais próximas disponíveis para atendê-lo
 |RF12|Alterar idioma|O usuário deve poder alterar o idioma do sistema
 
-## Referências
-> O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes - Brasil 10 jul, 19. Disponível https://rockcontent.com/br/blog/brainstorming/ . Data de acesso: 09 de março de 2020.
+## Referências Bibliograficas
+> [O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes](https://rockcontent.com/br/blog/brainstorming/) - Brasil 10 jul, 19. Data de acesso: 09 de março de 2021.
 ## Versionamento
 
 | Autor     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
-| Todos os integrantes | 09/03/2020     | Criação do Documento | 1.0 |
-| Hugo | 11/03/2020     | Formatação e preparação para o github pages | 1.1 |
-| Hugo | 19/03/2020     | Revisão | 1.2 |
+| Todos os integrantes | 09/03/2021     | Criação do Documento | 1.0 |
+| Hugo Bezerra| 11/03/2021     | Formatação e preparação para o github pages | 1.1 |
+| Hugo Bezerra| 19/03/2021     | Revisão | 1.2 |
+| Lucas Gabriel | 20/03/2021     | Correção referências bibliográficas e datas | 1.3 |
+

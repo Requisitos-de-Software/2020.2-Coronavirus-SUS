@@ -29,14 +29,15 @@ A Introspecção foi realizada durante 1 dia individualmente por cada integrante
 |RF07|Compartilhar teste positivo|O usuário deve poder informar ao sistema o seu teste positivo 
 |RF08|Compartilhar notícias|O usuário deve poder compartilhar notícias diretamente do sistema 
 
-## Referências
+## Referências Bibliográficas
 
-> Elicitação de Requisitos. PUC-RIO. Disponível em: http://www2.dbd.puc-rio.br/pergamum/tesesabertas/0521479_08_cap_02.pdf. Data de acesso: 09 de março 2020.
+> > [Elicitação de Requisitos. PUC-RIO](http://www2.dbd.puc-rio.br/pergamum/tesesabertas/0521479_08_cap_02.pdf). Data de acesso: 09 de março 2021.
 
 ## Versionamento
 
 | Autor     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Todos os integrantes | 09/03/2021     | Criação do Documento | 1.0 |
-| Hugo | 11/03/2021     | Formatação e preparação para o github pages | 1.1 |
-| Hugo | 19/03/2021     | Revisão | 1.2 |
+| Hugo Bezerra| 11/03/2021     | Formatação e preparação para o github pages | 1.1 |
+| Hugo Bezerra| 19/03/2021     | Revisão | 1.2 |
+| Lucas Gabriel | 20/03/2021     | Correção referências bibliográficas e datas | 1.3 |

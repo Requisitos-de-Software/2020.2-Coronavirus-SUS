@@ -54,7 +54,7 @@ Habilidades: | Mestrado em matemática, edição de vídeos
 Paulo é professor de Matemática na Universidade de Brasília. Por fazer parte do grupo de risco do COVID-19, ele sentiu a necessidade de obter mais conhecimento sobre a doença e de se manter informado sobre as últimas notícias sobre a pandemia vindas de uma fonte confiável e de rápido acesso. Assim, um de seus alunos recomendou que ele utilizasse o aplicativo Coronavírus - SUS, para que além de obter todas essas informações, pudesse também ser alertado sobre possíveis exposições ao vírus, de forma a se prevenir e ajudar a evitar o aumento do número de casos da doença.
 </div>
 
-## Referências
+## Referências Bibliográficas
 > COOPER, Alan, et al. 2007. About Face 3 The Essentials of Interaction Design
 
 > [This Person Does Not Exist](https://thispersondoesnotexist.com/). Data de acesso: 04/03/2021  
@@ -62,6 +62,7 @@ Paulo é professor de Matemática na Universidade de Brasília. Por fazer parte 
 ## Versionamento
 | Autor     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
-| Hugo Ricardo, Lucas Rodrigues | 04/03/2021 | Criação do documento | 1.0
-| Hugo Ricardo | 11/03/2021     | Formatação e preparação para o github pages | 1.1 |
-| Hugo Ricardo | 19/03/2021     | Revisão | 1.2 |
+| Hugo Bezerra, Lucas Rodrigues | 04/03/2021 | Criação do documento | 1.0
+| Hugo Bezerra | 11/03/2021     | Formatação e preparação para o github pages | 1.1 |
+| Hugo Bezerra | 19/03/2021     | Revisão | 1.2 |
+| Lucas Gabriel | 20/03/2021     | Correção referências bibliográficas | 1.3 |

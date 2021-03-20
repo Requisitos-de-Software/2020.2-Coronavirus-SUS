@@ -51,4 +51,4 @@ RF17|Apresentar alerta|O usuário deve poder acessar uma página com as lista de
 
 | Autor | Data | Titulo | Versão |
 | :--------: | :--------: | :--------: | :-----:
-| Hugo, Kleidson     | 16/03/2021     | Criação do Documento| 1.0
+| Hugo Bezerra, Kleidson Alves | 16/03/2021     | Criação do Documento| 1.0

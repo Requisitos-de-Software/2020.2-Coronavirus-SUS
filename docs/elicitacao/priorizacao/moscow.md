@@ -84,14 +84,15 @@ RF07|Relatar estado
 RF14 |Apresentar notícias locais
 
 
-## Referências
-> BEATTY, Joy. WIEGERS, Karl. Software Requirements 3.ed. Data de acesso: 09 de março de 2020.
+## Referências Bibliográficas
+> BEATTY, Joy. WIEGERS, Karl. Software Requirements 3.ed. Data de acesso: 09 de março de 2021.
 
 
 ## Versionamento
 
 | Autor     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
-| Todos os integrantes | 09/03/2020     | Criação do Documento | 1.0 
-| Hugo | 11/03/2020     | Formatação e preparação para o github pages | 1.1 |
-| Kleidson | 16/03/2020 | Revisão de Documento| 1.2|
+| Todos os integrantes | 09/03/2021     | Criação do Documento | 1.0 
+| Hugo Bezerra| 11/03/2021     | Formatação e preparação para o github pages | 1.1 |
+| Kleidson Alves| 16/03/2021 | Revisão de Documento| 1.2|
+| Lucas Gabriel | 20/03/2021     | Correção referências bibliográficas | 1.3 |
