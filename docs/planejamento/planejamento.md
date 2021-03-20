@@ -52,5 +52,6 @@ A aplicação da metodologia será feita da seguinte forma de acordo com os valo
 | Autor | Data | Título | Versão |
 |--|--|--|--|
 | Todos os integrantes | 18/02/2021 | Criação do Documento de planejamento | 1.0 |
-| Hugo | 11/03/2020     | Removendo logo do app | 1.1 |
+| Hugo Ricardo | 11/03/2020     | Removendo logo do app | 1.1 |
 | Lucas Rodrigues | 24/02/2021 | Revisão do documento | 1.2 |
+| Hugo Ricardo | 24/02/2021 | Adicionando Lucid Chart e HackMD as ferramentas | 1.2 |
