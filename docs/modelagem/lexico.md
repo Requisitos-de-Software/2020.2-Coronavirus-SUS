@@ -167,7 +167,7 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 |**Impacto**|O sistema não guarda dados pessoais ou de geolocalização do usuário|
 |**Classificação**|Estado|
 
-## Bibliografia
+## Referências Bibliográficas
 
 > SAMPAIO, Julio César. FRANCO, Ana Paula.  [A Strategy for Conceptual Model Acquisition](http://www-di.inf.puc-rio.br/~julio/Slct-pub/lel.pdf). Departamento de Informática. Universidade Católica do Rio de Janeiro. p. 243-246. Data de acesso: 19/03/2021  
 
