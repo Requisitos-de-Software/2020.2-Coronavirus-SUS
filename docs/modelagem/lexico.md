@@ -177,4 +177,4 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 | Autor(es)     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021     | Criação do Documento | 1.0 
-| Hugo Ricardo | 19/03/2021     | Revisão | 1.1 
+| Hugo Bezerra | 19/03/2021     | Revisão | 1.1 

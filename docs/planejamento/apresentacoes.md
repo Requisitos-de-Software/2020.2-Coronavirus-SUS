@@ -16,4 +16,4 @@ Link para as apresentações em vídeo gravadas pela equipe
 ## Versionamento
 | Autor | Data | Título | Versão |
 |--|--|--|--|
-| Hugo | 19/03/2021 | Criação do Documento | 1.0 |
+| Hugo Bezerra| 19/03/2021 | Criação do Documento | 1.0 |
