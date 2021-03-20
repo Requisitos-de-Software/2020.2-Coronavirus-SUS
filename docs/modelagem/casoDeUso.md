@@ -21,7 +21,13 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 
 ## Resultados
 
-    ImagemUC01
+### **UC01** - Compartilhar teste positivo
+<br>
+
+<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/compartilharTestePositivo.png">
+
+<br>
+
 |   UC01    | Informações |
 |:---------:|---------- |
 |Descrição|O ato do usuário de compartilhar o resultado positivo de um teste para o vírus COVID-19|
@@ -33,7 +39,15 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 |Pós-condições|O teste positivo do cidadão brasileiro é compartilhado com a aplicação|
 |Rastreabilidade|RF09 - Compartilhar teste positivo|
 
-    ImagemUC02
+<br>
+
+### **UC02** - Alterar idioma
+
+<br>
+
+<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/alterarIdioma.png">
+
+<br>
     
 |   UC02    | Informações |
 |:---------:|---------- |
@@ -46,8 +60,16 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 |Pós-condições|O idioma da aplicação é alterado para aquele escolhido pelo cidadão brasileiro|
 |Rastreabilidade|RF18 - Internacionalização|
 
-    ImagemUC03
-    
+<br>
+
+### **UC03** - Notificar exposição
+
+<br>
+
+<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/notificarExposicao.png">
+
+<br>
+
 |   UC03    | Informações |
 |:---------:|---------- |
 | Descrição|O ato de o sistema notificar o usuário após uma exposição detectada|
@@ -59,7 +81,15 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 |Pós-condições|O cidadão brasileiro é informado com respeito à exposição que sofreu|
 |Rastreabilidade|RF05 - Notificar contato com infectado|
 
-    ImagemUC04
+<br>
+
+### **UC04** - Apresentar alerta
+
+<br>
+
+<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/alertas.png">
+
+<br>
 
 |   UC04    | Informações |
 |:---------:|---------- |
@@ -72,7 +102,15 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 |Pós-condições|O cidadão brasileiro é informado a respeito de todos alertas que já recebeu|
 |Rastreabilidade|RF17 - Apresentar alerta|
 
-    ImagemUC05
+<br>
+
+### **UC05** - Notícias
+
+<br>
+
+<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/noticias.png">
+
+<br>
 
 |   UC05    | Informações |
 |:---------:|---------- |
@@ -85,8 +123,15 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 |Pós-condições|O cidadão brasileiro consegue ver as notícias atualizadas com respeito à COVID-19|
 |Rastreabilidade|RF03 - Notícias sobre a COVID-19|
 
+<br>
 
-    ImagemUC06
+### **UC06** - Informativos
+
+<br>
+
+<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/informativos.png">
+
+<br>
 
 |   UC06    | Informações |
 |:---------:|---------- |
@@ -113,4 +158,5 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 | Autor(es)     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Hugo Bezerra, Kleidson Alves, <br>Lucas Gabriel | 19/03/2021     | Criação do Documento | 1.0 
-| Gabriel Batalha, Kleidson Alves, <br>Lucas Rodrigues | 20/03/2021     | Adicionado Casos de Uso| 1.1 
+| Gabriel Batalha, Kleidson Alves, <br>Lucas Rodrigues | 20/03/2021     | Adicionando Casos de Uso| 1.1 
+| Lucas Gabriel | 20/03/2021     | Adicionando  imagens| 1.2 
