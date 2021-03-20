@@ -34,7 +34,7 @@ Reúne os requisitos que envolvem a interação do usuário com o sistema. Indic
 ### Confiabilidade 
 
 <div style="text-indent: 20px; text-align: justify">
-Reúne os requisitos de confiabilidade do sistema, em realação a segurança dos dados do usuário.
+Reúne os requisitos de confiabilidade do sistema, em relação a segurança dos dados do usuário.
 </div>
 <br>
 
@@ -54,7 +54,7 @@ Reúne os requisitos de confiabilidade do sistema, em realação a segurança do
 ### Desempenho
 
 <div style="text-indent: 20px; text-align: justify"> 
-Reúne os requisitos que envolvem o tempo de resposta na execução das funcionalidade do sistema. Também envolve o uso de recuros, tais como memória, espaço em disco e comunicação.
+Reúne os requisitos que envolvem o tempo de resposta na execução das funcionalidade do sistema. Também envolve o uso de recursos, tais como memória, espaço em disco e comunicação.
 </div>
 <br>
 

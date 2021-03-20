@@ -51,7 +51,7 @@ Idade: | 44
 Profissão: | Professor de Matemática
 Status: | Persona primária
 Hábitos: | Tecnologia e gravação de vídeos
-Objetivos: | Manter-se informado sobre as atualidades, realizar pesquisas em diversas áreas da Matemática, compartilhar seus conhecimentos em seu canal no Youtube
+Objetivos: | Manter-se informado sobre as atualidades, realizar pesquisas em diversas áreas da Matemática, compartilhar seus conhecimentos em seu canal no YouTube
 Habilidades: | Mestrado em matemática, edição de vídeos
 
 <br>
@@ -80,7 +80,7 @@ Habilidades: | Técnico em Eletrônica, desenvolver programas embarcados
 
 Felipe é um estudante de engenharia mecatrônica em Belém do Pará, ele mora com seus avós e por eles serem pessoas de idade avançada Felipe se preocupa muito em proteger sua família do novo Coronavírus.  
 
-Quando Felipe ficou sabendo sobre a função de vizualizar unidades de saúde próximas da sua localização presente no sistema Coronavírus SUS ele certificou de logo baixar o aplicativo em seu celular, pois ele é o único de sua casa que tem habilitação para dirigir e portanto precisa estar preparado caso seja necessário comparecer a uma unidade de saúde ou levar um de seus familiares. 
+Quando Felipe ficou sabendo sobre a função de visualizar unidades de saúde próximas da sua localização presente no sistema Coronavírus SUS ele certificou de logo baixar o aplicativo em seu celular, pois ele é o único de sua casa que tem habilitação para dirigir e portanto precisa estar preparado caso seja necessário comparecer a uma unidade de saúde ou levar um de seus familiares. 
 </div>
 
 ### Antipersona
