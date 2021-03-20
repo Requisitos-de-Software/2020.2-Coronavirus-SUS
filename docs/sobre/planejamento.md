@@ -11,14 +11,16 @@ Após uma reunião realizada pela equipe, foi decidido que o aplicativo do gover
 
 ## Ferramentas
 
-| Icone | Nome | Função | 
+| Ícone | Nome | Função | 
 |:--:|:--:|:--:| 
 | <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/github.png"> | GitHub | Controle de versão e Projects para listagem de atividades | 
 | <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/telegram.png"> | Telegram | Principal meio de comunicação entre os membros da equipe | 
-| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/discord.png"> | Discord | Reuniões sícronas com a equipe | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/discord.png"> | Discord | Reuniões síncronas com a equipe | 
 | <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/VSCode.png"> | Visual Studio Code | Principal IDE da equipe | 
 | <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/drive.png"> | Google Drive | Armazenamento de documentos | 
 | <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/figma.png"> | Figma | Prototipagem | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/lucidChart.png"> | Lucid Chart | Documentação | 
+| <img width="150" height="150" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/icons/hackmd.png"> | HackMD | Edição de arquivos .md | 
 
 
 ## Cronograma de Atividades
@@ -46,9 +48,10 @@ A aplicação da metodologia será feita da seguinte forma de acordo com os valo
 - Comprometimento e responsabilidade de cada membro da equipe em relação a tarefa designada
 - Adaptações de acordo com o feedback feito durante as reuniões
 
-## Versão
+## Versionamento
 | Autor | Data | Título | Versão |
 |--|--|--|--|
 | Todos os integrantes | 18/02/2021 | Criação do Documento de planejamento | 1.0 |
-| Hugo | 11/03/2020     | Removendo logo do app | 1.1 |
+| Hugo Bezerra | 11/03/2021     | Removendo logo do app | 1.1 |
 | Lucas Rodrigues | 24/02/2021 | Revisão do documento | 1.2 |
+| Hugo Bezerra | 24/02/2021 | Adicionando Lucid Chart e HackMD as ferramentas | 1.3 |

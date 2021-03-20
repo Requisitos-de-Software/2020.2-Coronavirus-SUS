@@ -1,6 +1,6 @@
 # Rich Picture
 
-### Versão 1
+## Versão 1.0
 
 Primeira versão de Rich Picture do Corornavírus - SUS, Feita a mão.
 
@@ -9,6 +9,8 @@ Primeira versão de Rich Picture do Corornavírus - SUS, Feita a mão.
 </div>
 
 Autor: Kleidson Alves
+
+## Versionamento
 
 | Autor | Data | Título | Versão |
 |--|--|--|--|
