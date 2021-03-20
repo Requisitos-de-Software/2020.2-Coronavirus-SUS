@@ -31,7 +31,7 @@ A Introspecção foi realizada durante 1 dia individualmente por cada integrante
 
 ## Referências Bibliográficas
 
-> > [Elicitação de Requisitos. PUC-RIO](http://www2.dbd.puc-rio.br/pergamum/tesesabertas/0521479_08_cap_02.pdf). Data de acesso: 09 de março 2021.
+> [Elicitação de Requisitos. PUC-RIO](http://www2.dbd.puc-rio.br/pergamum/tesesabertas/0521479_08_cap_02.pdf). Data de acesso: 09 de março 2021.
 
 ## Versionamento
 
