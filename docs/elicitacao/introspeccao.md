@@ -10,6 +10,11 @@ A técnica consiste em entender quais propriedades o sistema deve possuir para q
 O uso da técnica de introspecção se deu pelo fato de ser uma técnica que estimula o pensamento criativo para desenvolver uma solução para o problema apresentado. Ao usá-la a equipe pôde se colocar no lugar do cliente com a finalidade de perceber quais requisitos seriam necessários para que o software atenda o que se espera.
 </div>
 
+### Experiência
+<div style="text-indent: 40px; text-align: justify"/>
+A Introspecção foi realizada durante 1 dia individualmente por cada integrante da equipe e depois foi reunida em um documento por meio de uma reunião online.
+</div>
+
 ## Resultados
 
 |Número|Nome|Descrição|
@@ -32,5 +37,6 @@ O uso da técnica de introspecção se deu pelo fato de ser uma técnica que est
 
 | Autor     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
-| Todos os integrantes | 09/03/2020     | Criação do Documento | 1.0 |
-| Hugo | 11/03/2020     | Formatação e preparação para o github pages | 1.1 |
+| Todos os integrantes | 09/03/2021     | Criação do Documento | 1.0 |
+| Hugo | 11/03/2021     | Formatação e preparação para o github pages | 1.1 |
+| Hugo | 19/03/2021     | Revisão | 1.2 |

@@ -13,7 +13,7 @@ Por ser uma técnica que incentiva a criatividade na solução de problemas, sua
 
 ### Experiência
 <div style="text-indent: 40px; text-align: justify"/>
-O Brainstorming foi realizado em uma chamada de vídeo entre todos os integrantes da equipe onde todos puderam anotar suas ideia em um documento de edição compartilhada, durante a realização do brainstorming houve um foco principal em levantar ideias que pudessem beneficiar as personas que foram elaboradas no projeto para facilitar na identificação das necessidades de um possível usuário do sistema.  
+O Brainstorming foi realizado em uma chamada de voz entre todos os integrantes da equipe onde todos puderam anotar suas ideia em um documento de edição compartilhada, durante a realização do brainstorming houve um foco principal em levantar ideias que pudessem beneficiar as personas que foram elaboradas no projeto para facilitar na identificação das necessidades de um possível usuário do sistema.  
 </div>
 
 ## Resultados
