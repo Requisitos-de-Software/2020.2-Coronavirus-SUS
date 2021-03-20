@@ -3,13 +3,13 @@
 ## Definição
 
 <div style="text-indent: 30px; text-align: justify ">
-É uma estratégia reconhecida que é entendida como a criação de situações específicas e determinar como os produto de software deve reagir em cada uma delas. A partir dai é possível elicitar a parte comportamental do software, sua dinâmica ou seu fluxo.
+É uma estratégia reconhecida que é entendida como a criação de situações específicas e determinar como o produto de software deve reagir em cada uma delas. A partir disso é possível elicitar a parte comportamental do software, sua dinâmica ou seu fluxo.
 </div>
 
 ### Por que utilizamos? 
 
 <div style="text-indent: 30px; text-align: justify ">
-    A equipe decidiu utilizar essa técnica, pois permite um fácil entendimento do requisito, o que pode ser utilizado na etapa de desenvolvimento e na etapa de pós rastreabilidade.
+    A equipe decidiu utilizar essa técnica, pois permite um fácil entendimento do requisito, o que pode ser utilizado na etapa de desenvolvimento e na etapa de pós-rastreabilidade.
     
 </div>
 
@@ -46,31 +46,31 @@
 |**Objetivo**| *Habilitar uma notificação de possível exposição ao vírus*|
 |**Contexto**| *Bluetooth deve estar ativado*|
 |**Atores**| *Cidadão brasileiro*|
-|**Recursos**|*Dispositivo com bluetooth<br>Dispositivo com coronavírus SUS instalado*|
-|**Exceção**|*O usuário não está com o bluetooth do dispositivo ativado <br> As notificações do dispositivo estão desativadas*|
+|**Recursos**|*Dispositivo com Bluetooth<br>Dispositivo com coronavírus SUS instalado*|
+|**Exceção**|*O usuário não está com o Bluetooth do dispositivo ativado <br> As notificações do dispositivo estão desativadas*|
 |**Episódios**|*1- O usuário deve acessar o sistema <br /> 2- O usuário deve habilitar a notificação de exposição* <br /> |
 
 ### Cenário 04
 | <div style = "font-size:25px"> Elemento </div> | <div style = "font-size:25px"> Resposta </div> |
 | :--------: | :-------|
 |**Título** |*Mudar idioma*|
-|**Objetivo**|*O usuário deve poder alteral o idioma de apresentação do aplicativo*|
+|**Objetivo**|*O usuário deve poder alterar o idioma de apresentação do aplicativo*|
 |**Contexto**|*Não há contexto específico*|
 |**Atores**|*Cidadão brasileiro*|
 |**Recursos**|*Dispositivo com coronavírus SUS instalado*|
 |**Exceção**|*Sem exceções*|
-|**Episódios**|*1- O ator entra no aplicativo do Coronavírus SUS<br/>2- O ator seleciona a lista de idiomas<br/>3- O ator seleciona a opção de idioma desejado*|
+|**Episódios**|*1- O usuário entra no aplicativo do Coronavírus SUS<br/>2- O usuário seleciona a lista de idiomas<br/>3- O usuário seleciona a opção de idioma desejado*|
 
 ### Cenário 05
 | <div style = "font-size:25px"> Elemento </div> | <div style = "font-size:25px"> Resposta </div> |
 | :--------: | :-------|
 |**Título** |*Ler informativos sobre a COVID-19*|
 |**Objetivo**|*O usuário deve poder acessar informações sobre o vírus da COVID-19*|
-|**Contexto**|*O usuário se quer entender mais sobre a COVID-19*|
+|**Contexto**|*O usuário quer entender mais sobre a COVID-19*|
 |**Atores**|*Cidadão brasileiro*|
 |**Recursos**|*Dispositivo com coronavírus SUS instalado*|
 |**Exceção**|*Sem exceções*|
-|**Episódios**|*1- O ator entra no aplicativo do Coronavírus SUS<br/>2- O ator seleciona a aba de dicas<br/> 3- O ator seleciona um tópico*|
+|**Episódios**|*1- O usuário entra no aplicativo do Coronavírus SUS<br/>2- O usuário seleciona a aba de dicas<br/> 3- O usuário seleciona um tópico*|
 
 
 ### Cenário 06
@@ -82,7 +82,7 @@
 |**Atores**|*Cidadão brasileiro*|
 |**Recursos**|*Dispositivo com coronavírus SUS instalado*|
 |**Exceção**|*O usuário não recebeu nenhum alerta*|
-|**Episódios**|*1- O ator entra no aplicativo do Coronavírus SUS<br/>2- O ator seleciona a aba de alertas*|
+|**Episódios**|*1- O usuário entra no aplicativo do Coronavírus SUS<br/>2- O usuário seleciona a aba de alertas*|
 
 ### Cenário 07
 | <div style = "font-size:25px"> Elemento </div> | <div style = "font-size:25px"> Resposta </div> |
@@ -93,7 +93,7 @@
 |**Atores**|*Cidadão brasileiro*|
 |**Recursos**|*Acesso a internet<br>Dispositivo com GPS<br>Dispositivo com coronavírus SUS instalado*|
 |**Exceção**|*Sem acesso a internet<br>O GPS do dispositivo estar desativado*|
-|**Episódios**|*1- O ator entra no aplicativo do Coronavírus SUS<br>2- O ator seleciona a opção mapa*|
+|**Episódios**|*1- O usuário entra no aplicativo do Coronavírus SUS<br>2- O usuário seleciona a opção mapa*|
 
 ### Cenário 08
 | <div style = "font-size:25px"> Elemento </div> | <div style = "font-size:25px"> Resposta </div> |
@@ -104,7 +104,7 @@
 |**Atores**|*Cidadão brasileiro*|
 |**Recursos**|*Dispositivo com acesso à Internet<br>Dispositivo com coronavírus SUS instalado*|
 |**Exceção**|*Sem acesso à Internet*|
-|**Episódios**|*1- O ator entra no aplicativo do Coronavírus - SUS<br>2- O ator acessa a aba de noticias do sistema<br>3- O usuário acessa a opção estatísticas*|
+|**Episódios**|*1- O usuário entra no aplicativo do Coronavírus SUS<br>2- O usuário acessa a aba de noticias do sistema<br>3- O usuário acessa a opção estatísticas*|
 
 ### Cenário 09
 | <div style = "font-size:25px"> Elemento </div> | <div style = "font-size:25px"> Resposta </div> |
@@ -115,7 +115,7 @@
 |**Atores**|*Cidadão brasileiro*|
 |**Recursos**|*Dispositivo com acesso à Internet<br>Dispositivo com coronavírus SUS instalado*|
 |**Exceção**|*Sem acesso à Internet*|
-|**Episódios**|*1- O ator entra no aplicativo do Coronavírus -  SUS<br>2- O ator acessa a aba de notícias do sistema<br>3- O ator visualiza as notícias<br>4- O ator seleciona o icone de compartilhamento*|
+|**Episódios**|*1- O usuário entra no aplicativo do Coronavírus -  SUS<br>2- O usuário acessa a aba de notícias do sistema<br>3- O usuário visualiza as notícias<br>4- O usuário seleciona o icone de compartilhamento*|
 
 ### Cenário 10
 | <div style = "font-size:25px"> Elemento </div> | <div style = "font-size:25px"> Resposta </div> |
@@ -124,9 +124,9 @@
 |**Objetivo**|*O usuário deve poder descobrir quando é estimado que ele tenha direito a se vacinar*|
 |**Contexto**|*O usuário deseja saber uma previsão de quando se vacinar*|
 |**Atores**|*Cidadão brasileiro*|
-|**Recursos**|*Informações do ator<br>Dispositivo com acesso à Internet<br>Dispositivo com coronavírus SUS instalado*|
+|**Recursos**|*Informações do usuário<br>Dispositivo com acesso à Internet<br>Dispositivo com coronavírus SUS instalado*|
 |**Exceção**|*Sem acesso à Internet*|
-|**Episódios**|*1- O ator entra no aplicativo do Coronavírus -SUS<br/> 2- O ator acessa a aba de informações<br>3- O ator acessa o tópico sobre vacina<br>4- O ator acessa a opção de disponibilidade de vacina<br>5- O ator informa alguns dados e solicita a previsão*|
+|**Episódios**|*1- O usuário entra no aplicativo do Coronavírus SUS<br/> 2- O usuário acessa a aba de informações<br>3- O usuário acessa o tópico sobre vacina<br>4- O usuário acessa a opção de disponibilidade de vacina<br>5- O usuário informa alguns dados e solicita a previsão*|
 
 ### Cenário 11
 | <div style = "font-size:25px"> Elemento </div> | <div style = "font-size:25px"> Resposta </div> |
@@ -137,10 +137,10 @@
 |**Atores**|*Cidadão brasileiro*|
 |**Recursos**|*Dispositivo com GPS<br>Dispositivo com coronavírus SUS instalado*|
 |**Exceção**|*O GPS do dispositivo estar desativado*|
-|**Episódios**|*1- O ator entra no aplicativo do Coronavírus SUS<br>2- O ator seleciona a opção mapa<br>3- O ator seleciona a opção de unidades de saúde*|
+|**Episódios**|*1- O usuário entra no aplicativo do Coronavírus SUS<br>2- O usuário seleciona a opção mapa<br>3- O usuário seleciona a opção de unidades de saúde*|
 
 
-### Cenário 11
+### Cenário 12
 | <div style = "font-size:25px"> Elemento </div> | <div style = "font-size:25px"> Resposta </div> |
 | :--------: | :-------|
 |**Título** |*Relatar estado de saúde*|
@@ -149,10 +149,11 @@
 |**Atores**|*Cidadão brasileiro*|
 |**Recursos**|*Dispositivo com acesso à Internet<br>Dispositivo com coronavírus SUS instalado*|
 |**Exceção**|*Sem acesso à Internet*|
-|**Episódios**|*1- O ator entra no aplicativo do Coronavírus SUS<br>2- O ator seleciona a analisar estado de saúde<br>3- O ator responde um questionário sobre seu estado de saúde*|
+|**Episódios**|*1- O usuário entra no aplicativo do Coronavírus SUS<br>2- O usuário seleciona a analisar estado de saúde<br>3- O usuário responde um questionário sobre seu estado de saúde*|
 
 ## Versionamento
 
 | Autor     | Data       | Titulo     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Todos os integrantes   | 16/03/2021 | Criação do Documento | 1.0 |
+| Hugo Ricardo   | 19/03/2021 | Revisão | 1.1 |
