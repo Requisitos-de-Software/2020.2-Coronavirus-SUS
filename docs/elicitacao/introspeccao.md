@@ -5,7 +5,7 @@
 A técnica consiste em entender quais propriedades o sistema deve possuir para que seja um sucesso. Demanda o engenheiro de requisitos imaginar o que ele gostaria se ele tivesse que desempenhar uma dada tarefa com os equipamentos disponíveis e demais recursos.
 </div>
 
-### Por que utilizamos o Introspecção?
+### Por que utilizamos a introspecção?
 <div style="text-indent: 40px; text-align: justify"/>
 O uso da técnica de introspecção se deu pelo fato de ser uma técnica que estimula o pensamento criativo para desenvolver uma solução para o problema apresentado. Ao usá-la a equipe pôde se colocar no lugar do cliente com a finalidade de perceber quais requisitos seriam necessários para que o software atenda o que se espera.
 </div>

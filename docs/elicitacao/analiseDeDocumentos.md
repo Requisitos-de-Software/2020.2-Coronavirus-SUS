@@ -5,7 +5,7 @@
 Análise de documentos trata de analisar documentos já existentes para buscar por potenciais requisitos. Os documentos mais úteis são especificação de requisitos, processos do negócios, coleções lessons-learned e manual do usuário de aplicações similares ou existentes. 
 </div>
 
-### Por que utilizamos a Análise de documentos?
+### Por que utilizamos a análise de documentos?
 <div style="text-indent: 20px; text-align: justify">
 Por se tratar de um tema que está em alta, muitas matérias jornalisticas são feitas com dados e informações, sobre o vírus e temas relacionados a ele. Isso gera muitos documentos passíveis de extração de informação, o que a equipe julgou como muito útil para a elicitação de documentos.
 </div>

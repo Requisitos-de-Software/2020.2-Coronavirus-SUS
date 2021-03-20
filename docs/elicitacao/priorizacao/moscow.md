@@ -93,7 +93,7 @@ RF16|Previsão de disponibilidade de vacina
 |RF14 |Apresentar notícias locais
 
 
-## Referências
+## Referências Bibliográficas
 > BEATTY, Joy. WIEGERS, Karl. Software Requirements 3.ed. Data de acesso: 09 de março de 2021.
 
 

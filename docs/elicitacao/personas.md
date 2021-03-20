@@ -100,7 +100,7 @@ Habilidades: | Pós Graduação em Gestão Financeira
 <br>
 <div style="text-indent: 40px; text-align: justify"/>
 
-Diego é gestor financeiro de uma empresa em São Paulo. Ele utiliza seu smartphone apenas para realizar ligações, principalmente relacionadas ao seu trabalho, e para trocar mensagens utilizando mensageiros online. Para pesquisar as notícias do dia, ele prefere navegar na internet no seu computador. Por esses motivos, ele não tem o costume de instalar outros tipos de aplicativo no seu celular. Dessa forma, mesmo após ficar sabendo do Coronavírus - SUS, não demonstrou interesse em utilizar o aplicativo e os serviços que ele oferece.
+Diego é gestor financeiro de uma empresa em São Paulo. Ele utiliza seu smartphone apenas para realizar ligações, principalmente relacionadas ao seu trabalho, e para trocar mensagens online. Para pesquisar as notícias do dia, ele prefere navegar na internet no seu computador. Por esses motivos, ele não tem o costume de instalar outros tipos de aplicativo no seu celular. Dessa forma, mesmo após ficar sabendo do Coronavírus - SUS, não demonstrou interesse em utilizar o aplicativo e os serviços que ele oferece.
 </div>
 
 ## Referências Bibliográficas
