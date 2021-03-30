@@ -15,8 +15,8 @@ Por se tratar de um tema que está em alta, muitas matérias jornalisticas são 
 
 |Número|Nome|Descrição|
 |:--:|:--:|:--:|
-RNF01|Contact-tracing| O sistema será compatível apenas em Iphone versão 13.5 ou superior| 
-RNF02| Carregar informações do twitter|O sistema deve buscar atualizações de notícias a partir do twitter do Ministério da Saúde
+RNF01|Recurso contact-tracing| O sistema será compatível apenas em Iphone versão 13.5 ou superior| 
+RNF02| Obtenção de informações do twitter|O sistema deve buscar atualizações de notícias a partir do twitter do Ministério da Saúde
 RF01|Mapa de unidades de saúde|O sistema deverá mostrar unidades de saúde próximas a geolocalização do usuário
 RF02|Informativos sobre a COVID-19|O sistema deverá mostrar informações sobre o vírus da COVID-19
 RF03|Notícias sobre a COVID-19|O sistema deverá mostrar as notícias relacionadas ao vírus da COVID-19
@@ -26,8 +26,8 @@ RF04| Testar possível infecção|O usuário deve poder verificar se os seus sin
 ### Documento Analisado: [Play Store](https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes)
 |Número|Nome|Descrição|
 |:--:|:--:|:--:|
-RNF02|Carregar informações do twitter|O sistema deve buscar atualizações de notícias a partir do twitter do Ministério da Saúde
-RNF03|Contact-tracing|O sistema será compatível apenas em android 5.0 ou superior|
+RNF02|Obtenção de informações do twitter|O sistema deve buscar atualizações de notícias a partir do twitter do Ministério da Saúde
+RNF03|Recurso contact-tracing|O sistema será compatível apenas em android 5.0 ou superior|
 RF01|Mapa de unidades de saúde |O sistema deverá mostrar unidades de saúde próximas à geolocalização do usuário
 RF02|Informativos sobre a COVID-19|O sistema deverá mostrar informações sobre o vírus da COVID-19
 RF03|Notícias sobre a COVID-19|O sistema deverá mostrar as notícias relacionadas ao vírus da COVID-19
@@ -72,7 +72,7 @@ RF04|Testar possível infecção|O usuário deve poder verificar se os seus sint
 
 |Número|Nome|Descrição|
 |:--:|:--:|:--:|
-|RNF02|Carregar informações do twitter|O sistema deve buscar atualizações de notícias a partir do twitter do Ministério da Saúde|
+|RNF02|Obtenção de informações do twitter|O sistema deve buscar atualizações de notícias a partir do twitter do Ministério da Saúde|
 |RNF12|Geolocalização|O sistema deverá utilizar a geolocalização do usuário para encontrar os postos de saúde mais próximos|
 |RNF13|Atualização de notícias|O sistema não deve atualizar as notícias em tempo real|
 |RF01|Mapa de unidades de saúde|O sistema deverá mostrar um mapa com as unidades de saúde mais próximas em destaque.|

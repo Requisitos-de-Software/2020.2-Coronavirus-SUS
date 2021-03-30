@@ -51,8 +51,9 @@ RNF06|Dados de usuário|O sistema não deve guardar nenhum dado identificador do
 
 | Autor     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
-| Todos os integrantes | 09/03/2021     | Criação do Documento | 1.0 |
+| Todos os integrantes | 09/03/2021     | Criação do documento | 1.0 |
 | Hugo Bezerra| 11/03/2021     | Formatação e preparação para o github pages | 1.1 |
 | Hugo Bezerra| 19/03/2021     | Revisão | 1.2 |
 | Lucas Gabriel | 20/03/2021     | Correção referências bibliográficas e datas | 1.3 |
+|Kleidson Alves| 30/03/2021| Refatoração do documento | 1.4
 

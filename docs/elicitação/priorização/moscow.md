@@ -38,14 +38,14 @@ Os requisitos presentes nesse documento podem ser encontrados na <a href="https:
 |:----:|:--:|
 |RNF01|Atualização de notícias
 |RNF02|Obtenção das informações
-|RNF05|Carregar notícias do twitter
+|RNF05|Obtenção de notícias do twitter
 |RNF08|Dados do usuário
 |RNF10|Não determinar identidade
 |RNF11|Contato com a COVID-19
 |RNF12|Notificação de usuário contaminado
 |RNF13|Troca de chaves por Bluetooth
-|RNF14|Contact-tracing Iphone
-|RNF15|Contact-tracing Android
+|RNF14|Recurso contact-tracing Iphone
+|RNF15|Recurso contact-tracing Android
 |RNF17|Compartilhamento simples|O usuário deve poder compartilhar teste positivo com no máximo 3 cliques
 |RNF18|Fácil acesso|O usuário deve ter fácil acesso às dicas e notícias
 |RNF19|Internacionalização|O sistema deve conter outros idiomas guardados
@@ -103,7 +103,9 @@ RF16|Previsão de disponibilidade de vacina
 
 | Autor     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
-| Todos os integrantes | 09/03/2021     | Criação do Documento | 1.0 
+| Todos os integrantes | 09/03/2021     | Criação do documento | 1.0 
 | Hugo Ricardo | 11/03/2021     | Formatação e preparação para o GitHub pages | 1.1 |
-| Kleidson Alves | 16/03/2021 | Revisão de Documento| 1.2|
+| Kleidson Alves | 16/03/2021 | Revisão do documento| 1.2|
 | Hugo Bezerra, Lucas Gabriel | 20/03/2021 | Edição do documento| 2.0|
+| Hugo Bezerra, Lucas Gabriel | 20/03/2021 | Refatoração do documento| 2.1|
+

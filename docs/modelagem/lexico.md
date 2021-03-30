@@ -185,6 +185,6 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 
 | Autor(es)     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
-| Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021     | Criação do Documento | 1.0 
+| Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021     | Criação do documento | 1.0 
 | Hugo Bezerra | 19/03/2021     | Revisão | 1.1 
 |Kleidson Alves| 30/03/2021 | Adição de um novo léxico|  1.2
