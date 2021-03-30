@@ -56,7 +56,7 @@ RF18|Alterar idioma|O usuário deve poder alterar o idioma do sistema|Brainstorm
 ## Versionamento
 
 
-| Autor | Data | Titulo | Versão |
+| Autor | Data | Título | Versão |
 | :--------: | :--------: | :--------: | :-----:
 | Hugo Bezerra, Kleidson Alves    | 16/03/2021     | Criação do Documento| 1.0
 | Hugo Bezerra, Lucas Gabriel    | 20/03/2021     | Revisão e adição de descrição| 1.1

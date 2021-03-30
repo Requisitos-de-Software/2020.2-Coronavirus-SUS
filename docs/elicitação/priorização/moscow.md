@@ -101,7 +101,7 @@ RF16|Previsão de disponibilidade de vacina
 
 ## Versionamento
 
-| Autor     | Data       | Titulo     | Versão     |
+| Autor     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Todos os integrantes | 09/03/2021     | Criação do Documento | 1.0 
 | Hugo Ricardo | 11/03/2021     | Formatação e preparação para o GitHub pages | 1.1 |

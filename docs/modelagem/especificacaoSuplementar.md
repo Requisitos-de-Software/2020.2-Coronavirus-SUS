@@ -89,7 +89,7 @@ Reúne os requisitos que envolvem aspectos limitantes aos quais o sistema deve s
 
 ## Versionamento
 
-| Autor(es)     | Data       | Titulo     | Versão     |
+| Autor(es)     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021     | Criação do Documento | 1.0 
 | Hugo Bezerra | 19/03/2021     | Revisão | 1.1 

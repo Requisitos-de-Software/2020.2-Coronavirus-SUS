@@ -109,7 +109,7 @@ Diego é gestor financeiro de uma empresa em São Paulo. Ele utiliza seu smartph
 > [This Person Does Not Exist](https://thispersondoesnotexist.com/). Data de acesso: 20/03/2021  
 
 ## Versionamento
-| Autor     | Data       | Titulo     | Versão     |
+| Autor     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Hugo Bezerra, Lucas Rodrigues | 04/03/2021 | Criação do documento | 1.0
 | Hugo Bezerra | 11/03/2021     | Formatação e preparação para o GitHub pages | 1.1 |

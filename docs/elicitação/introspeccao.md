@@ -35,7 +35,7 @@ A Introspecção foi realizada durante 1 dia individualmente por cada integrante
 
 ## Versionamento
 
-| Autor     | Data       | Titulo     | Versão     |
+| Autor     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Todos os integrantes | 09/03/2021     | Criação do Documento | 1.0 |
 | Hugo Bezerra| 11/03/2021     | Formatação e preparação para o github pages | 1.1 |

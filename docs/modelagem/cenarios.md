@@ -157,7 +157,7 @@ A equipe decidiu utilizar essa técnica, pois permite um fácil entendimento do 
 
 ## Versionamento
 
-| Autor     | Data       | Titulo     | Versão     |
+| Autor     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Todos os integrantes   | 16/03/2021 | Criação do Documento | 1.0 |
 | Hugo Bezerra   | 19/03/2021 | Revisão | 1.1 |

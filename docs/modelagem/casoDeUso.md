@@ -157,7 +157,7 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 
 ## Versionamento
 
-| Autor(es)     | Data       | Titulo     | Versão     |
+| Autor(es)     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Hugo Bezerra, Kleidson Alves, <br>Lucas Gabriel | 19/03/2021     | Criação do Documento | 1.0 
 | Gabriel Batalha, Kleidson Alves, <br>Lucas Rodrigues | 20/03/2021     | Adicionado Casos de Uso| 1.1 |

@@ -49,7 +49,7 @@ RNF06|Dados de usuário|O sistema não deve guardar nenhum dado identificador do
 > [O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes](https://rockcontent.com/br/blog/brainstorming/) - Brasil 10 jul, 19. Data de acesso: 09 de março de 2021.
 ## Versionamento
 
-| Autor     | Data       | Titulo     | Versão     |
+| Autor     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Todos os integrantes | 09/03/2021     | Criação do Documento | 1.0 |
 | Hugo Bezerra| 11/03/2021     | Formatação e preparação para o github pages | 1.1 |

@@ -100,7 +100,7 @@ RF04|Testar possível infecção|O usuário deve poder verificar se os seus sint
 
 ## Versionamento
 
-| Autor | Data | Titulo | Versão |
+| Autor | Data | Título | Versão |
 | :--------:| :--------: | :--------: | :--------: |
 | Gabriel Batalha, Lucas Gabriel,<br>Kleidson Alves | 04/03/2021      | Criação do Documento | 1.0 |
 | Todos os integrantes | 09/03/2021     | Edição e revisão    | 1.1 |
