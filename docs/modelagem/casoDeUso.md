@@ -28,6 +28,7 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 
 <img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/compartilharTestePositivo.png">
 
+[Veja a imagem aqui](https://drive.google.com/file/d/1Ij6vINZiW02mBtBH6dYyOYaKoV-lGGzz/view?usp=sharing)
 <br>
 
 |   UC01    | Informações |
@@ -49,6 +50,7 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 
 <img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/alterarIdioma.png">
 
+[Veja a imagem aqui](https://drive.google.com/file/d/1JZRcXMWAGp_2gIynehj_SMNKpfSbteJS/view?usp=sharing)
 <br>
     
 |   UC02    | Informações |
@@ -70,6 +72,7 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 
 <img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/notificarExposicao.png">
 
+[Veja a imagem aqui](https://drive.google.com/file/d/1FHAaKUwlounNHXB49JmytQbVIxT-9UX8/view?usp=sharing)
 <br>
 
 |   UC03    | Informações |
@@ -91,6 +94,7 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 
 <img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/alertas.png">
 
+[Veja a imagem aqui](https://drive.google.com/file/d/12PN96gGpRMCdsXJ9xx6i4rgCPrFbijlA/view?usp=sharing)
 <br>
 
 |   UC04    | Informações |
@@ -112,6 +116,7 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 
 <img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/noticias.png">
 
+[Veja a imagem aqui](https://drive.google.com/file/d/15QgBRbKztM60X9YVuXG7F_iaF54SVW8f/view?usp=sharing)
 <br>
 
 |   UC05    | Informações |
@@ -133,6 +138,7 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 
 <img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/informativos.png">
 
+[Veja a imagem aqui](https://drive.google.com/file/d/1J3xLiFSsZyL6pmYZrG_Ug0BaK3p6vU7D/view?usp=sharing)
 <br>
 
 |   UC06    | Informações |
@@ -163,3 +169,4 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 | Gabriel Batalha, Kleidson Alves, <br>Lucas Rodrigues | 20/03/2021     | Adicionado Casos de Uso| 1.1 |
 | Hugo Bezerra, Lucas Gabriel | 20/03/2021     | Revisão| 1.2 |
 | Hugo Bezerra, Lucas Gabriel | 20/03/2021     | Adicionando imagens| 1.3 |
+| Lucas Gabriel | 30/03/2021     | Referência das imagens| 1.4 |
