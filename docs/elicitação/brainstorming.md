@@ -56,4 +56,3 @@ RNF06|Dados de usuário|O sistema não deve guardar nenhum dado identificador do
 | Hugo Bezerra| 19/03/2021     | Revisão | 1.2 |
 | Lucas Gabriel | 20/03/2021     | Correção referências bibliográficas e datas | 1.3 |
 |Kleidson Alves| 30/03/2021| Refatoração do documento | 1.4
-
