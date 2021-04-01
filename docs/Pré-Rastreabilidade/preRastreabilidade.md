@@ -13,20 +13,15 @@ O Rich Picture foi utilizado como ferramenta para expressar, de maneira visual, 
 
 ## Visão Geral 1.0
 
-Primeira versão de Rich Picture do Corornavírus - SUS, feita a mão.
+Primeira versão de Rich Picture do Coronavírus - SUS, feita a mão.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/richPicture/richPictureDigitalizado1.0.jpg">
 </div>
+
 <div style="display: flex; flex-direction:row; justify-content: space-between;">
-
-[Veja a imagem aqui]("https://drive.google.com/file/d/1P_qXq7YsOilnzcbsbET0lpVYAMk40uPM/view?usp=sharing")
-
-Autor: Kleidson Alves
+Autor: Kleidson Alves  <a href="https://drive.google.com/file/d/1P_qXq7YsOilnzcbsbET0lpVYAMk40uPM/view?usp=sharing">Veja a imagem aqui</a>
 </div>
-
-
-
 
 ## Visão Geral 2.0
 Segunda versão de Rich Picture do Coronavírus - SUS, feita no software Figma.
@@ -35,15 +30,8 @@ Segunda versão de Rich Picture do Coronavírus - SUS, feita no software Figma.
 </div>
 
 <div style="display: flex; flex-direction:row; justify-content: space-between;">
-
-[Veja a imagem aqui]("https://drive.google.com/file/d/1CYlfLKlDlo51xq0_zlys2iAdY13pNNHn/view?usp=sharing")
-
-
-Autores: Kleidson Alves, Lucas Gabriel
+Autores: Kleidson Alves, Lucas Gabriel <a href="https://drive.google.com/file/d/1CYlfLKlDlo51xq0_zlys2iAdY13pNNHn/view?usp=sharing">Veja a imagem aqui</a>
 </div>
-
-
-
 
 ## Referências Bibliográficas
 > Rich Picture. Disponível em: [http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html). Data de acesso: 25/03/2021
@@ -55,5 +43,5 @@ Autores: Kleidson Alves, Lucas Gabriel
 | Autor | Data | Título | Versão |
 |--|--|--|--|
 | Lucas Gabriel | 19/02/2021 | Criação do Documento de pre-rastreabilidade | 1.0 |
-| Kleidson Alves,Lucas Gabriel | 25/03/2021 | Adcionando Definição, nova versão e refatorando| 1.1 |
+| Kleidson Alves,Lucas Gabriel | 25/03/2021 | Adicionando Definição, nova versão e refatorando| 1.1 |
 | Hugo Bezerra | 30/03/2021 | Revisão| 1.2 |
