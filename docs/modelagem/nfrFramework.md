@@ -28,8 +28,7 @@ A equipe utilizou a ferramenta lucidchart para a produção dos artefatos.
 <img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Geral.png">
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
-
-[Veja a imagem aqui]("https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Geral.png")
+<a href="https://drive.google.com/file/d/11AShI9UOqbG00IkbH8MYYIN9mDOHiMYQ/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -44,8 +43,7 @@ Autores: Todos os integrantes
 
 <div style =" display: flex; flex-direction: row; justify-content:space-between; ">
 
-
-[Veja a imagem aqui]("https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Confiabilidade.png")
+<a href="https://drive.google.com/file/d/15cMkuI6QC3UrXI2vZubytA2zfolMddEL/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -60,8 +58,7 @@ Autores: Todos os integrantes
 
 <div style =" display: flex; flex-direction: row; justify-content:space-between; ">
 
-
-[Veja a imagem aqui]("https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Confiabilidade-p.png")
+<a href="https://drive.google.com/file/d/132X9KvNd3ZQq8THrHNw4g2QX-caxkW9F/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -78,8 +75,7 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
-
-[Veja a imagem aqui]("https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Segurança.png")
+<a href="https://drive.google.com/file/d/1D7eQeQP0z4xrn1w55Y5BVU8t9zSiXnP3/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -93,8 +89,7 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
-
-[Veja a imagem aqui]("https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Seguranca-p.png")
+<a href="https://drive.google.com/file/d/12_yLDMfIhTeJ5rdwoSJuY7SiM_KzESCR/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -109,8 +104,7 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
-
-[Veja a imagem aqui]("https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Desempenho.png")
+<a href="https://drive.google.com/file/d/1dwKodwAU1Yw4Q0CyO9-cxoP1S9QrY0Nk/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -125,8 +119,8 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
+<a href="https://drive.google.com/file/d/1Rpe_MnS3fWSBDNqv2-yleorAMzeaGcmN/view?usp=sharing">Veja a imagem aqui</a>
 
-[Veja a imagem aqui]("https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Desempenho-p.png")
 
 Autores: Todos os integrantes 
 
@@ -142,7 +136,7 @@ Autores: Todos os integrantes
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
 
-[Veja a imagem aqui]("https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Usabilidade.png")
+<a href="https://drive.google.com/file/d/1AB2b1tZvY97TAWO1pjd-11eejhK1DG4_/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -154,8 +148,7 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
-
-[Veja a imagem aqui]("https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Usabilidade-p.png")
+<a href="https://drive.google.com/file/d/12-1Vlou7ogAqqkEZQVRpDI8lXdU91djq/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -171,8 +164,7 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
-
-[Veja a imagem aqui]("https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Suportabilidade.png")
+<a href="https://drive.google.com/file/d/1JnpjOsc3NMhX4F7M8SsqIT9Mj7l7WS3d/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -184,8 +176,8 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
+<a href="https://drive.google.com/file/d/1WBOs94HJiT747djliN63UaE8DVPvjD7H/view?usp=sharing">Veja a imagem aqui</a>
 
-[Veja a imagem aqui]("https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Suportabilidade-p.png")
 
 Autores: Todos os integrantes 
 
@@ -204,4 +196,4 @@ Autores: Todos os integrantes
 | Autor(es)     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 |Todos os integrantes  | 26/03/2021  | Criação do Documento |1.0 
-| Kleidson Alves | 30/03/2021 | Revisão do Documento | 1.1
+| Kleidson Alves, Lucas Gabriel | 30/03/2021 | Revisão do Documento | 1.1
