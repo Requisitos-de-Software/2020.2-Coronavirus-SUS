@@ -151,6 +151,7 @@ Pelo fato de ser uma lista, o backlog facilita a visualização das histórias d
 > WIEGERS, Karl; BEATTY, Joy. Software Requirements 3ª.ed. 2013
 
 > REHKOPF, Max. [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories). Data de acesso: 25/03/2021.
+
 ## Versionamento
 
 | Autor(es)     | Data       | Título     | Versão     |

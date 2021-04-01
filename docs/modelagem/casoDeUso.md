@@ -13,7 +13,7 @@ Especificação dos casos de uso é um documento que tem por objeto descrever o 
 
 </div>
 
-### Utilização
+## Utilização
 <div style="text-indent: 40px; text-align: justify"/>
 A partir dos requisitos levantados e das características do sistema de ser de interação com o usuário, a equipe decidiu que um diagrama de caso de uso seria útil como uma forma de documentação gráfica do escopo funcional.
 

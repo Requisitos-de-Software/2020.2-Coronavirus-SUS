@@ -9,6 +9,7 @@ No contexto ágil refere-se a uma unidade de trabalho. É um objetivo final expr
 </div>
 
 ### Utilização
+
 <div style="text-indent: 20px; text-align: justify">
 Criar histórias de usuário é uma técnica ágil, que de maneira simples, gera uma explicação sobre um recurso do software na perspectiva do usuário. Visto isso,  os integrantes da equipe interpretaram as personas a fim de explicitar seus desejos dentro de cada épico disponibilizado pela equipe.
 

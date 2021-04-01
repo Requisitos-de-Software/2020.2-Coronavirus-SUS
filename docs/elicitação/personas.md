@@ -5,7 +5,7 @@
 Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin, 2006; Cooper, 1999). É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, para manter o foco em um mesmo alvo. São definidas principalmente por seus objetivos e determinadas ao longo de vários refinamentos durante a investigação inicial do domínio de atividade do usuário. Esse processo se inicia com uma aproximação razoável e converge numa população plausível de personas.
 </div>
 
-### Por que utilizamos as Personas?
+### Utilização
 <div style="text-indent: 40px; text-align: justify"/>
 Utilizamos as personas como ferramenta auxiliar durante o processo de desenvolvimento do projeto, obtendo uma visão mais clara das pessoas que utilizam o aplicativo, conhecendo melhor seus perfis e o que buscam nesse app para direcionar o foco ao público alvo correto.
 </div>
@@ -115,3 +115,4 @@ Diego é gestor financeiro de uma empresa em São Paulo. Ele utiliza seu smartph
 | Hugo Bezerra | 11/03/2021     | Formatação e preparação para o GitHub pages | 1.1 |
 | Hugo Bezerra | 19/03/2021     | Revisão | 1.2 |
 | Hugo Bezerra, Lucas Gabriel, Lucas Rodrigues | 20/03/2021     | Adição das Personas "Felipe" e "Diego" | 1.3 |
+|Kleidson Alves| 01/04/2021| Padronização do documento| 1.4

@@ -11,7 +11,7 @@ MoSCoW é uma técnica de priorização de 4 níveis de prioridade do requisito,
 * Could: O Requisito é desejável que esteja na solução, mas apenas se o tempo e os recursos permitirem;
 * Won’t:  O Requisito não deve ser implementado agora, mas pode estar em uma futura atualização.
 
-### Por que utilizamos?
+### Utilização
 <div style="text-indent: 40px; text-align: justify">
 Utilizamos o MoSCoW por ter uma ideia simples e prática de ser aplicada e, portanto, suficiente para o escopo do projeto.
 
