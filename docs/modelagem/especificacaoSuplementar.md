@@ -15,6 +15,7 @@ A especificação Suplementar foi vista pela equipe como a melhor forma de model
 </div>
 
 ## Resultados
+
 ### Usabilidade
 
 #### 
@@ -82,14 +83,14 @@ Reúne os requisitos que envolvem aspectos limitantes aos quais o sistema deve s
 |RNF15|O sistema será compatível apenas em Android 5.0 ou superior|
 
 
-## Referências bibliograficas
+## Referências bibliográficas
 > REINEHR, Sheila. 2020. ENGENHARIA DE REQUISITOS. 
 
 > [Introdução a Requisitos de Software](https://www.devmedia.com.br/introducao-a-requisitos-de-software/29580). Data de acesso: 19/03/2021 
 
 ## Versionamento
 
-| Autor(es)     | Data       | Titulo     | Versão     |
+| Autor(es)     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 | Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021     | Criação do Documento | 1.0 
 | Hugo Bezerra | 19/03/2021     | Revisão | 1.1 

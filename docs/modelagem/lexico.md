@@ -130,6 +130,15 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 |**Noção**|Uma notícia sobre a doença COVID-19 que não seja verdadeira|
 |**Impacto**|O sistema avisará ao usuário sobre o tema para não disseminar informações erradas|
 |**Classificação**|Objeto|
+
+|||
+| :--------: | :-------- | 
+|**Nome**|*Token*|
+|**Sinônimo**|Código|
+|**Noção**|Um código que pode ser validado pelo sistema|
+|**Impacto**|Um usuário pode compartilhar um teste positivo|
+|**Classificação**|Objeto|
+
 <br>
 
 ### Estados
@@ -174,7 +183,8 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 
 ## Versionamento
 
-| Autor(es)     | Data       | Titulo     | Versão     |
+| Autor(es)     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
-| Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021     | Criação do Documento | 1.0 
+| Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021     | Criação do documento | 1.0 
 | Hugo Bezerra | 19/03/2021     | Revisão | 1.1 
+|Kleidson Alves| 30/03/2021 | Adição de um novo léxico|  1.2

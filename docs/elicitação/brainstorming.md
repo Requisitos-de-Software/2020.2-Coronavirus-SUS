@@ -6,7 +6,7 @@ Brainstorming é uma técnica que, por meio do compartilhamento espontâneo de i
 Sendo assim, é fundamental que o brainstorming envolva um número mais elevado de participantes, de preferência reunindo pessoas ativas na empresa, mas que tragam perspectivas diferentes. Essa pluralidade de ideias é o pilar da técnica. Para que seja bem-sucedido, o processo deve focar em quantidade, não em qualidade. 
 </div>
 
-### Por que utilizamos o brainstorming?
+### Utilização
 <div style="text-indent: 40px; text-align: justify"/>
 Por ser uma técnica que incentiva a criatividade na solução de problemas, sua utilização para a elicitação de requisitos se mostrou muito útil, produzindo diversas ideias com potencial para se tornarem requisitos para o sistema.  
 </div>
@@ -49,9 +49,10 @@ RNF06|Dados de usuário|O sistema não deve guardar nenhum dado identificador do
 > [O que é brainstorming e as 7 melhores técnicas para a tomada de decisões inteligentes](https://rockcontent.com/br/blog/brainstorming/) - Brasil 10 jul, 19. Data de acesso: 09 de março de 2021.
 ## Versionamento
 
-| Autor     | Data       | Titulo     | Versão     |
+| Autor     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
-| Todos os integrantes | 09/03/2021     | Criação do Documento | 1.0 |
+| Todos os integrantes | 09/03/2021     | Criação do documento | 1.0 |
 | Hugo Bezerra| 11/03/2021     | Formatação e preparação para o github pages | 1.1 |
 | Hugo Bezerra| 19/03/2021     | Revisão | 1.2 |
 | Lucas Gabriel | 20/03/2021     | Correção referências bibliográficas e datas | 1.3 |
+|Kleidson Alves| 30/03/2021| Refatoração do documento | 1.4
