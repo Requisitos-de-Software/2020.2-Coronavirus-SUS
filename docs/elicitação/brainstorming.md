@@ -6,7 +6,7 @@ Brainstorming é uma técnica que, por meio do compartilhamento espontâneo de i
 Sendo assim, é fundamental que o brainstorming envolva um número mais elevado de participantes, de preferência reunindo pessoas ativas na empresa, mas que tragam perspectivas diferentes. Essa pluralidade de ideias é o pilar da técnica. Para que seja bem-sucedido, o processo deve focar em quantidade, não em qualidade. 
 </div>
 
-### Por que utilizamos o brainstorming?
+### Utilização
 <div style="text-indent: 40px; text-align: justify"/>
 Por ser uma técnica que incentiva a criatividade na solução de problemas, sua utilização para a elicitação de requisitos se mostrou muito útil, produzindo diversas ideias com potencial para se tornarem requisitos para o sistema.  
 </div>

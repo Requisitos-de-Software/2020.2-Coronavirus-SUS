@@ -13,8 +13,9 @@ A equipe decidiu utilizar essa técnica, pois permite um fácil entendimento do 
     
 </div>
 
-
 <br>
+
+### Resultados
 
 ### Cenário 01
 | <div style = "font-size:25px"> Elemento </div> | <div style = "font-size:25px"> Resposta </div> |
@@ -151,7 +152,7 @@ A equipe decidiu utilizar essa técnica, pois permite um fácil entendimento do 
 |**Exceção**|*Sem acesso à Internet*|
 |**Episódios**|*1- O usuário entra no aplicativo do Coronavírus SUS<br>2- O usuário seleciona a analisar estado de saúde<br>3- O usuário responde um questionário sobre seu estado de saúde*|
 
-## Referências Bibiográficas
+## Referências Bibliográficas
 
 >[Uso de cenários para especificação de requisitos de qualidade e avaliação de arquitetura](https://www.devmedia.com.br/uso-de-cenarios-para-especificacao-de-requisitos-de-qualidade-e-avaliacao-de-arquitetura/22528). Data de acesso: 16/03/2021. 
 

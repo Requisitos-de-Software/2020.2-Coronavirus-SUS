@@ -5,10 +5,11 @@
 Análise de documentos trata de analisar documentos já existentes para buscar por potenciais requisitos. Os documentos mais úteis são especificação de requisitos, processos do negócios, coleções lessons-learned e manual do usuário de aplicações similares ou existentes. 
 </div>
 
-### Por que utilizamos a análise de documentos?
+### Utilização
 <div style="text-indent: 40px; text-align: justify">
 Por se tratar de um tema que está em alta, muitas matérias jornalisticas são feitas com dados e informações, sobre o vírus e temas relacionados a ele. Isso gera muitos documentos passíveis de extração de informação, o que a equipe julgou como muito útil para a elicitação de documentos.
 </div>
+
 ## Resultados
 
 ### Documento Analisado: [App Store](https://apps.apple.com/br/app/coronavírus-sus/id1408008382)
@@ -106,3 +107,4 @@ RF04|Testar possível infecção|O usuário deve poder verificar se os seus sint
 | Todos os integrantes | 09/03/2021     | Edição e revisão    | 1.1 |
 | Lucas Gabriel | 11/03/2021     | Formatação de texto    | 1.2 |
 | Lucas Gabriel | 20/03/2021     | Correção de referências bibliográficas   | 1.3 |
+|Kleidson Alves| 01/04/2021| Padronização do documento| 1.4
