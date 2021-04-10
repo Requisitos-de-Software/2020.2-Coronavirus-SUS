@@ -83,7 +83,7 @@ Reúne os requisitos que envolvem aspectos limitantes aos quais o sistema deve s
 |RNF15|O sistema será compatível apenas em Android 5.0 ou superior|
 
 
-## Referências bibliográficas
+## Referências Bibliográficas
 > REINEHR, Sheila. 2020. ENGENHARIA DE REQUISITOS. 
 
 > [Introdução a Requisitos de Software](https://www.devmedia.com.br/introducao-a-requisitos-de-software/29580). Data de acesso: 19/03/2021 

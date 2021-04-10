@@ -14,7 +14,7 @@ Para elaborar a documentação de NFR a equipe teve como base a documentação j
 
 Durante o processo de construção do documento os integrantes da equipe se reuniram em uma chamada de voz e editaram os diagramas em conjunto.
 
-A equipe utilizou a ferramenta lucidchart para a produção dos artefatos. 
+A equipe utilizou a ferramenta LucidChart para a produção dos artefatos. 
 </div>
 
 ## Resultado

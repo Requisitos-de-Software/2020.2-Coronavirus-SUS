@@ -83,7 +83,7 @@ RF04|Testar possível infecção|O usuário deve poder verificar se os seus sint
 |RF11|Avisos sobre Fake News|O sistema deverá ter uma área informativa sobre Fake News|
 
 
-## Referências Bibliograficas 
+## Referências Bibliográficas 
 
 > REINEHR,Sheila.2020. ENGENHARIA DE REQUISITOS. 
 

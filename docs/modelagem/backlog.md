@@ -13,7 +13,28 @@ Pelo fato de ser uma lista, o backlog facilita a visualização das histórias d
 </div>
 
 ## Resultados
- 
+
+### Legenda de prioridade
+
+    
+<div style=" width: 20px; height: 20px; background-color: darkorange; display: flex;">
+<div style="padding-left: 30px;">
+    Alta
+</div>
+</div>
+
+<div style=" width: 20px; height: 20px; background-color: yellow; display: flex">
+<div style="padding-left: 30px;">
+    Média
+</div>
+</div>
+
+<div style=" width: 20px; height: 20px; background-color: #7FFF00; display: flex">
+<div style="padding-left: 30px;">
+    Baixa
+</div>
+</div>
+
 <table>
     <thread>
         <th style="vertical-align: middle;text-align:center;">Épico</th>
@@ -118,34 +139,6 @@ Pelo fato de ser uma lista, o backlog facilita a visualização das histórias d
         </tr>
     </tbody>
 </table>
-
-### Legenda de prioridade
-
-    
-<div style=" width: 20px; height: 20px; background-color: darkorange; display: flex;">
-
-<div style="padding-left: 30px;">
-    Alta
-</div>
-</div>
-
-<br>
-
-<div style=" width: 20px; height: 20px; background-color: yellow; display: flex">
-<div style="padding-left: 30px;">
-    Média
-</div>
-</div>
-
-<br> 
-
-<div style=" width: 20px; height: 20px; background-color: #7FFF00; display: flex">
-
-<div style="padding-left: 30px;">
-    Baixa
-</div>
-</div>
-
 
 ## Referências Bibliográficas
 > WIEGERS, Karl; BEATTY, Joy. Software Requirements 3ª.ed. 2013

@@ -23,6 +23,11 @@ Link para as apresentações em vídeo gravadas pela equipe
 
 > https://www.youtube.com/watch?v=MKibJqpO2c8
 
+## Análise
+[![Apresentação 2](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
+
+> https://www.youtube.com/watch?v=
+
 ## Versionamento
 | Autor | Data | Título | Versão |
 |--|--|--|--|
