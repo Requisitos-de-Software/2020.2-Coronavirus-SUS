@@ -14,7 +14,7 @@ pages:
     - Acompanhamento: 
         - Planejamento: acompanhamento/planejamento.md
         - Apresentações: acompanhamento/apresentacoes.md
-    - Pré-rastreabilidade:
+    - Pré-Rastreabilidade:
         - Rich Pictures: Pré-Rastreabilidade/preRastreabilidade.md
     - Elicitação:
         - Análise de Documentos: elicitação/analiseDeDocumentos.md
@@ -33,18 +33,18 @@ pages:
         - Backlog: modelagem/backlog.md
         - Léxico: modelagem/lexico.md
     - Análise:
-        - Verficação:
-            - inspeção - Rich Picture: análise/verificação/inspeçãoRichPicture.md
-            - inspeção - Casos de Uso: análise/verificação/inspeçãoCasoDeUso.md
-            - inspeção - Cenários: análise/verificação/inspeçãoCenários.md
-            - inspeção - Especificação Suplementar: análise/verificação/inspeçãoEspecificaçãoSuplementar.md
-            - inspeção - NFR Framework: análise/verificação/inspeçãoNFRFramework.md
-            - inspeção - Histórias de Usuário: análise/verificação/inspeçãoHistóriasDeUsuário.md
-            - inspeção - Backlog: análise/verificação/inspeçãoBacklog.md
-            - inspeção - Léxico: análise/verificação/inspeçãoLéxico.md
+        - Verificação:
+            - Inspeção - Rich Picture: análise/verificação/inspeçãoRichPicture.md
+            - Inspeção - Casos de Uso: análise/verificação/inspeçãoCasoDeUso.md
+            - Inspeção - Cenários: análise/verificação/inspeçãoCenários.md
+            - Inspeção - Especificação Suplementar: análise/verificação/inspeçãoEspecificaçãoSuplementar.md
+            - Inspeção - NFR Framework: análise/verificação/inspeçãoNFRFramework.md
+            - Inspeção - Histórias de Usuário: análise/verificação/inspeçãoHistóriasDeUsuário.md
+            - Inspeção - Backlog: análise/verificação/inspeçãoBacklog.md
+            - Inspeção - Léxico: análise/verificação/inspeçãoLéxico.md
         - Validação:
             - Validação Informal: análise/validação/validaçãoInformal.md
             - Protótipo: análise/validação/protótipo.md
-    - Pós-rastreabilidade:
-        - Backward-from: Pós-Rastreabilidade/backward-from.md
-        - Forward-from: Pós-Rastreabilidade/forward-from.md
+    - Pós-Rastreabilidade:
+        - Backward-From: Pós-Rastreabilidade/backward-from.md
+        - Forward-From: Pós-Rastreabilidade/forward-from.md
