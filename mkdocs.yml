@@ -8,3 +8,43 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+pages:
+    - Sobre o Projeto: index.md
+    - Acompanhamento: 
+        - Planejamento: acompanhamento/planejamento.md
+        - Apresentações: acompanhamento/apresentacoes.md
+    - Pré-rastreabilidade:
+        - Rich Pictures: Pré-Rastreabilidade/preRastreabilidade.md
+    - Elicitação:
+        - Análise de Documentos: elicitação/analiseDeDocumentos.md
+        - Brainstorming: elicitação/brainstorming.md
+        - Introspecção: elicitação/introspeccao.md
+        - Personas: elicitação/personas.md
+        - Requisitos: elicitação/requisitos.md
+    - Priorização:
+        - MoSCoW: elicitação/priorização/moscow.md
+    - Modelagem:
+        - Diagramas de Caso de Uso: modelagem/casoDeUso.md
+        - Cenários: modelagem/cenarios.md
+        - Especificação Suplementar: modelagem/especificacaoSuplementar.md
+        - NFR Framework: modelagem/nfrFramework.md
+        - Histórias de Usuário: modelagem/históriasDeUsuário.md
+        - Backlog: modelagem/backlog.md
+        - Léxico: modelagem/lexico.md
+    - Análise:
+        - Verficação:
+            - inspeção - Rich Picture: análise/verificação/inspeçãoRichPicture.md
+            - inspeção - Casos de Uso: análise/verificação/inspeçãoCasoDeUso.md
+            - inspeção - Cenários: análise/verificação/inspeçãoCenários.md
+            - inspeção - Especificação Suplementar: análise/verificação/inspeçãoEspecificaçãoSuplementar.md
+            - inspeção - NFR Framework: análise/verificação/inspeçãoNFRFramework.md
+            - inspeção - Histórias de Usuário: análise/verificação/inspeçãoHistóriasDeUsuário.md
+            - inspeção - Backlog: análise/verificação/inspeçãoBacklog.md
+            - inspeção - Léxico: análise/verificação/inspeçãoLéxico.md
+        - Validação:
+            - Validação Informal: análise/validação/validaçãoInformal.md
+            - Protótipo: análise/validação/protótipo.md
+    - Pós-rastreabilidade:
+        - Backward-from: Pós-Rastreabilidade/backward-from.md
+        - Forward-from: Pós-Rastreabilidade/forward-from.md
