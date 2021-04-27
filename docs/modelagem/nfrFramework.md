@@ -85,7 +85,7 @@ Autores: Todos os integrantes
 
 #### Propagação
 
-<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Seguranca-p.png">
+<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Segurança-p.png">
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
@@ -197,3 +197,4 @@ Autores: Todos os integrantes
 | :--------:| :--------: | :--------: | :--------: |
 |Todos os integrantes  | 26/03/2021  | Criação do Documento |1.0 
 | Kleidson Alves, Lucas Gabriel | 30/03/2021 | Revisão do Documento | 1.1
+| Hugo Bezerra, Gabriel Batalha | 27/04/2021 | Refatoração| 1.2|
