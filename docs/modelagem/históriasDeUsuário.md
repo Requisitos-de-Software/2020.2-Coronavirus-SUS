@@ -27,16 +27,16 @@ Dessa forma, foram geradas histórias formatadas para se encaixarem no documento
 |--|
 | *Eu, como usuário, desejo poder visualizar notícias atuais e regionais sobre a COVID-19.*     |
 |**Critérios de aceitação**:|
-| - Devem ser apresentadas as últimas notícias divulgadas<br> - As notícias devem ser de origem de órgãos governamentais|
+| - Devem ser apresentadas as últimas notícias divulgadas<br> - As notícias devem ser de origem de órgãos governamentais<br>- Toda notícia deve, quando selecionada, encaminhar para a sua fonte|
 
 
-**US02**: Visualizar notícias gerais
+**US02**: Visualizar notícias
 
 |História|
 |--|
 |*Eu, como usuário, desejo poder visualizar notícias atuais de todo o Brasil sobre a COVID-19.*
 |**Critérios de aceitação**:|
-|- Devem ser apresentadas as últimas notícias divulgadas<br>- As notícias devem ser de origem de órgãos governamentais|
+|- Devem ser apresentadas as últimas notícias divulgadas<br>- As notícias devem ser de origem de órgãos governamentais<br>- Toda notícia deve, quando selecionada, encaminhar para a sua fonte|
 
 **US03**: Compartilhar notícias
 
@@ -50,9 +50,9 @@ Dessa forma, foram geradas histórias formatadas para se encaixarem no documento
 
 |História|
 |--|
-|*Eu, como usuário, desejo poder verificar a veracidade das notícias que recebo.*|
+|*Eu, como usuário, desejo me informar sobre as fake news.*|
 |**Critérios de aceitação**:|
-|- Cada notícia deve, quando selecionada, encaminhar para a sua fonte|
+|- Deve haver um informativo sobre as fake news|
 
 ### EP02: Informativos
 
@@ -185,3 +185,4 @@ Dessa forma, foram geradas histórias formatadas para se encaixarem no documento
 |Todos os integrantes  | 25/03/2021  | Criação do Documento |1.0 
 |Hugo Bezerra  | 30/03/2021  | Revisão |1.1
 |Todos os integrantes  | 08/04/2021  | Organização em tabela |1.2
+|Kleidson Alves, Lucas Gabriels,<br> Lucas Rodrigues|27/04/2021|Refatoração do documento| 1.3
