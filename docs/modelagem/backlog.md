@@ -2,7 +2,7 @@
 
 ## Definição
 
-<div style="text-indent: 20px; text-align: justify;"> 
+<div style="text-indent: 20px; text-align: justify; "> 
 O backlog do produto de um projeto ágil contém uma lista de requisitos que a equipe pode executar.(WIEGERS; BEATTY, 2013)
 </div>
 
@@ -61,7 +61,7 @@ Pelo fato de ser uma lista, o backlog facilita a visualização das histórias d
         </tr>
         <tr>
             <td style="background-color: yellow;">US04</td>
-            <td>Eu, como usuário, desejo poder verificar a veracidade das notícias que recebo.</td>
+            <td>Eu, como usuário, desejo me informar sobre as fake news.</td>
             <td>RF10</td>
         </tr>
         <tr>
@@ -150,4 +150,5 @@ Pelo fato de ser uma lista, o backlog facilita a visualização das histórias d
 | Autor(es)     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 |Todos os integrantes  | 25/03/2021  | Criação do Documento |1.0 
-|Lucas Rodrigues  | 30/03/2021  |  Revisão |1.1
+|Lucas Rodrigues  | 30/03/2021  |  Revisão |1.1 
+|Gabriel Batalha, Hugo Bezerra  | 27/04/2021  |  Refatoração |1.2 
