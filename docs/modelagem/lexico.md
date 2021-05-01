@@ -26,7 +26,7 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 | :--------: | :-------- | 
 |**Nome**|*Compartilhar*|
 |**Sinônimo**| Distribuir|
-|**Noção**|O usuário tem opção de compartilhar notícias em redes sociais e compartilhar seu teste positivo, ao selecionar "compartilhar teste positivo", informa o código do teste positivo, que servirá de alerta para outras pessoas.|
+|**Noção**|O usuário tem opção de compartilhar notícias em redes sociais e compartilhar seu teste positivo. Ao selecionar "compartilhar teste positivo" o sistema é informado e o teste irá contribuir com alertas para outras pessoas.|
 |**Impacto**|O usuário pode compartilhar notícias ou o seu teste positivo com outros|
 |**Classificação**|Verbo|
 
