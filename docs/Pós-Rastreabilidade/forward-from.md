@@ -27,7 +27,7 @@ Após a identificação, classificamos os elos e as categorias meta-modelo refer
 
 <img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/matrix/MatrizNaoFuncional.png">
 
-[Veja a imagem aqui](https://drive.google.com/file/d/1DQG9h111bgbg00dM9-ej6xUOCQvKDXnN/view?usp=sharing)
+[Veja a imagem aqui](https://drive.google.com/file/d/1IMd-wTl5NaT-2kmsSRyZVuLsLJzOXbFb/view?usp=sharing)
 
 ## Referências Bibliográficas
 > PINHEIRO, Francisco. REQUIREMENTS TRACEABILITY. Disponível em: http://www-di.inf.puc-rio.br/~julio/Chapter%205.pdf. Data de acesso: 22/04/2021
