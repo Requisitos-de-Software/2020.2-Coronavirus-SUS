@@ -24,6 +24,7 @@ pages:
         - Requisitos: elicitação/requisitos.md
     - Priorização:
         - MoSCoW: elicitação/priorização/moscow.md
+        - First Things First: elicitação/priorização/firstThingsFirst.md
     - Modelagem:
         - Diagramas de Caso de Uso: modelagem/casoDeUso.md
         - Cenários: modelagem/cenarios.md
