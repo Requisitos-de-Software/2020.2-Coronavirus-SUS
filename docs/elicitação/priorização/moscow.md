@@ -46,8 +46,8 @@ Os requisitos presentes nesse documento podem ser encontrados na <a href="https:
 |RNF13|Troca de chaves por Bluetooth
 |RNF14|Recurso contact-tracing Iphone
 |RNF15|Recurso contact-tracing Android
-|RNF17|Compartilhamento simples|O usuário deve poder compartilhar teste positivo com no máximo 3 cliques
-|RNF18|Fácil acesso|O usuário deve ter fácil acesso às dicas e notícias
+|RNF17|Compartilhamento simples de teste positivo|O usuário deve poder compartilhar teste positivo com no máximo 3 cliques
+|RNF18|Fácil acesso a dicas e notícias|O usuário deve ter fácil acesso às dicas e notícias
 |RNF19|Internacionalização|O sistema deve conter outros idiomas guardados
 |RF02 |Informativos sobre a COVID-19
 |RF03 |Notícias sobre a COVID-19

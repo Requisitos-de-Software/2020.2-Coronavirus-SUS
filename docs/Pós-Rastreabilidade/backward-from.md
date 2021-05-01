@@ -36,8 +36,8 @@ A equipe se reuniu para fazer o rastreamento dos requisitos. Os artefatos já pr
 |RNF14 |Recurso Contact-tracing Iphone|[Análise de documentos](https://requisitos-de-software.github.io/2020.2-Coronavirus-SUS/elicita%C3%A7%C3%A3o/analiseDeDocumentos/)|
 |RNF15 |Recurso Contact-tracing Android|[Análise de documentos](https://requisitos-de-software.github.io/2020.2-Coronavirus-SUS/elicita%C3%A7%C3%A3o/analiseDeDocumentos/#documento-analisado-play-store)| | | 
 |RNF16 |Criptografia|[Análise de documentos](https://requisitos-de-software.github.io/2020.2-Coronavirus-SUS/elicita%C3%A7%C3%A3o/analiseDeDocumentos/)| | |
-|RNF17 |Compartilhamento simples|[Brainstorming](https://requisitos-de-software.github.io/2020.2-Coronavirus-SUS/elicita%C3%A7%C3%A3o/brainstorming/#resultados)| | |
-|RNF18 |Fácil acesso|[Brainstorming](https://requisitos-de-software.github.io/2020.2-Coronavirus-SUS/elicita%C3%A7%C3%A3o/brainstorming/#resultados)| | |
+|RNF17 |Compartilhamento simples de teste positivo|[Brainstorming](https://requisitos-de-software.github.io/2020.2-Coronavirus-SUS/elicita%C3%A7%C3%A3o/brainstorming/#resultados)| | |
+|RNF18 |Fácil acesso a dicas e notícias|[Brainstorming](https://requisitos-de-software.github.io/2020.2-Coronavirus-SUS/elicita%C3%A7%C3%A3o/brainstorming/#resultados)| | |
 |RNF19 |Internacionalização|[Brainstorming](https://requisitos-de-software.github.io/2020.2-Coronavirus-SUS/elicita%C3%A7%C3%A3o/brainstorming/#resultados)|| |
 
 ### Funcionais
