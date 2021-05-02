@@ -317,7 +317,7 @@
 |Total|80,83%|
 
 ## Referências Bibliográficas
->[Uso de cenários para especificação de requisitos de qualidade e avaliação de arquitetura](https://www.devmedia.com.br/uso-de-cenarios-para-especificacao-de-requisitos-de-qualidade-e-avaliacao-de-arquitetura/22528). Data de acesso: 16/03/2021.
+>[Uso de cenários para especificação de requisitos de qualidade e avaliação de arquitetura](https://www.devmedia.com.br/uso-de-cenarios-para-especificacao-de-requisitos-de-qualidade-e-avaliacao-de-arquitetura/22528). Data de acesso: 08/04/2021.
 
 ## Versionamento
 

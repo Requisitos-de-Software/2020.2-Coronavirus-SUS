@@ -90,7 +90,9 @@
 
 ## Referências Bibliográficas
 
-> SAMPAIO, Julio César. FRANCO, Ana Paula.  [A Strategy for Conceptual Model Acquisition](http://www-di.inf.puc-rio.br/~julio/Slct-pub/lel.pdf). Departamento de Informática. Universidade Católica do Rio de Janeiro. p. 243-246. Data de acesso: 19/03/2021  
+> SAMPAIO, Julio César. FRANCO, Ana Paula.  [A Strategy for Conceptual Model Acquisition](http://www-di.inf.puc-rio.br/~julio/Slct-pub/lel.pdf). Departamento de Informática. Universidade Católica do Rio de Janeiro. p. 243-246. Data de acesso: 08/04/2021  
+
+>[Léxico Ampliado da Linguagem (resumo)](http://www-di.inf.puc-rio.br/~julio/lal.pdf). Data de acesso: 08/04/2021.
 
 ## Versionamento
 

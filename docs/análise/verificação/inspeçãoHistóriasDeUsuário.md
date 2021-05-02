@@ -81,7 +81,7 @@
 |EP04|100%|
 
 ## Referências Bibliográficas
-> REHKOPF, Max. [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories). Data de acesso: 25/03/2021.
+> REHKOPF, Max. [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories). Data de acesso: 08/04/2021.
 
 ## Versionamento
 
