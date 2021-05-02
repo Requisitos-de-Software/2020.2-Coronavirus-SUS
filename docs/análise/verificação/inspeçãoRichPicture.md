@@ -54,6 +54,11 @@
 |Rich Picture v1|55,5%|
 |Rich Picture v2|100%|
 
+## Referências Bibliográficas
+> Rich Picture. Disponível em: [http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html). Data de acesso: 25/03/2021
+
+> Rich Picture. Disponível em: [https://www.betterevaluation.org/en/evaluation-options/richpictures](https://www.betterevaluation.org/en/evaluation-options/richpictures). Data de acesso: 25/03/2021
+
 ## Versionamento
 
 | Autor     | Data       | Título     | Versão     |

@@ -131,6 +131,11 @@
 |UC05|90%|
 |UC06|80%|
 
+## Referências Bibliográficas
+> REINEHR, Sheila. 2020. ENGENHARIA DE REQUISITOS.
+
+> [Diagrama de caso de uso UML: O que é, como fazer e exemplos](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Data de Acesso 19/03/2021
+
 ## Versionamento
 
 | Autor     | Data       | Título     | Versão     |

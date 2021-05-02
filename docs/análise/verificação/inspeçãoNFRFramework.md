@@ -117,6 +117,10 @@
 |NFR04|100%|
 |NFR05|83,3%|
 
+## Referências Bibliográficas
+
+> SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019
+
 ## Versionamento
 
 | Autor     | Data       | Título     | Versão     |

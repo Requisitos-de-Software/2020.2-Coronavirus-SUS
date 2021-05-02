@@ -36,6 +36,11 @@
 |--|:--:|
 |Especificação Suplementar|71,4%|
 
+## Referências Bibliográficas
+> REINEHR, Sheila. 2020. ENGENHARIA DE REQUISITOS.
+
+> [Introdução a Requisitos de Software](https://www.devmedia.com.br/introducao-a-requisitos-de-software/29580). Data de acesso: 19/03/2021
+
 ## Versionamento
 
 | Autor     | Data       | Título     | Versão     |

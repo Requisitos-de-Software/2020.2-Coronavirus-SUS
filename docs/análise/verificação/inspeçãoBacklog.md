@@ -36,6 +36,11 @@
 |--|:--:|
 |Backlog|87,5%|
 
+## Referências Bibliográficas
+> WIEGERS, Karl; BEATTY, Joy. Software Requirements 3ª.ed. 2013
+
+> REHKOPF, Max. [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories). Data de acesso: 25/03/2021.
+
 ## Versionamento
 
 | Autor     | Data       | Título     | Versão     |

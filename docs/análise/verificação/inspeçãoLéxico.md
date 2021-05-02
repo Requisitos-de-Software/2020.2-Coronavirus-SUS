@@ -88,6 +88,10 @@
 |Objetos|57,1%|
 |Estados|57,1%|
 
+## Referências Bibliográficas
+
+> SAMPAIO, Julio César. FRANCO, Ana Paula.  [A Strategy for Conceptual Model Acquisition](http://www-di.inf.puc-rio.br/~julio/Slct-pub/lel.pdf). Departamento de Informática. Universidade Católica do Rio de Janeiro. p. 243-246. Data de acesso: 19/03/2021  
+
 ## Versionamento
 
 | Autor     | Data       | Título     | Versão     |
