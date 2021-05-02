@@ -29,8 +29,8 @@ RNF06|Dados de usuário|O sistema não deve guardar nenhum dado identificador do
 |RNF07|Contato com a COVID-19|Para concretizar um contato, o usuário deve ter ficado a menos de 2 metros de um usuário contaminado durante um período mínimo de 5 minutos 
 |RNF08|Notificação de usuário contaminado|O sistema deve emitir uma notificação ao usuário que foi exposto no período de um dia.
 |RNF09|Troca de chaves por Bluetooth|O sistema deverá trocar chaves anônimas por Bluetooth com outros usuários
-|RNF10|Compartilhamento simples|O usuário deve poder compartilhar teste positivo com no máximo 3 cliques
-|RNF11|Fácil acesso|O usuário deve ter fácil acesso às dicas e notícias
+|RNF10|Compartilhamento simples de teste positivo|O usuário deve poder compartilhar teste positivo com no máximo 3 cliques
+|RNF11|Fácil acesso a dicas e notícias|O usuário deve ter fácil acesso às dicas e notícias
 |RNF12|Internacionalização|O sistema deve conter outros idiomas guardados
 |RF01|Mapa de contaminação|Mapa de calor contendo as estatísticas de contaminação do vírus COVID-19
 |RF02|Alerta de área de risco|O usuário deve receber uma notificação quando estiver em uma área em que o número de casos registrados é elevado

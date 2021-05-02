@@ -26,8 +26,8 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 | :--------: | :-------- | 
 |**Nome**|*Compartilhar*|
 |**Sinônimo**| Distribuir|
-|**Noção**|O usuário, ao selecionar "compartilhar teste positivo", informa o código do teste positivo, que servirá de alerta para outras pessoas.|
-|**Impacto**|O usuário pode compartilhar com outros o seu teste positivo|
+|**Noção**|O usuário tem opção de compartilhar notícias em redes sociais e compartilhar seu teste positivo. Ao selecionar "compartilhar teste positivo" o sistema é informado e o teste irá contribuir com alertas para outras pessoas.|
+|**Impacto**|O usuário pode compartilhar notícias ou o seu teste positivo com outros|
 |**Classificação**|Verbo|
 
 |||
@@ -51,7 +51,7 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 |**Nome**|*Analisar*|
 |**Sinônimo**|Examinar|
 |**Noção**|O sistema analisa dados de saúde enviados pelo usuário<br>O sistema analisa dados demográficos enviados pelo usuário|
-|**Impacto**|O usuário recebe uma análise, feita pelo sistema, indicando uma possível infecção<br>O usuário recebe informações sobre vacinação para sua região baseada nos dados demográficos|
+|**Impacto**|O usuário recebe uma análise, feita pelo sistema, indicando uma possível infecção<br>O usuário recebe informações sobre vacinação para sua região baseadas nos dados demográficos|
 |**Classificação**|Verbo|
 
 |||
@@ -95,7 +95,7 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 | :--------: | :-------- | 
 |**Nome**|*Estatística*|
 |**Sinônimo**|Recenseamento|
-|**Noção**|Amostra de dados organizada geograficamente sobre o vírus visualmente representadas por meio de gráficos|
+|**Noção**|Amostra de dados organizada geograficamente sobre o vírus, visualmente representadas através de gráficos|
 |**Impacto**|O usuário visualiza e se informa dos dados sobre o vírus|
 |**Classificação**|Objeto|
 
@@ -110,7 +110,7 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 |||
 | :--------: | :-------- | 
 |**Nome**|*Geolocalização*|
-|**Sinônimo**|Localização na terra|
+|**Sinônimo**|Localização na Terra|
 |**Noção**|Localização de uma pessoa/objeto no globo terrestre|
 |**Impacto**|O usuário envia para o sistema sua localização a fim de receber notícias localizadas <br>O usuário envia para o sistema sua localização a fim de receber informações regionalizadas de unidades de saúde e de estatísticas de exposição|
 |**Classificação**|Objeto|
@@ -119,8 +119,16 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 | :--------: | :-------- | 
 |**Nome**|*Bluetooth*|
 |**Sinônimo**|Comunicação sem fio|
-|**Noção**|Meio de comunicação entre dispositivos sem fio |
+|**Noção**|Troca de dados sem fio entre usuários do sistema|
 |**Impacto**|O sistema compartilha a chave criptografada do usuário com outros usuários para detectar uma exposição ao vírus|
+|**Classificação**|Objeto|
+
+|||
+| :--------: | :-------- | 
+|**Nome**|*Contact Tracing*|
+|**Sinônimo**|Rastreamento de contato|
+|**Noção**|Estratégia utilizada juntamente com o Bluetooth para identificar contatos entre usuários|
+|**Impacto**|Notifica o sistema que houve um contato entre usuários|
 |**Classificação**|Objeto|
 
 |||
@@ -154,10 +162,10 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 
 |||
 | :--------:| :-------- | 
-|**Nome**|*Exposição*|
-|**Sinônimo**|Exibição|
+|**Nome**|*Exposto*|
+|**Sinônimo**|Vulnerável|
 |**Noção**|Usuário entrou em contato com outro usuário que compartilhou teste positivo.<br>Usuário foi exposto ao vírus.|
-|**Impacto**|O usuário é notificado sobre a exposição.<br>O usuário deve tomar medidas para uma possível infecção.|
+|**Impacto**|O usuário é notificado sobre a exposição.|
 |**Classificação**|Estado|
 
 |||
@@ -185,6 +193,7 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 
 | Autor(es)     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
-| Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021     | Criação do documento | 1.0 
+| Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021 | Criação do documento | 1.0 
 | Hugo Bezerra | 19/03/2021     | Revisão | 1.1 
-|Kleidson Alves| 30/03/2021 | Adição de um novo léxico|  1.2
+|Kleidson Alves| 30/03/2021 | Adição de um novo léxico| 1.2|
+| Hugo Bezerra, Gabriel Batalha | 27/04/2021| Refatoração de Inspeção| 1.3|

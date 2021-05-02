@@ -20,129 +20,158 @@ Dessa forma, foram geradas histórias formatadas para se encaixarem no documento
 
 ### EP01: Notícias
 
-#### **US01**: Visualizar notícias locais
-*Eu, como usuário, desejo poder visualizar notícias atuais e regionais sobre a COVID-19.*
 
-**Critérios de aceitação**:
-- Devem ser apresentadas as últimas divulgadas
-- As notícias devem ser de origem de órgãos governamentais
+**US01**: Visualizar notícias locais
 
-#### **US02**: Visualizar notícias gerais
-*Eu, como usuário, desejo poder visualizar notícias atuais de todo o Brasil sobre a COVID-19.*
+|História|
+|--|
+| *Eu, como usuário, desejo poder visualizar notícias atuais e regionais sobre a COVID-19.*     |
+|**Critérios de aceitação**:|
+| - Devem ser apresentadas as últimas notícias divulgadas<br> - As notícias devem ser de origem de órgãos governamentais<br>- Toda notícia deve, quando selecionada, encaminhar para a sua fonte|
 
-**Critérios de aceitação**:
-- Devem ser apresentadas as últimas divulgadas
-- As notícias devem ser de origem de órgãos governamentais
 
-#### **US03**: Compartilhar notícias
-*Eu, como usuário, desejo poder compartilhar uma notícia que julgar interessante.*
+**US02**: Visualizar notícias
 
-**Critérios de aceitação**:
-- Cada notícia deve possuir a opção de compartilhar
-- Deve ser possível compartilhar com as principais redes sociais
+|História|
+|--|
+|*Eu, como usuário, desejo poder visualizar notícias atuais de todo o Brasil sobre a COVID-19.*
+|**Critérios de aceitação**:|
+|- Devem ser apresentadas as últimas notícias divulgadas<br>- As notícias devem ser de origem de órgãos governamentais<br>- Toda notícia deve, quando selecionada, encaminhar para a sua fonte|
 
-#### **US04**: Verificar Fake News
-*Eu, como usuário, desejo poder verificar a veracidade das notícias que recebo.*
+**US03**: Compartilhar notícias
 
-**Critérios de aceitação**:
-- Cada notícia deve, quando selecionada, encaminhar para a sua fonte
+| História|
+|--|
+|*Eu, como usuário, desejo poder compartilhar uma notícia que julgar interessante.*|
+|**Critérios de aceitação**:|
+|- Toda notícia deve possuir a opção "*compartilhar*"<br>- Deve ser possível compartilhar com as principais redes sociais|
+
+**US04**: Verificar Fake News
+
+|História|
+|--|
+|*Eu, como usuário, desejo me informar sobre as fake news.*|
+|**Critérios de aceitação**:|
+|- Deve haver um informativo sobre as fake news|
 
 ### EP02: Informativos
 
-#### **US05**: Visualizar dicas
-*Eu, como usuário, desejo poder visualizar dicas sobre como lidar com a COVID-19.*
+**US05**: Visualizar dicas
 
-**Critérios de aceitação**:
-- As dicas devem ser originadas de especialistas em virologia ou orgãos competentes
+|História|
+|--|
+|*Eu, como usuário, desejo poder visualizar dicas sobre como lidar com a COVID-19.*|
+|**Critérios de aceitação**:|
+|- As dicas devem ser originadas de especialistas em virologia ou órgãos competentes|
 
-#### **US06**: Pesquisar dicas
-*Eu, como usuário, desejo poder pesquisar um tópico específico de dica sobre a COVID-19.*
+**US06**: Pesquisar dicas
 
-**Critérios de aceitação**:
-- Na página de informativos, deve ter uma opção de pesquisar por tópico
-- Devem ser mostrados apenas os informativos relacionados ao tópico pesquisado
+|História|
+|--|
+|*Eu, como usuário, desejo poder pesquisar um tópico específico de dica sobre a COVID-19.*|
+|**Critérios de aceitação**:|
+|- Na página de informativos, deve ter uma opção de pesquisar por tópico<br>- Devem ser mostrados apenas os informativos relacionados ao tópico pesquisado|
 
-#### **US07**: Ver mapa de unidades de saúde próximas
-*Eu, como usuário, desejo poder ver um mapa que me informa sobre as unidades de saúdes próximas a minha localização.*
+**US07**: Ver mapa de unidades de saúde próximas
 
-**Critérios de aceitação**:
-- O mapa deve ser mostrado a partir da geolocalização atual do usuário 
-- O mapa deve conter indicadores das unidades de saúde mais próximas
+|História|
+|--|
+|*Eu, como usuário, desejo poder ver um mapa que mostra as unidades de saúdes próximas a minha localização.*|
+|**Critérios de aceitação**:|
+|- O mapa deve ser mostrado a partir da geolocalização atual do usuário<br>- O mapa deve conter indicadores das unidades de saúde mais próximas|
  
-#### **US08**: Visualizar estatísticas
-*Eu, como usuário, desejo poder ver dados relacionados à COVID-19.*
+**US08**: Visualizar estatísticas
 
-**Critérios de aceitação**:
-- Deve apresentar um tabela que informe os dados estatísticos relacionados ao coronavírus
+|História|
+|--|
+|*Eu, como usuário, desejo poder ver dados relacionados à COVID-19.*|
+|**Critérios de aceitação**:|
+|- Deve apresentar uma página que informe os dados estatísticos relacionados ao coronavírus|
 
 
-#### **US09**: Verificar disponibilidade da vacina
-*Eu, como usuário, desejo poder saber a previsão de vacinação para o meu grupo.*
+**US09**: Verificar disponibilidade da vacina
 
-**Critérios de aceitação**:
-- As informações devem ser retiradas do site das secretarias de saúde
-- Os dados inseridos do usuário devem ser descartados e o usuário mantido anônimo
+|História|
+|--|
+|*Eu, como usuário, desejo poder saber a previsão de vacinação para o meu grupo.*|
+|**Critérios de aceitação**:|
+|- As informações devem ser retiradas do site das secretarias de saúde<br>- Os dados inseridos do usuário devem ser descartados e o usuário mantido anônimo|
 
 ### EP03: Exposição
 
-#### **US10**: Compartilhar teste positivo
-*Eu, como usuário, desejo poder compartilhar um teste positivo para COVID-19.*
+**US10**: Compartilhar teste positivo
 
-**Critérios de aceitação**:
-- O usuário deve ter sua identidade preservada
-- O usuário deve receber orientações do que fazer quando infectado
+|História|
+|--|
+|*Eu, como usuário, desejo poder compartilhar um teste positivo para COVID-19.*|
+|**Critérios de aceitação**:|
+|- O usuário deve ter sua identidade preservada<br>- O usuário deve receber orientações do que fazer assim que compartilhar o teste|
 
-#### **US11**: Analisar estado de saúde
-*Eu, como usuário, desejo poder receber uma análise, feita pelo sistema, sobre uma possível infecção.*
+**US11**: Analisar estado de saúde
 
-**Critérios de aceitação**:
-- Os dados do usuário devem ser descartados
-- A análise deve deixar claro que não substitui a avaliação de um médico
+|História|
+|--|
+|*Eu, como usuário, desejo poder receber uma análise feita pelo sistema sobre uma possível infecção.*|
+|**Critérios de aceitação**:|
+|- Os dados do usuário devem ser descartados após a análise<br>- A análise deve deixar claro que ela não substitui a avaliação de um médico|
 
-#### **US12**: Mapa de exposição
-*Eu, como usuário, desejo poder ver um mapa que expõe estatísticas de infectados.*
+**US12**: Mapa de exposição
 
-**Critérios de aceitação**:
-- Deve mostrar um mapa de calor com foco na localização do usuário
-- A geolocalização não precisa estar ativada, nesse caso o mapa não será focado em uma área
+|História|
+|--|
+|*Eu, como usuário, desejo poder ver um mapa que expõe estatísticas sobre o número de casos de COVID-19.*|
+|**Critérios de aceitação**:|
+|- Deve mostrar um mapa de calor com foco na localização do usuário<br>- A geolocalização não precisa estar ativada, nesse caso o mapa não será focado em uma área|
 
-#### **US13**: Receber notificação de possível exposição
-*Eu, como usuário, desejo ser notificado sobre possíveis exposições.*
+**US13**: Receber notificação de possível exposição
 
-**Critérios de aceitação**:
-- O sistema deve notificar o usuário ao detectar uma possível exposição
+|História|
+|--|
+|*Eu, como usuário, desejo ser notificado sobre possíveis exposições ao vírus.*|
+|**Critérios de aceitação**:|
+|- O sistema deve notificar o usuário ao detectar uma possível exposição|
 
-#### **US14**: Notificação de área de risco
-*Eu, como usuário, desejo ser notificado ao entrar em uma área de risco.*
+**US14**: Notificação de área de risco
 
-**Critérios de aceitação**:
-- O sistema deve notificar o usuário ao perceber que sua posição geográfica coincide com uma área de risco
+|História|
+|--|
+|*Eu, como usuário, desejo ser notificado ao entrar em uma área de risco.*|
+|**Critérios de aceitação**:|
+|- O sistema deve notificar o usuário ao perceber que sua posição geográfica coincide com uma área de risco|
 
-#### **US15**: Lista de alertas
-*Eu, como usuário, desejo poder ver uma lista com todos os alertas já recebidos.*
+**US15**: Lista de alertas
 
-**Critérios de aceitação**:
-- O sistema deve apresentar uma lista contendo todos os alertas recebidos pelo usuário em ordem cronológica
+|História|
+|--|
+|*Eu, como usuário, desejo poder ver uma lista com todos os alertas já recebidos.*|
+|**Critérios de aceitação**:|
+|- O sistema deve apresentar uma lista contendo todos os alertas recebidos pelo usuário em ordem cronológica|
 
 ### EP04: Configuração
 
-#### **US16**: Alterar idioma
-*Eu, como usuário, desejo poder alterar o idioma da aplicação.*
+**US16**: Alterar idioma
 
-**Critérios de aceitação**:
-- O aplicativo deve possuir opção de alteração de idioma
+|História|
+|--|
+|*Eu, como usuário, desejo poder alterar o idioma da aplicação.*|
+|**Critérios de aceitação**:|
+|- O aplicativo deve possuir opção de alteração de idioma<br> - A aplicação deve estar disponível nos idiomas: Português-BR, Espanhol e Inglês|
 
-#### **US17**: Desativar notificação
-*Eu, como usuário, desejo poder desativar a permissão da aplicação de me notificar.*
+**US17**: Desativar notificação
 
-**Critérios de aceitação**: 
-- Na página principal, deve haver uma opção de desabilitar as notificações
+|História|
+|--|
+|*Eu, como usuário, desejo poder desativar a permissão da aplicação de me notificar.*|
+|**Critérios de aceitação**:|
+|- Na página principal deve haver uma opção de desabilitar as notificações|
 
-#### **US18**: Desativar alertas
-*Eu, como usuário, desejo poder desativar os alertas.*
+**US18**: Desativar alertas
 
-**Critérios de aceitação**: 
-- Na página alertas, deve haver uma opção de desabilitar os alertas
+|História|
+|--|
+|*Eu, como usuário, desejo poder desativar os alertas.*|
+|**Critérios de aceitação**: |
+|- Na página de alertas deve haver uma opção de desabilitar os alertas|
 
 
 ## Referências Bibliográficas
@@ -155,3 +184,5 @@ Dessa forma, foram geradas histórias formatadas para se encaixarem no documento
 | :--------:| :--------: | :--------: | :--------: |
 |Todos os integrantes  | 25/03/2021  | Criação do Documento |1.0 
 |Hugo Bezerra  | 30/03/2021  | Revisão |1.1
+|Todos os integrantes  | 08/04/2021  | Organização em tabela |1.2
+|Kleidson Alves, Lucas Gabriel,<br> Lucas Rodrigues|27/04/2021|Refatoração de Inspeção| 1.3

@@ -35,7 +35,7 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 |:---------:|---------- |
 |Descrição|O ato do usuário de compartilhar o resultado positivo de um teste para o vírus COVID-19|
 |Atores|Cidadão brasileiro<br>gov.br|
-|Pré-condições|O cidadão brasileiro deve estar conectado a internet <br> O cidadão brasileiro deve estar na página principal do sistema<br> O cidadão brasileiro gerou um código através do ator gov.br<br>O cidadão está com a funcionalidade de notificação de exposição ativada|
+|Pré-condições|O cidadão brasileiro deve estar conectado à internet <br> O cidadão brasileiro deve estar na página principal do sistema<br> O cidadão brasileiro gerou um código através do ator gov.br<br>O cidadão está com a funcionalidade de notificação de exposição ativada|
 |Fluxo principal|1. O cidadão brasileiro clica no botão "Compartilhar teste positivo"<br>2. O cidadão brasileiro insere o token no espaço indicado<br>3. O sistema valida o token pelo ator gov.br<br>4. O sistema notifica o cidadão brasileiro do sucesso de seu compartilhamento |
 |Fluxo alternativo|1. O cidadão brasileiro clica no botão "Compartilhar teste positivo"<br>2. O cidadão insere um token errado ou inexistente<br>3. O sistema retorna uma mensagem de erro|
 |Fluxo de exceções|1. O cidadão brasileiro clica no botão "Compartilhar teste positivo"<br>2. O cidadão brasileiro não tem o código gerado pelo ator gov.br <br>3. O cidadão brasileiro acessa o ator gov.br e gera o código <br>4. O cidadão brasileiro insere o token no espaço indicado<br>5. O sistema valida o token pelo ator gov.br<br>6. O sistema notifica o cidadão brasileiro do sucesso de seu compartilhamento |
@@ -70,7 +70,7 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 
 <br>
 
-<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/notificarExposicao.png">
+<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/notificarExposição.png">
 
 [Veja a imagem aqui](https://drive.google.com/file/d/1FHAaKUwlounNHXB49JmytQbVIxT-9UX8/view?usp=sharing)
 <br>
@@ -110,13 +110,13 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 
 <br>
 
-### **UC05** - Notícias
+### **UC05** - Apresentar notícias
 
 <br>
 
-<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/noticias.png">
+<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/apresentarNotícias.png">
 
-[Veja a imagem aqui](https://drive.google.com/file/d/15QgBRbKztM60X9YVuXG7F_iaF54SVW8f/view?usp=sharing)
+[Veja a imagem aqui](https://drive.google.com/file/d/1H0ZCuau-8jYpbornfsqzyL8LfxFeqCji/view?usp=sharing)
 <br>
 
 |   UC05    | Informações |
@@ -132,11 +132,11 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 
 <br>
 
-### **UC06** - Informativos
+### **UC06** - Apresentar informativos
 
 <br>
 
-<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/informativos.png">
+<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/apresentarInformativos.png">
 
 [Veja a imagem aqui](https://drive.google.com/file/d/1J3xLiFSsZyL6pmYZrG_Ug0BaK3p6vU7D/view?usp=sharing)
 <br>
@@ -148,7 +148,7 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 |Pré-condições|O cidadão brasileiro deve estar o sistema aberto|
 |Fluxo principal|1. O cidadão brasileiro navega para a aba de dicas<br>2. O sistema mostra todos os tópicos de informativos<br>3. O cidadão brasileiro seleciona um tópico de seu interesse<br>4. O sistema carrega as informações do tópico selecionado<br>5. O cidadão brasileiro pode ler as informações|
 |Fluxo alternativo|1. O cidadão brasileiro navega para a aba de dicas<br>2. O sistema mostra todos os tópicos de informativos<br>3. o cidadão brasileiro pesquisa o tópico de informação que é de seu interesse<br>4. O sistema mostra o tópico pesquisado<br>5. O cidadão brasileiro seleciona o tópico mostrado<br>6. O cidadão brasileiro pode ler as informações|
-|Fluxo de exceções|1. O cidadão brasileiro navega para a aba de dicas<br>2. O sistema mostra todos os tópicos de informativos<br>3. o cidadão brasileiro pesquisa o tópico de informação que é de seu interesse<br>4. O sistema não encontra o tópico pesquisado|
+|Fluxo de exceções|1. O cidadão brasileiro navega para a aba de dicas<br>2. O sistema mostra todos os tópicos de informativos<br>3. O cidadão brasileiro pesquisa o tópico de informação que é de seu interesse<br>4. O sistema não encontra o tópico pesquisado|
 |Pós-condições|O cidadão brasileiro consegue ver informativos com respeito à COVID-19|
 |Rastreabilidade|RF02 - Informativos sobre a COVID-19|
 
@@ -170,3 +170,4 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 | Hugo Bezerra, Lucas Gabriel | 20/03/2021     | Revisão| 1.2 |
 | Hugo Bezerra, Lucas Gabriel | 20/03/2021     | Adicionando imagens| 1.3 |
 | Lucas Gabriel | 30/03/2021     | Referência das imagens| 1.4 |
+| Hugo Bezerra, Gabriel Batalha | 27/04/2021 | Refatoração de Inspeção| 1.5 |

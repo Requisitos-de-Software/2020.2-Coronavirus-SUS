@@ -23,8 +23,8 @@ RNF13 | Troca de chaves por Bluetooth| O sistema deverá trocar chaves anônimas
 RNF14 |Recurso Contact-tracing Iphone|O sistema será compatível apenas em Iphone versão 13.5 ou superior|Análise de documentos
 RNF15 |Recurso Contact-tracing Android|O sistema será compatível apenas em Android 5.0 ou superior|Análise de documentos
 RNF16 |Criptografia|Os dados gravados no celular e as conexões com o servidor que os receberá são protegidos por criptografia|Análise de documentos
-RNF17 |Compartilhamento simples|O usuário deve poder compartilhar teste positivo com no máximo 3 cliques|Brainstorming
-RNF18 |Fácil acesso|O usuário deve ter fácil acesso às dicas e notícias|Brainstorming
+RNF17 |Compartilhamento simples de teste positivo|O usuário deve poder compartilhar teste positivo com no máximo 3 cliques|Brainstorming
+RNF18 |Fácil acesso a dicas e notícias|O usuário deve ter fácil acesso às dicas e notícias|Brainstorming
 RNF19 |Internacionalização|O sistema deve conter outros idiomas guardados|Brainstorming
 
 <br>

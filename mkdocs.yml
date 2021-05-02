@@ -4,3 +4,48 @@ theme:
   favicon: assets/icons/favicon.ico
   logo: assets/icons/susLogo.png
 
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+pages:
+    - Sobre o Projeto: index.md
+    - Acompanhamento: 
+        - Planejamento: acompanhamento/planejamento.md
+        - Apresentações: acompanhamento/apresentacoes.md
+    - Pré-Rastreabilidade:
+        - Rich Pictures: Pré-Rastreabilidade/preRastreabilidade.md
+    - Elicitação:
+        - Análise de Documentos: elicitação/analiseDeDocumentos.md
+        - Brainstorming: elicitação/brainstorming.md
+        - Introspecção: elicitação/introspeccao.md
+        - Personas: elicitação/personas.md
+        - Requisitos: elicitação/requisitos.md
+    - Priorização:
+        - MoSCoW: elicitação/priorização/moscow.md
+        - First Things First: elicitação/priorização/firstThingsFirst.md
+    - Modelagem:
+        - Diagramas de Caso de Uso: modelagem/casoDeUso.md
+        - Cenários: modelagem/cenarios.md
+        - Especificação Suplementar: modelagem/especificacaoSuplementar.md
+        - NFR Framework: modelagem/nfrFramework.md
+        - Histórias de Usuário: modelagem/históriasDeUsuário.md
+        - Backlog: modelagem/backlog.md
+        - Léxico: modelagem/lexico.md
+    - Análise:
+        - Verificação:
+            - Inspeção - Rich Picture: análise/verificação/inspeçãoRichPicture.md
+            - Inspeção - Casos de Uso: análise/verificação/inspeçãoCasoDeUso.md
+            - Inspeção - Cenários: análise/verificação/inspeçãoCenários.md
+            - Inspeção - Especificação Suplementar: análise/verificação/inspeçãoEspecificaçãoSuplementar.md
+            - Inspeção - NFR Framework: análise/verificação/inspeçãoNFRFramework.md
+            - Inspeção - Histórias de Usuário: análise/verificação/inspeçãoHistóriasDeUsuário.md
+            - Inspeção - Backlog: análise/verificação/inspeçãoBacklog.md
+            - Inspeção - Léxico: análise/verificação/inspeçãoLéxico.md
+        - Validação:
+            - Validação Informal: análise/validação/validaçãoInformal.md
+            - Protótipo: análise/validação/protótipo.md
+    - Pós-Rastreabilidade:
+        - Backward-From: Pós-Rastreabilidade/backward-from.md
+        - Forward-From: Pós-Rastreabilidade/forward-from.md

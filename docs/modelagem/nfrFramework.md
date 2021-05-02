@@ -14,7 +14,7 @@ Para elaborar a documentação de NFR a equipe teve como base a documentação j
 
 Durante o processo de construção do documento os integrantes da equipe se reuniram em uma chamada de voz e editaram os diagramas em conjunto.
 
-A equipe utilizou a ferramenta lucidchart para a produção dos artefatos. 
+A equipe utilizou a ferramenta LucidChart para a produção dos artefatos. 
 </div>
 
 ## Resultado
@@ -75,7 +75,7 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
-<a href="https://drive.google.com/file/d/1D7eQeQP0z4xrn1w55Y5BVU8t9zSiXnP3/view?usp=sharing">Veja a imagem aqui</a>
+<a href="https://drive.google.com/file/d/1_GCTThNtIAlNMnR_k4hSy_eNNJXUxLat/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -85,7 +85,7 @@ Autores: Todos os integrantes
 
 #### Propagação
 
-<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Seguranca-p.png">
+<img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/NFR/NFR-Segurança-p.png">
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
@@ -104,7 +104,7 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
-<a href="https://drive.google.com/file/d/1dwKodwAU1Yw4Q0CyO9-cxoP1S9QrY0Nk/view?usp=sharing">Veja a imagem aqui</a>
+<a href="https://drive.google.com/file/d/1s_AoOQ4m4o51Y16Dp4FDL-z9csfrwj3U/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -119,7 +119,7 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
-<a href="https://drive.google.com/file/d/1Rpe_MnS3fWSBDNqv2-yleorAMzeaGcmN/view?usp=sharing">Veja a imagem aqui</a>
+<a href="https://drive.google.com/file/d/1mqN3lBGefJvg16s68vyyswiFnAVurGez/view?usp=sharing">Veja a imagem aqui</a>
 
 
 Autores: Todos os integrantes 
@@ -136,7 +136,7 @@ Autores: Todos os integrantes
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
 
-<a href="https://drive.google.com/file/d/1AB2b1tZvY97TAWO1pjd-11eejhK1DG4_/view?usp=sharing">Veja a imagem aqui</a>
+<a href="https://drive.google.com/file/d/1GGKRfXKaWSV15len0iXcQPWp9ZlXvrS3/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -148,7 +148,7 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
-<a href="https://drive.google.com/file/d/12-1Vlou7ogAqqkEZQVRpDI8lXdU91djq/view?usp=sharing">Veja a imagem aqui</a>
+<a href="https://drive.google.com/file/d/1pgfrQtbfpUsrMSgCcUnISkPkARuYOG_p/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -164,7 +164,7 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
-<a href="https://drive.google.com/file/d/1JnpjOsc3NMhX4F7M8SsqIT9Mj7l7WS3d/view?usp=sharing">Veja a imagem aqui</a>
+<a href="https://drive.google.com/file/d/13NPHMNhMlK6JvchPPQiB0N7aVQhoN3m0/view?usp=sharing">Veja a imagem aqui</a>
 
 Autores: Todos os integrantes 
 
@@ -176,7 +176,7 @@ Autores: Todos os integrantes
 
 <div style ="display: flex; flex-direction: row; justify-content:space-between; ">
 
-<a href="https://drive.google.com/file/d/1WBOs94HJiT747djliN63UaE8DVPvjD7H/view?usp=sharing">Veja a imagem aqui</a>
+<a href="https://drive.google.com/file/d/1Xp5FmuoejCq87qZlHCrifN-LxG8Eoc7z/view?usp=sharing">Veja a imagem aqui</a>
 
 
 Autores: Todos os integrantes 
@@ -197,3 +197,4 @@ Autores: Todos os integrantes
 | :--------:| :--------: | :--------: | :--------: |
 |Todos os integrantes  | 26/03/2021  | Criação do Documento |1.0 
 | Kleidson Alves, Lucas Gabriel | 30/03/2021 | Revisão do Documento | 1.1
+| Hugo Bezerra, Gabriel Batalha | 27/04/2021 | Refatoração de Inspeção| 1.2|
