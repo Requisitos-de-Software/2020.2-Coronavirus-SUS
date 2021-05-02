@@ -13,7 +13,9 @@ A prototipação tem como finalidade demonstrar as ideias e as características 
 <div style="text-indent: 20px; text-align: justify">
 Como o protótipo permite mostrar a interface e o processo de interação já no inicio do processo de criação do sistema,  a equipe viu uma grande valia em gerar um protótipo para validação dos requisitos levantados e das modelagens feitas a partir deles.
 
-A fácil compreensão de um protótipo permite que todos os stakeholders consigam compreender a que ponto os requisitos levam o produto, sendo muito útil para saber se o produto irá atender as necessidades dos stakeholders.
+A fácil compreensão de um prótotipo permite que todos os stakeholders consigam compreender a que ponto os requisitos levam o produto, sendo muito útil para saber se o produto irá atender as necessidades dos stakeholders.
+
+Com o protótipo feito, a equipe fez a validação a partir de uma entrevista com os interessados. Houveram duas entrevistas. A primeira realizada com um estudante de Engenharia de Software da Universidade de Brasília, Luis Bruno Fidelis de 22 anos, morador de Brasília. A segunda foi realizada com a persona, Paulo Souza de Oliveira.
 </div>
 
 ### Resultado
