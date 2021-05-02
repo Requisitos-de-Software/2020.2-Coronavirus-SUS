@@ -42,3 +42,4 @@ Até o presente momento não houve resposta dos desenvolvedores do Coronavírus 
 | Autor     | Data       | Título     | Versão     |
 | :--------:| :--------: | :--------: | :--------: |
 |Hugo Bezerra, Lucas Rodrigues|06/04/2021|Criação do documento|1.0|
+|Lucas Gabriel |02/05/2021|Adicionando imagens|1.1|
