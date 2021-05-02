@@ -216,7 +216,7 @@
 <div style= "font-size:20px;"><p>Problemas</p></div>
 
 - O nome do sistema está escrito com letra minúscula
-- Os episódios não deixam claros se será compartilhado todas as notícias ou apenas uma]
+- Os episódios não deixam claros se será compartilhado todas as notícias ou apenas uma
 
 <div style= "font-size:20px;"><p>Soluções</p></div>
 
