@@ -12,29 +12,25 @@ A validação é uma técnica utilizada para certificar que os requisitos corres
 A Validação informal foi realizada por meio de um email enviado aos desenvolvedores do aplicativo, todos os integrantes da equipe decidiram juntos, em uma reunião online, que seria enviado um email aos desenvolvedores e após elaborado o texto do email novamente toda a equipe concordou com o texto formulado.
 </div>
 
-### Email enviado:
-
-<div style="padding: 5px 15px; background: #f8f8f8">
-
-Olá devs do aplicativo Coronavírus - SUS. <br>
-
-<p style="text-align: justify">
-
-Sou estudante do curso de Engenharia de Software na Universidade de Brasília e estou cursando a disciplina de Requisitos de Software. Estou entrando em contato em nome da minha equipe, pois durante o semestre foi necessário elaborar um projeto onde realizamos o processo de engenharia de requisitos tendo como base uma aplicação já existente.
-</p>
-
-<p style="text-align: justify">
-
-Devido ao contexto atual de pandemia e pela importante função que o aplicativo se propõe a desempenhar, escolhemos o Coronavírus - SUS como objeto de estudo esse semestre. Neste momento estamos na etapa de análise, realizando o processo de validação dos documentos. Estamos entrando em contato para pedir um feedback dos próprios desenvolvedores da aplicação sobre o nosso projeto até o momento. Ficaremos muito gratos se os devs do Coronavírus - SUS puderem nos ajudar com a validação do nosso projeto por meio desse feedback.
-</p>
-
-Toda a documentação do nosso projeto está na wiki que pode ser acessada clicando <a href="https://requisitos-de-software.github.io/2020.2-Coronavirus-SUS" target="_blank">aqui</a> ou por meio desse link:
-> https:<span>//requisitos-de-software<span>.github<span>.io/<span>2020.2-Coronavirus-SUS
-
-Muito obrigado pela atenção.
-</div>
-    
 ## Resultado 
+### Email enviado 06/04
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/validation/email1.png">
+</div>
+
+[Veja a imagem aqui](https://drive.google.com/file/d/1_8sTgimiDOhn2YHyPKQ37nFog5dPIF4D/view?usp=sharing)
+
+<br>
+
+### Email enviado 28/04
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/validation/email2.jpeg">
+</div>
+
+[Veja a imagem aqui](https://drive.google.com/file/d/15srWyxGEJaRVZNkGVuIh3p9aimS7EUol/view?usp=sharing)
+
+<br>
 
 Até o presente momento não houve resposta dos desenvolvedores do Coronavírus - SUS
 
