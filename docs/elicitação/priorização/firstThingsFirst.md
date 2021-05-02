@@ -14,15 +14,23 @@ A equipe se reuniu para construir a tabela de priorização, atribuindo os valor
 
 A equipe foi orientada pelos seguintes passos:
 
-- Passo 1: Liste todos os requisitos que deseja priorizar.
-- Passo 2: Estime o benefício relativo que cada funcionalidade fornece ao cliente ou ao negócio em uma escala de 1 a 9.
-- Passo 3: Estime a penalidade que o negócio sofreria se a funcionalidade não for incluída.
-- Passo 4: Preencha a coluna "Valor total". Ela é a soma do benefício relativo e a penalidade relativa 
-- Passo 5: Estime o custo relativo de implementação de cada funcionalidade, em uma escala de 1(baixo) para 9(alto).
-- Passo 6: Estime o grau relativo de risco para cada requisito em uma escala de 1 a 9
-- Passo 7: Calcule a prioridade para cada funcionalidade.  Prioridade = valor %/(custo % * peso do custo + risco% * peso do risco)
-- Passo 8: Ordene a lista de funcionalidades em ordem decrescente pela  ordem de prioridade
 </div>
+
+- Passo 1: Liste todos os requisitos que deseja priorizar  
+
+- Passo 2: Estime o benefício relativo que cada funcionalidade fornece ao cliente ou ao negócio em uma escala de 1 a 9  
+
+- Passo 3: Estime a penalidade que o negócio sofreria se a funcionalidade não for incluída  
+
+- Passo 4: Preencha a coluna "Valor total". Ela é a soma do benefício relativo e a penalidade relativa  
+
+- Passo 5: Estime o custo relativo de implementação de cada funcionalidade, em uma escala de 1(baixo) para 9(alto)  
+
+- Passo 6: Estime o grau relativo de risco para cada requisito em uma escala de 1 a 9  
+
+- Passo 7: Calcule a prioridade para cada funcionalidade.  Prioridade = valor% / ( custo% + risco% )  
+
+- Passo 8: Ordene a lista de funcionalidades em ordem decrescente pela  ordem de prioridade  
 
 
 ## Priorização dos Requisitos
