@@ -92,4 +92,4 @@ Reúne os requisitos que envolvem aspectos limitantes aos quais o sistema deve s
 | :--------:| :--------: | :--------: | :--------: |
 | Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021     | Criação do Documento | 1.0 
 | Hugo Bezerra | 19/03/2021     | Revisão | 1.1 
-| Gabriel Batalha, Hugo Bezerra  | 27/04/2021  |  Refatoração |1.2 
+| Gabriel Batalha, Hugo Bezerra  | 27/04/2021  |  Refatoração de Inspeção |1.2 

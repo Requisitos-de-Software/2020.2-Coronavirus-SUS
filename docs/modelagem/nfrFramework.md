@@ -197,4 +197,4 @@ Autores: Todos os integrantes
 | :--------:| :--------: | :--------: | :--------: |
 |Todos os integrantes  | 26/03/2021  | Criação do Documento |1.0 
 | Kleidson Alves, Lucas Gabriel | 30/03/2021 | Revisão do Documento | 1.1
-| Hugo Bezerra, Gabriel Batalha | 27/04/2021 | Refatoração| 1.2|
+| Hugo Bezerra, Gabriel Batalha | 27/04/2021 | Refatoração de Inspeção| 1.2|

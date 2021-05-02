@@ -196,4 +196,4 @@ Os resultados da reunião estão explicitados neste documento em formato de Léx
 | Lucas Gabriel, Kleidson Alves,<br>Lucas Rodrigues, Gabriel Batalha | 19/03/2021 | Criação do documento | 1.0 
 | Hugo Bezerra | 19/03/2021     | Revisão | 1.1 
 |Kleidson Alves| 30/03/2021 | Adição de um novo léxico| 1.2|
-| Hugo Bezerra, Gabriel Batalha | 27/04/2021| Refatoração| 1.3|
+| Hugo Bezerra, Gabriel Batalha | 27/04/2021| Refatoração de Inspeção| 1.3|

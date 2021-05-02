@@ -170,4 +170,4 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 | Hugo Bezerra, Lucas Gabriel | 20/03/2021     | Revisão| 1.2 |
 | Hugo Bezerra, Lucas Gabriel | 20/03/2021     | Adicionando imagens| 1.3 |
 | Lucas Gabriel | 30/03/2021     | Referência das imagens| 1.4 |
-| Hugo Bezerra, Gabriel Batalha | 27/04/2021 | Refatoração| 1.5 |
+| Hugo Bezerra, Gabriel Batalha | 27/04/2021 | Refatoração de Inspeção| 1.5 |

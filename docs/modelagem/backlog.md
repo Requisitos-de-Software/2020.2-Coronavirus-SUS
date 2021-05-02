@@ -151,4 +151,4 @@ Pelo fato de ser uma lista, o backlog facilita a visualização das histórias d
 | :--------:| :--------: | :--------: | :--------: |
 |Todos os integrantes  | 25/03/2021  | Criação do Documento |1.0 
 |Lucas Rodrigues  | 30/03/2021  |  Revisão |1.1 
-|Gabriel Batalha, Hugo Bezerra  | 27/04/2021  |  Refatoração |1.2 
+|Gabriel Batalha, Hugo Bezerra  | 27/04/2021  |  Refatoração de Inspeção |1.2 

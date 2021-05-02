@@ -163,4 +163,4 @@ A equipe decidiu utilizar essa técnica, pois permite um fácil entendimento do 
 | Todos os integrantes   | 16/03/2021 | Criação do Documento | 1.0 |
 | Hugo Bezerra   | 19/03/2021 | Revisão | 1.1 |
 | Hugo Bezerra, Lucas Gabriel   | 19/03/2021 | Refatoração da definição e adicionando referências bibliográficas | 1.1 |
-| Kleidson Alves, Lucas Gabriel, Lucas Rodrigues   | 27/04/2021 | Refatoração do documento | 1.2 |
+| Kleidson Alves, Lucas Gabriel, Lucas Rodrigues   | 27/04/2021 | Refatoração de Inspeção | 1.2 |
