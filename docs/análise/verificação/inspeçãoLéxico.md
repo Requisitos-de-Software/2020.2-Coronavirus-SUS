@@ -71,7 +71,7 @@
 <div style= "font-size:20px;"><p>Problemas</p></div>
 
 - O nome "Exposição" não é adequado para o Estado
-- o sinônimo de "Exposição" pode transmitir uma ideia errada em relação a sua noção
+- O sinônimo de "Exposição" pode transmitir uma ideia errada em relação a sua noção
 - O segundo impacto de "Exposição" apresentado não condiz com a realidade da aplicação
 
 <div style= "font-size:20px;"><p>Soluções</p></div>
