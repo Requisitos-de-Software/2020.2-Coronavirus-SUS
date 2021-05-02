@@ -25,7 +25,7 @@ A priorização dos requisitos foi feita a partir de uma chamada de voz com todo
 
 ## Priorização dos Requisitos
 <div style="text-indent: 40px; text-align: justify">
-Os requisitos presentes nesse documento podem ser encontrados na <a href="https://requisitos-de-software.github.io/2020.2-Coronavirus-SUS/elicitacao/requisitos/">lista de requisitos</a>.
+Os requisitos presentes nesse documento podem ser encontrados na <a href="https://requisitos-de-software.github.io/2020.2-Coronavirus-SUS/elicitação/requisitos/">lista de requisitos</a>.
 
 </div>
 
