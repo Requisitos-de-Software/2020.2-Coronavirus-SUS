@@ -20,7 +20,7 @@ Primeira versão de Rich Picture do Coronavírus - SUS, feita a mão.
 </div>
 
 <div style="display: flex; flex-direction:row; justify-content: space-between;">
-Autor: Kleidson Alves  <a href="https://drive.google.com/file/d/1P_qXq7YsOilnzcbsbET0lpVYAMk40uPM/view?usp=sharing">Veja a imagem aqui</a>
+Autor: Kleidson Alves  <a href="https://drive.google.com/file/d/1d2LsoxZyoZGLVq11kYY-KoY8fgkqEXIe/view?usp=sharing">Veja a imagem aqui</a>
 </div>
 
 ## Visão Geral 2.0

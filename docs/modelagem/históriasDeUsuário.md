@@ -185,4 +185,4 @@ Dessa forma, foram geradas histórias formatadas para se encaixarem no documento
 |Todos os integrantes  | 25/03/2021  | Criação do Documento |1.0 
 |Hugo Bezerra  | 30/03/2021  | Revisão |1.1
 |Todos os integrantes  | 08/04/2021  | Organização em tabela |1.2
-|Kleidson Alves, Lucas Gabriels,<br> Lucas Rodrigues|27/04/2021|Refatoração de Inspeção| 1.3
+|Kleidson Alves, Lucas Gabriel,<br> Lucas Rodrigues|27/04/2021|Refatoração de Inspeção| 1.3

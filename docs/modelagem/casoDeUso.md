@@ -116,7 +116,7 @@ Além disso, a equipe decidiu que utilizar a especificação do caso de uso seri
 
 <img width="800" src="https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-Coronavirus-SUS/devel/docs/assets/useCase/apresentarNotícias.png">
 
-[Veja a imagem aqui](https://drive.google.com/file/d/15QgBRbKztM60X9YVuXG7F_iaF54SVW8f/view?usp=sharing)
+[Veja a imagem aqui](https://drive.google.com/file/d/1H0ZCuau-8jYpbornfsqzyL8LfxFeqCji/view?usp=sharing)
 <br>
 
 |   UC05    | Informações |

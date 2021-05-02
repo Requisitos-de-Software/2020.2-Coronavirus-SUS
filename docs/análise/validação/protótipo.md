@@ -23,7 +23,7 @@ Com o protótipo feito, a equipe fez a validação a partir de uma entrevista co
 
 <div style="display: flex; flex-direction:row; justify-content: space-between;">
 
-Autor: Gabriel Batalha, Kleidson Alves, Lucas Gabriel  <a href="https://www.figma.com/file/2T5AXcLhAvR8SdxG0dY7p0/Coronavirus-SUS?node-id=2%3A3">Veja a imagem aqui</a>
+Autor: Gabriel Batalha, Kleidson Alves, Lucas Gabriel  <a href="https://www.figma.com/file/2T5AXcLhAvR8SdxG0dY7p0/Coronavirus-SUS?node-id=2%3A3">Veja o protótipo aqui</a>
 
 </div>
 ### Requisitos abordados pelo protótipo
